@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "52fd00f742569ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "19eaae9175ce46ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca10ce1ed93ba1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNA Extraction Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "619df9a10d9acf4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Repositories/GitHub Personal Access Token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "124d457e2769777c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Repositories/GitHub Personal Access Token.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a573534f8b593beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNA Extraction 5.30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aae2d0490fd4fd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNA Extraction 5.19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "494704b2caccb55c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e84529f97558b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34420fbdccfaf5db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "163c483417307229",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0c51d91b0e45f14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e900ecf120bc2646",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4d719e5c7aba5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bebcb716a4b73e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DNA Extraction 5.19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a09c0b96bb5f425e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DNA Extraction 5.19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7da65c3b67a3586",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0199773b84dfc6fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DNA Extraction 5.19.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aae2d0490fd4fd99",
+  "lastOpenFiles": [
+    "DNA Extraction 5.25.md",
+    "DNA Extraction 6.1.md",
+    "DNA Extraction 5.30.md",
+    "Weekly Tasks/May 29-June 2.md",
+    "Git Repositories/GitHub Personal Access Token.md",
+    "Coral Lab Notebook",
+    "Git Repositories/Untitled 1.md",
+    "DNA Extraction Protocol.md",
+    "Git Repositories",
+    "DNA Extraction 5.23.md",
+    "DNA Extraction 5.24.md",
+    "DNA Extraction 5.19.md",
+    "Weekly Tasks",
+    "Untitled/Untitled",
+    "Cora",
+    "DNA Extraction Notes.md"
+  ]
+}
