@@ -45,7 +45,7 @@ Reagents expressed in **bold** need a calculation from this document.
 
 1. Add 30µl of input DNA to the tube containing the Z μl of **MBD2-Fc-bound magnetic beads**. For other DNA input amounts, add DNA to (Y) μl of **MBD2-Fc bound magnetic beads**.
     
-2. Add 5µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times.
+2. Add 7.5 µl of **undiluted Bind/wash Buffer** (5X) for a final concentration of 1X. Pipette the sample up and down until the beads are completely homogenous, at least 5-10 times.
     
 3. Agitate the tube on a rotating mixer for 15 minutes at room temperature with rotation.
 4. Turn temp of shaking incubator to 65C
