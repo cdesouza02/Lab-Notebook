@@ -35,7 +35,7 @@ Reagents expressed in **bold** need a calculation from this document.
     
 11. Repeat steps 7–10.
     
-12. Remove the tube from the rack and add 160 μl of 1X Bind/wash Buffer (kept on ice) to resuspend the beads. For input amounts other than 1 μg, add (Y) μl of **1X Bind/wash Buffer** to resuspend the beads. Mix by pipetting up and down a few times.
+12. Remove the tube from the rack and add 1.6 ml of 1X Bind/wash Buffer (kept on ice) to resuspend the beads. For input amounts other than 1 μg, add (Y) μl of **1X Bind/wash Buffer** to resuspend the beads. Mix by pipetting up and down a few times.
     
 
 `The MBD2-Fc-bound magnetic beads are stable for up to 7 days at 4°C`
