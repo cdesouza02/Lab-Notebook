@@ -15,3 +15,25 @@ Read the M cavernosa paper
 
 Read Diversity of Coral Endosymbionts Paper 
 
+Sept 4-10
+Ask logan about linking github w/ obsidian
+finish up science scholars report
+
+Sept 11-17
+
+Sept 18-24
+
+Sept 25-1
+
+Oct 2-8
+
+Oct 9-15
+
+Oct 16-22
+
+Oct 23-29
+
+Oct 30-5
+
+Nov 6-12
+submit
