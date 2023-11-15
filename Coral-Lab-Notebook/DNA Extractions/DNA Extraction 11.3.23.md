@@ -7,8 +7,8 @@ Sample 1
 Sample 2
 	122021_Coralina_2021-Baya-037_PSTR
 	 0.1797 g
-	88.0 ng/ul
-	1.77 260/280
+	72.0 ng/ul
+	1.85 260/280
 
 Neg Control
 	3.9 ng/ul
