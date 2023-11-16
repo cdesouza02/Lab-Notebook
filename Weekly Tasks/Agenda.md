@@ -64,12 +64,14 @@ Organize DR samples for microbiome enrichment
 Dr. Fuess dinner 
 
 Nov 12-19 
-DR microbiome enrichments
+DR microbiome enrichments (MMEA & PSTR)
 Check in with Na and Sarah about WDHOF LOR
 Pick a research paper for lab to read
 
 Nov 19-25
 Read and annotate research article
+DR microbiome enrichments (MCAV)
+
 
 Nov 25-2
 
