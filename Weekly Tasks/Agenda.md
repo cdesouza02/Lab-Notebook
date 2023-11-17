@@ -49,28 +49,30 @@ Make sure everyone has signed honors proposal
 DIG Forms
 
 Oct 30-5
-Course registration Spring 2024
-WDHOF Scholarship questions
-Submit WDHOF app
-Finish DR DNA extractions
-DR MCAV DNA extractions
-DR PSTR DNA extractions
-Write honors fellowship
+- [x] Course registration Spring 2024
+- [x] WDHOF Scholarship questions
+- [x] Submit WDHOF app
+- [x] Finish DR DNA extractions
+ - [ ] DR MCAV DNA extractions
+- [x] DR PSTR DNA extractions
+- [x] Write honors fellowship
 
 Nov 6-12
-submit Honors fellowship App
-Help Felicia organize Panama Samples
-Organize DR samples for microbiome enrichment
-Dr. Fuess dinner 
+- [x] submit Honors fellowship App
+- [x] Help Felicia organize Panama Samples
+- [x] Organize DR samples for microbiome enrichment
+- [x] Dr. Fuess dinner 
 
 Nov 12-19 
 DR microbiome enrichments (MMEA & PSTR)
-Check in with Na and Sarah about WDHOF LOR
+- [x] Check in with Na and Sarah about WDHOF LOR
 Pick a research paper for lab to read
+
 
 Nov 19-25
 Read and annotate research article
 DR microbiome enrichments (MCAV)
+learn Qubit protocol (mon)
 
 
 Nov 25-2
