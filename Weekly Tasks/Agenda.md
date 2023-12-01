@@ -64,17 +64,26 @@ Nov 6-12
 - [x] Dr. Fuess dinner 
 
 Nov 12-19 
-DR microbiome enrichments (MMEA & PSTR)
+- [x] DR microbiome enrichments (MMEA & PSTR)
 - [x] Check in with Na and Sarah about WDHOF LOR
-Pick a research paper for lab to read
+- [x] Pick a research paper for lab to read
 
 
 Nov 19-25
-Read and annotate research article
-DR microbiome enrichments (MCAV)
-learn Qubit protocol (mon)
+- [ ] Read and annotate research article
+- [x] learn Qubit protocol (mon)
 
 
 Nov 25-2
+- [x] make a unity account
+- [ ] troubleshoot symportal
+- [ ] DR Microbiome enrichments MCAV
+- [ ] read and annotate Work 2021 research paper 
+- [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
+		help with organization of samples & entering data
+		making connections
+		see start to finish of project
+		decide if leaving early with Sarah 
+
 
 
