@@ -1,49 +1,34 @@
 Sample 1
 	122021_Coralina_Baya_003_MCAV  
 	Microbe
-	  ng/ul
-	   260/280
-	   qubit
+	  37.2 ng/ul qubit
 	Host 
-		ng/ul, 
-		260/280
+		1.63 ng/ul
 	  
 Sample 2
 	122021_Coralina_Baya_005_MCAV 
 	Microbe
-	   ng/ul
-	   260/280
-	   qubit
+	  24.8 ng/ul qubit
 	Host 
-		ng/ul, 
-		260/280
+		0.396 ng/ul
 	  
 Sample 3
 	122021_Coralina_Baya_007_MCAV  
 	Microbe
-	   ng/ul
-	   260/280
-	   qubit
+	   5.94 ng/ul qubit
 	Host 
-		ng/ul, 
-		260/280
+		0.298 ng/ul
 	 
 Sample 4
 	122021_Coralina_Baya_017_MCAV
 	Microbe
-	   ng/ul
-	   260/280
-	   qubit
+	  14.4  ng/ul qubit
 	Host 
-		ng/ul, 
-		260/280
+		1.04 ng/ul
 		
 Sample 5
 	122021_Coralina_Baya_023_MCAV 
 	Microbe
-	   ng/ul
-	   260/280
-	   qubit
+	   14.9 ng/ul qubit
 	Host 
-		ng/ul, 
-		260/280
+		0.146 ng/ul, 
