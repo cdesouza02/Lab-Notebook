@@ -79,6 +79,15 @@ Nov 25-2
 - [ ] troubleshoot symportal
 - [ ] DR Microbiome enrichments MCAV
 - [ ] read and annotate Work 2021 research paper 
+
+Jan 8-13
+- [x] report Symportal error on github
+- [x] try to run symportal on mac 
+- [x] on unity
+- [ ] R course
+- [ ] fill out NIH MYidp 
+
+
 - [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
 		help with organization of samples & entering data
 		making connections
