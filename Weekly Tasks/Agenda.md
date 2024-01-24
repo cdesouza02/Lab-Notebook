@@ -87,6 +87,14 @@ Jan 8-13
 - [ ] R course
 - [ ] fill out NIH MYidp 
 
+Jan 15-20
+
+Jan 22-26
+- [ ] learn PCR protocol
+- [ ] Symportal 
+- [ ] Coral meeting?
+- [ ] 
+
 
 - [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
 		help with organization of samples & entering data
