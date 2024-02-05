@@ -90,10 +90,20 @@ Jan 8-13
 Jan 15-20
 
 Jan 22-26
-- [ ] learn PCR protocol
-- [ ] Symportal 
-- [ ] Coral meeting?
+- [x] learn PCR protocol
+- [x] Symportal 
+- [x] Coral meeting?
 - [ ] 
+
+Jan 29-Feb 2
+- [x] set up meeting with Na 
+- [x] meet with Sarah about marine bio opportunities
+- [x] have meeting with Na (Fri)
+- [x] R course
+- [ ] Symportal trouble shooting
+- [x] headshots (Fri)
+- [x] dinner with Jade (Thurs)
+
 
 
 - [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
