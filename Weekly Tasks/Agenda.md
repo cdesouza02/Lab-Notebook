@@ -105,12 +105,21 @@ Jan 29-Feb 2
 - [x] dinner with Jade (Thurs)
 
 
+Feb 5-9
+- [x] meeting with Katie
+- [x] Dinner with Katie
+- [ ] book san andreas basic dive training
+- [ ] qubit previously extracted samples
+- [ ] DR microbiome enrichments
+- [ ] variance and SD code academy
+
+
 
 - [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
 		help with organization of samples & entering data
 		making connections
 		see start to finish of project
-		decide if leaving early with Sarah 
+		
 
 
 
