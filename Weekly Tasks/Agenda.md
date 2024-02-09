@@ -100,7 +100,7 @@ Jan 29-Feb 2
 - [x] meet with Sarah about marine bio opportunities
 - [x] have meeting with Na (Fri)
 - [x] R course
-- [ ] Symportal trouble shooting
+- [x] Symportal trouble shooting
 - [x] headshots (Fri)
 - [x] dinner with Jade (Thurs)
 
@@ -109,9 +109,9 @@ Feb 5-9
 - [x] meeting with Katie
 - [x] Dinner with Katie
 - [ ] book san andreas basic dive training
-- [ ] qubit previously extracted samples
+- [x] qubit previously extracted samples
 - [ ] DR microbiome enrichments
-- [ ] variance and SD code academy
+- [x] variance and SD code academy
 
 
 
