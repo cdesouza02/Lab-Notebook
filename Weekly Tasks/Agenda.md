@@ -76,7 +76,7 @@ Nov 19-25
 
 Nov 25-2
 - [x] make a unity account
-- [ ] troubleshoot symportal
+- [x] troubleshoot symportal
 - [ ] DR Microbiome enrichments MCAV
 - [ ] read and annotate Work 2021 research paper 
 
@@ -112,6 +112,7 @@ Feb 5-9
 - [x] qubit previously extracted samples
 - [ ] DR microbiome enrichments
 - [x] variance and SD code academy
+- [x] hypothesis testing code academy
 
 
 
