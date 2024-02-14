@@ -114,6 +114,12 @@ Feb 5-9
 - [x] variance and SD code academy
 - [x] hypothesis testing code academy
 
+Feb 12-17
+- [ ] email brad
+- [ ] check out research economist position
+- [ ] PCR protocol
+- [ ] Microbiome enrichment
+
 
 
 - [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
