@@ -1,4 +1,4 @@
-=This protocol uses the Omega Bio-Tek E.Z.N.A. Soil kit. This is the link:
+This protocol uses the Omega Bio-Tek E.Z.N.A. Soil kit. This is the link:
 
 [https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols](https://www.omegabiotek.com/product/soil-dna-extraction-kit-e-z-n-a-soil-dna-kit/?cn-reloaded=1#protocols)
 
@@ -25,6 +25,7 @@ _The disruptor tube is faster, but you cannot put the sample back if you get too
 4.  Add 72 µL DS buffer to each sample. Incubate at 70 degrees for 5 minutes.
     
 5.  Vortex samples briefly.
+6. 
     
 6.  Incubate for another 5 minutes at 70 degrees.
     
