@@ -7,7 +7,6 @@ Otherwise, follow these steps for coral DNA  extraction.
 ### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#preparation)Preparation
 
 -   Heat a heating block/incubator to 70 ◦C, no shaking, put Elution buffer in
--   Heat another incubator to 56 ˚C, light shaking
 -   Make sure your P2 buffer is chilled
 -   UV Sterilize 3 x # of samples in 1.5 mL Eppendorf tubes 
 -   Make sure HBC buffer and wash buffer are correctly diluted with appropriate chemicals
