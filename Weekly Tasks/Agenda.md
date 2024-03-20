@@ -115,17 +115,60 @@ Feb 5-9
 - [x] hypothesis testing code academy
 
 Feb 12-17
-- [ ] email brad
-- [ ] check out research economist position
-- [ ] PCR protocol
-- [ ] Microbiome enrichment
+- [x] email brad
+- [x] check out research economist position
+- [x] PCR protocol
+- [x] Microbiome enrichment
 
+Feb 19-23
+- [x] Brad to come into lab and copy ID's
+- [x] pack for San Andres
+- [x] buy dive gear
+- [x] pay Blue Life
+- [x] Leon 16S protocol
 
-
-- [ ] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
+- [x] Spring break Feb 27-Mar 10- first sampling of coral from san andrea
 		help with organization of samples & entering data
 		making connections
 		see start to finish of project
+
+Mar 11-15
+- [ ] Post field trip lab meeting
+- [ ] Start intro/conclusion on presentation
+- [ ] email Julian about honors fellowship
+- [ ] Organize PAN_Colony Data for health status
+
+
+Mar 18-22
+- [ ] 2nd PCR on Leon samples (MON)
+- [ ] BEACHES APP, finalize resume 
+- [ ] write Intro for Honors thesis 
+- [ ] Start conclusion for Honors Thesis 
+- [ ] Compare PAN photos to Colony Data to fill in gaps
+- [ ] learn analysis for health status 
+- [ ] email WDHOF about reciepts
+- [ ] download jupytr
+- [x] install R and R Studio
+
+Mar 23-24
+- [ ] analyze STRI, Juan Point, Crawl Cay
+- [ ] Bar graph in R (Vegan and GG Plots check brooke Github for code)
+
+Mar 25-29
+- [ ] Check in with Christian for bleaching diagram
+- [ ] add data to presentation
+
+Apr 1-5
+- [ ] email Julian about setting up a presentation day
+- [ ] figure out title of presentations 
+- [ ] Practice presentation at home
+- [ ] Practice presentation at lab meeting (FRI)
+
+Apr 8-12
+- [ ] use presentation notes to write analysis of honors thesis
+- [ ] 
+
+
 		
 
 
