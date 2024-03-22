@@ -160,6 +160,8 @@ Mar 18-22
 Mar 23-24
 - [ ] analyze STRI, Juan Point, Crawl Cay
 - [ ] Bar graph in R (Vegan and GG Plots check brooke Github for code)
+- [ ] Fellowship write-up
+	- [ ] present Thurs Apr 18th (ask Sarah to confirm with her schedule)
 
 Mar 25-29
 - [ ] Check in with Christian for bleaching diagram
