@@ -140,15 +140,21 @@ Mar 11-15
 
 
 Mar 18-22
-- [ ] 2nd PCR on Leon samples (MON)
-- [ ] BEACHES APP, finalize resume 
-- [ ] write Intro for Honors thesis 
-- [ ] Start conclusion for Honors Thesis 
-- [ ] Compare PAN photos to Colony Data to fill in gaps
+- [x] 2nd PCR on Leon samples (MON)
+- [x] BEACHES APP, finalize resume 
+- [x] write Intro for Honors thesis 
+- [x] Start conclusion for Honors Thesis 
+- [x] Compare PAN photos to Colony Data to fill in gaps
 - [ ] learn analysis for health status 
-- [ ] email WDHOF about reciepts
-- [ ] download jupytr
+	- [ ] meet with brooke to go over her code (WED)
+- [x] email WDHOF about reciepts
+- [x] download jupytr
 - [x] install R and R Studio
+- [x] Ask sarah about contacting someone re brooke not making my presentation
+- [x] ask sarah about PAN T1 16(paling vs bleaching), 25(paling vs bleaching), T2 33 (doesn't look healthy to me), T3 78 (40% CLB)
+	- [ ] T3_091 is not on colony data sheet
+- [ ] Ask felicia about PAN some T2 and T3 photos, can't see tags in any pics 
+	- [ ] T2_PAST_35
 
 Mar 23-24
 - [ ] analyze STRI, Juan Point, Crawl Cay
