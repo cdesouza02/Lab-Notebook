@@ -133,10 +133,10 @@ Feb 19-23
 		see start to finish of project
 
 Mar 11-15
-- [ ] Post field trip lab meeting
-- [ ] Start intro/conclusion on presentation
-- [ ] email Julian about honors fellowship
-- [ ] Organize PAN_Colony Data for health status
+- [x] Post field trip lab meeting
+- [x] Start intro/conclusion on presentation
+- [x] email Julian about honors fellowship
+- [x] Organize PAN_Colony Data for health status
 
 
 Mar 18-22
@@ -146,7 +146,7 @@ Mar 18-22
 - [x] Start conclusion for Honors Thesis 
 - [x] Compare PAN photos to Colony Data to fill in gaps
 - [ ] learn analysis for health status 
-	- [ ] meet with brooke to go over her code (WED)
+	- [x] meet with brooke to go over her code (WED)
 - [x] email WDHOF about reciepts
 - [x] download jupytr
 - [x] install R and R Studio
@@ -155,6 +155,7 @@ Mar 18-22
 	- [ ] T3_091 is not on colony data sheet
 - [ ] Ask felicia about PAN some T2 and T3 photos, can't see tags in any pics 
 	- [ ] T2_PAST_35
+- [x] Make Coral_Code a Git Repo
 
 Mar 23-24
 - [ ] analyze STRI, Juan Point, Crawl Cay
