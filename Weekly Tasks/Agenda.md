@@ -158,17 +158,19 @@ Mar 18-22
 - [x] Make Coral_Code a Git Repo
 
 Mar 23-24
-- [ ] analyze STRI, Juan Point, Crawl Cay
-- [ ] Bar graph in R (Vegan and GG Plots check brooke Github for code)
-- [ ] Fellowship write-up
-	- [ ] present Thurs Apr 18th (ask Sarah to confirm with her schedule)
+- [x] Fellowship sign-up
+	- [x] present Thurs Apr 18th (ask Sarah to confirm with her schedule)
 
 Mar 25-29
+- [ ] analyze STRI, Juan Point, Crawl Cay
+	- [ ] TRY UNITY????
+- [ ] Bar graph in R (Vegan and GG Plots check brooke Github for code)
 - [ ] Check in with Christian for bleaching diagram
-- [ ] add data to presentation
+
 
 Apr 1-5
 - [ ] email Julian about setting up a presentation day
+- [ ] add data to presentation
 - [ ] figure out title of presentations 
 - [ ] Practice presentation at home
 - [ ] Practice presentation at lab meeting (FRI)
