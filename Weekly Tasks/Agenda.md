@@ -162,16 +162,16 @@ Mar 23-24
 	- [x] present Thurs Apr 18th (ask Sarah to confirm with her schedule)
 
 Mar 25-29
-- [ ] analyze STRI, Juan Point, Crawl Cay
+- [x] analyze STRI, Juan Point, Crawl Cay
 	- [ ] TRY UNITY????
-- [ ] Bar graph in R (Vegan and GG Plots check brooke Github for code)
-- [ ] Check in with Christian for bleaching diagram
+- [x] Bar graph in R (Vegan and GG Plots check brooke Github for code)
+- [x] Check in with Christian for bleaching diagram
 
 
 Apr 1-5
-- [ ] email Julian about setting up a presentation day
-- [ ] add data to presentation
-- [ ] figure out title of presentations 
+- [x] email Julian about setting up a presentation day
+- [x] add data to presentation
+- [x] figure out title of presentations 
 - [ ] Practice presentation at home
 - [ ] Practice presentation at lab meeting (FRI)
 
