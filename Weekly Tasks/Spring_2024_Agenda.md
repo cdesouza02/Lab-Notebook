@@ -176,8 +176,26 @@ Apr 1-5
 - [ ] Practice presentation at lab meeting (FRI)
 
 Apr 8-12
-- [ ] use presentation notes to write analysis of honors thesis
-- [ ] 
+- [x] use presentation notes to write analysis of honors thesis
+
+Apr 15-19
+- [x] practice bleaching presentation
+- [x] write second draft for thesis 
+- [x] redo presentation figures
+- [x] presentation for honors fellowship South Campus, Thursday
+
+Apr 22-26
+- [x] Practice presentation without notes
+- [x] presentation to bio dept Wednesday
+- [x] Send sarah 2nd thesis draft
+- [x] redo figures
+- [x] third thesis draft
+- [x] Send third draft to sarah
+
+
+Apr 29-May 3
+- [ ] Work through Leon's samples
+- [ ] final edits on thesis, submit to Rae
 
 
 		
