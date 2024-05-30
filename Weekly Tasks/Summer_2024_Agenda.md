@@ -9,27 +9,33 @@ May 6- May 10
 - [x] send post info to julian
 
 May 29-31
-- [ ] sign up for dive e training 
+- [x] sign up for dive e training 
 - [x] hiring process
 - [x] send out matt and leons samples to sequencing 
 - [x] fill out Genohub sequencing sheet 
 - [x] email Ted about logging into e training
-- [ ] read NSF Rapid
+- [x] read NSF Rapid
 - [x] read BEACHES info packet
-- [ ] look into renting a suit, hood, and gloves from undersea divers, send invoice to Sarah
+- [ ] look into renting a suit, hood, and gloves from undersea divers, and invoice
 - [ ] following conda tutorial on computer and unity
+- [ ] drain the bleach and wash waste 
 
-June 10
+June 2-7
+- [ ] Northeastern Workshop 2-5
+- [ ] Complete AAUS dive E-training 6-7
+
+June 10-15
 - [ ] talk to AAUS peers to see how they are finishing the dives for AAUS 
 
-June 17
+June 17-21
 - [ ] plan CORDAP samples (send all together before panama)
 - [ ] review DR samples, make sure all microbial dna is enriched and cleaned 
+- [ ] check in with jen and branae hr direct 
 
 July
 - [ ] inventory and organize lab
 - [ ] inventory system 
-- [ ] work with Felicia, get ready for Panama
+- [ ] work with Felicia to get ready for Panama
 
 Focus
 CORDAP
