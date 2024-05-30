@@ -8,11 +8,37 @@ May 6- May 10
 - [x] email Rae about honors thesis 
 - [x] send post info to julian
 
+May 29-31
+- [ ] sign up for dive e training 
+- [x] hiring process
+- [x] send out matt and leons samples to sequencing 
+- [x] fill out Genohub sequencing sheet 
+- [x] email Ted about logging into e training
+- [ ] read NSF Rapid
+- [x] read BEACHES info packet
+- [ ] look into renting a suit, hood, and gloves from undersea divers, send invoice to Sarah
+- [ ] following conda tutorial on computer and unity
 
-The Fall of 2023 saw unprecedented high marine temperatures in the Caribbean Sea which caused a massive bleaching event in the region.
+June 10
+- [ ] talk to AAUS peers to see how they are finishing the dives for AAUS 
 
-Coral bleaching occurs because the coral microbiome changes with increases in oceanic temperatures. Coral polyps live symbiotically with algae and when the temperature increases these algae are rapidly expelled from the coral tissue, leaving a white coral skeleton. 
+June 17
+- [ ] plan CORDAP samples (send all together before panama)
+- [ ] review DR samples, make sure all microbial dna is enriched and cleaned 
 
-The tissue can recover provided the temperature goes back down and photo symbionts return to the reef, however, recovery may take weeks to months. If the photo symbionts do not return, corals are subject to death. Upon their death, coral skeletons will be eventually covered by filamentous algae which does not contribute to the symbiotic relationship.
+July
+- [ ] inventory and organize lab
+- [ ] inventory system 
+- [ ] work with Felicia, get ready for Panama
 
-The GW lab observed the detrimental effects of bleaching in collaboration with the Smithsonian Tropical Research Institute in Bocas del Toro Panama.
+Focus
+CORDAP
+- [ ] DNA extractions
+Extraction on currently healthy samples at el Arbol (June)
+- [ ] enrichment
+
+CBC- diversity supplement
+- [ ] NSF Rapid- read today 
+- [ ] 16S library prep
+- [ ] ITS2
+- [ ] PSBA
