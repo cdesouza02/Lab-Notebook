@@ -18,7 +18,8 @@ May 29-31
 - [x] read BEACHES info packet
 - [ ] look into renting a suit, hood, and gloves from undersea divers, and invoice
 - [ ] following conda tutorial on computer and unity
-- [ ] drain the bleach and wash waste 
+- [x] drain the bleach and wash waste 
+- [ ] neutralize NaOH solution
 
 June 2-7
 - [ ] Northeastern Workshop 2-5
