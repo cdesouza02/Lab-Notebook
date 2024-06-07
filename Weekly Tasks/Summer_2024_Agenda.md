@@ -22,8 +22,10 @@ May 29-31
 - [ ] neutralize NaOH solution
 
 June 2-7
-- [ ] Northeastern Workshop 2-5
-- [ ] Complete AAUS dive E-training 6-7
+- [x] Northeastern Workshop 2-5
+- [x] Complete AAUS dive E-training
+- [x] AAUS Final exam
+- [ ] Complete DAN FA Pro training 
 
 June 10-15
 - [ ] talk to AAUS peers to see how they are finishing the dives for AAUS 
