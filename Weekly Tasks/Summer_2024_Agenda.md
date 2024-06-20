@@ -34,13 +34,18 @@ June 10-15
 June 17-21
 - [ ] plan CORDAP samples (send all together before panama)
 - [ ] review DR samples, make sure all microbial dna is enriched and cleaned 
-- [ ] check in with jen and branae hr direct 
+- [x] check in with jen and branae hr direct 
 - [x] Set up uml faclty email
 - [x] Late pay period form
 - [x] research full wetsuit for panama- send felicia link to buy on bank card
-- [ ] BEACHES W2
-- [ ] 5 copies of basement key
+- [x] ask undersea about what sizes will fit me/ order through them
+- [x] BEACHES W2
+- [ ] **5 copies of basement key**
 - [x] exchange the computer in regulator 2 for the one in reg 3 (blue coolers in basement)
+- [x] find a paper for the PROPEL mentee to read- send to brooke 
+- [ ] **create new account for STRI on boarding**
+- [x] log AAUS dives 
+- [x] send Ted email of home address
 
 July
 - [ ] inventory and organize lab
