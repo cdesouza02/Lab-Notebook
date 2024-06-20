@@ -29,11 +29,18 @@ June 2-7
 
 June 10-15
 - [ ] talk to AAUS peers to see how they are finishing the dives for AAUS 
+- [ ] AAUS training Gloucster 
 
 June 17-21
 - [ ] plan CORDAP samples (send all together before panama)
 - [ ] review DR samples, make sure all microbial dna is enriched and cleaned 
 - [ ] check in with jen and branae hr direct 
+- [x] Set up uml faclty email
+- [x] Late pay period form
+- [x] research full wetsuit for panama- send felicia link to buy on bank card
+- [ ] BEACHES W2
+- [ ] 5 copies of basement key
+- [x] exchange the computer in regulator 2 for the one in reg 3 (blue coolers in basement)
 
 July
 - [ ] inventory and organize lab
