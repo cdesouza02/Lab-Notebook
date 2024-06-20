@@ -29,10 +29,10 @@ June 2-7
 
 June 10-15
 - [ ] talk to AAUS peers to see how they are finishing the dives for AAUS 
-- [ ] AAUS training Gloucster 
+- [ ] AAUS training Gloucester 
 
 June 17-21
-- [ ] plan CORDAP samples (send all together before panama)
+- [x] plan CORDAP samples (send all together before panama)
 - [ ] review DR samples, make sure all microbial dna is enriched and cleaned 
 - [x] check in with jen and branae hr direct 
 - [x] Set up uml faclty email
