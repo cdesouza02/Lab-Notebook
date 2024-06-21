@@ -40,26 +40,53 @@ June 17-21
 - [x] research full wetsuit for panama- send felicia link to buy on bank card
 - [x] ask undersea about what sizes will fit me/ order through them
 - [x] BEACHES W2
-- [ ] **5 copies of basement key**
+- [x] **5 copies of basement key**, sent key request to facilities
 - [x] exchange the computer in regulator 2 for the one in reg 3 (blue coolers in basement)
 - [x] find a paper for the PROPEL mentee to read- send to brooke 
 - [ ] **create new account for STRI on boarding**
 - [x] log AAUS dives 
 - [x] send Ted email of home address
 
-July
-- [ ] inventory and organize lab
-- [ ] inventory system 
-- [ ] work with Felicia to get ready for Panama
-
-Focus
+**LAB WORK FOCUS**
 CORDAP
-- [ ] DNA extractions
-Extraction on currently healthy samples at el Arbol (June)
-- [ ] enrichment
+- DNA extractions
+	- Extraction on currently healthy samples at el Arbol (June)
+	- enrichment
 
 CBC- diversity supplement
-- [ ] NSF Rapid- read today 
-- [ ] 16S library prep
-- [ ] ITS2
-- [ ] PSBA
+-  NSF Rapid- read today 
+- 16S library prep
+- ITS2
+- PSBA
+
+
+June 24-28
+- [ ] CORDAP DNA extractions!!
+- [ ] 5 OFAV (Mon)
+- [ ] 5 PSTR (Tues)
+- [ ] 9 MCAV (Wed)
+- [ ] 8 DLAB (Thurs)
+
+
+July 1-5
+- [ ] Rescue Training in Salem (Mon)
+- [ ] 12th AAUS diving (mon, tues, or wed??)
+- [ ] Check in about Reg 2, inflator hose
+
+July 8-9
+- [ ] Panama Prep with Felicia!!
+- [ ] Pack BC 2, Reg 3
+
+
+July 10-19
+- [ ] Plane leaves for Panama @ 8:47 am
+- [ ] Arrives back in Logan Friday July 19 @ 7:35 pm
+
+July 22- 26
+- [ ] Select paper for lab discussion
+
+July 29- Aug 2
+- [ ] Send out paper with discussion questions
+August 5- 10
+- [ ] brush up on annotations of paper 
+
