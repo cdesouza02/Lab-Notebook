@@ -25,11 +25,11 @@ June 2-7
 - [x] Northeastern Workshop 2-5
 - [x] Complete AAUS dive E-training
 - [x] AAUS Final exam
-- [ ] Complete DAN FA Pro training 
+- [x] Complete DAN FA Pro training 
 
 June 10-15
-- [ ] talk to AAUS peers to see how they are finishing the dives for AAUS 
-- [ ] AAUS training Gloucester 
+- [x] talk to AAUS peers to see how they are finishing the dives for AAUS 
+- [x] AAUS training Gloucester 
 
 June 17-21
 - [x] plan CORDAP samples (send all together before panama)
@@ -39,6 +39,7 @@ June 17-21
 - [x] Late pay period form
 - [x] research full wetsuit for panama- send felicia link to buy on bank card
 - [x] ask undersea about what sizes will fit me/ order through them
+- [x] GMS AAUS proficiency dives
 - [x] BEACHES W2
 - [x] **5 copies of basement key**, sent key request to facilities
 - [x] exchange the computer in regulator 2 for the one in reg 3 (blue coolers in basement)
@@ -62,8 +63,8 @@ CBC- diversity supplement
 
 June 24-28
 - [ ] CORDAP DNA extractions!!
-- [ ] 5 OFAV (Mon)
-- [ ] 5 PSTR (Tues)
+- [ ] 5 PSTR (Mon)
+- [ ] 5? 6? OFAV (Tues)
 - [ ] 9 MCAV (Wed)
 - [ ] 8 DLAB (Thurs)
 

@@ -31,7 +31,9 @@
 | 21         | OFAV    | healthy                    | 139            |
 | 23         | OFAV    | healthy                    | 141            |
 
-5 OFAV
+5? 6? OFAV
 5 PSTR
 9 MCAV
 8 DLAB
+
+Narwhal_B22, samples have been organized 
