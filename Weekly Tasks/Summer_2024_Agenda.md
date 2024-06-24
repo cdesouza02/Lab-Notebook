@@ -65,19 +65,33 @@ CBC- diversity supplement
 June 24-28
 - [ ] CORDAP DNA extractions!!
 - [ ] 5 PSTR (Mon)
-- [ ] 5? 6? OFAV (Tues)
-- [ ] 9 MCAV (Wed)
-- [ ] 8 DLAB (Thurs)
-
+- [ ] **CORDAP meeting** 
+	- Felicia and I to go 
+	- Sept 21-28th for spawning 
+	- continue Oct 8 for larval rearing in lab 
+- [x] email elvira and juliana (DLAB, OFAV)
+- [ ] set up SAN_CORDAP github repo (Tues)
+	- copy SAN colony and sample data, make updates to colony
+- [ ] 9 MCAV  (Wed)
+- [ ] 8 DLAB 5 OFAV (Fri)
+- [ ] **MEETING WITH SARAH**
+	- When lo-bind tubes arrive, transfer DNA extraction products to those
+		 DO NOT DO ENRICHMENTS UNTIL THOSE ARRIVE
+	- copy SAN_Colony and SAN_Sample and metagenomics tracker into SAN_CORDAP
+	- compass buy??
+	- schedule for meals in Panama 
 
 July 1-5
 - [ ] Rescue Training in Salem (Mon)
 - [ ] 12th AAUS diving (mon, tues, or wed??)
 - [ ] Check in about Reg 2, inflator hose
+- [ ] DNA enrichments
 
 July 8-9
 - [ ] Panama Prep with Felicia!!
 - [ ] Pack BC 2, Reg 3
+- [ ] preferentially choose 5 mcav and pstrs that have bleached and recovered a dive for microfragging
+
 
 
 July 10-19
