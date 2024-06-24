@@ -33,7 +33,7 @@ June 10-15
 
 June 17-21
 - [x] plan CORDAP samples (send all together before panama)
-- [ ] review DR samples, make sure all microbial dna is enriched and cleaned 
+- [x] review DR samples, make sure all microbial dna is enriched and cleaned 
 - [x] check in with jen and branae hr direct 
 - [x] Set up uml faclty email
 - [x] Late pay period form
@@ -47,6 +47,7 @@ June 17-21
 - [ ] **create new account for STRI on boarding**
 - [x] log AAUS dives 
 - [x] send Ted email of home address
+- [x] CORDAP DNA extraction prep
 
 **LAB WORK FOCUS**
 CORDAP
