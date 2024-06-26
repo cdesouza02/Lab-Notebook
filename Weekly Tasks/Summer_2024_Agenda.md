@@ -44,7 +44,7 @@ June 17-21
 - [x] **5 copies of basement key**, sent key request to facilities
 - [x] exchange the computer in regulator 2 for the one in reg 3 (blue coolers in basement)
 - [x] find a paper for the PROPEL mentee to read- send to brooke 
-- [ ] **create new account for STRI on boarding**
+- [x] **create new account for STRI on boarding**
 - [x] log AAUS dives 
 - [x] send Ted email of home address
 - [x] CORDAP DNA extraction prep
@@ -64,16 +64,22 @@ CBC- diversity supplement
 
 June 24-28
 - [ ] CORDAP DNA extractions!!
-- [ ] 5 PSTR (Mon)
+- [x] 5 PSTR (Mon)
+**Problems with PSTR- missing tag 1 in colony data, and missing 7 and 62 on June transect assemest** 
 - [ ] **CORDAP meeting** 
 	- Felicia and I to go 
 	- Sept 21-28th for spawning 
 	- continue Oct 8 for larval rearing in lab 
 - [x] email elvira and juliana (DLAB, OFAV)
-- [ ] set up SAN_CORDAP github repo (Tues)
+- [x] mail oysert ORCS to SERC
+	- [x] oyster 16S samples to Ruth DiMaria 647 Contees Wharf Road Edgewater MD 21037. 
+- [ ] update SAN_CORDAP github repo (Tues)
 	- copy SAN colony and sample data, make updates to colony
+	- [x] -send github link to Blake, share with valeria, elvira, and juliana 
+- [ ] Read two Panama grant proposals (Harper)
 - [ ] 9 MCAV  (Wed)
-- [ ] 8 DLAB 5 OFAV (Fri)
+- [ ] 5 OFAV (Thurs 8am-1pm)
+- [ ] 8 DLAB (Fri)
 - [ ] **MEETING WITH SARAH**
 	- When lo-bind tubes arrive, transfer DNA extraction products to those
 		 DO NOT DO ENRICHMENTS UNTIL THOSE ARRIVE
