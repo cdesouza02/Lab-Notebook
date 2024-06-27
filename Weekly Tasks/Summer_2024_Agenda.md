@@ -77,8 +77,9 @@ June 24-28
 	- copy SAN colony and sample data, make updates to colony
 	- [x] -send github link to Blake, share with valeria, elvira, and juliana 
 - [ ] Read two Panama grant proposals (Harper)
-- [ ] 9 MCAV  (Wed)
-- [ ] 5 OFAV (Thurs 8am-1pm)
+- [x] 9 MCAV  (Wed)
+- [x] 5 OFAV (Thurs 8am-1pm)
+- [x] meeting with Savanna PROPEL
 - [ ] 8 DLAB (Fri)
 - [ ] **MEETING WITH SARAH**
 	- When lo-bind tubes arrive, transfer DNA extraction products to those
