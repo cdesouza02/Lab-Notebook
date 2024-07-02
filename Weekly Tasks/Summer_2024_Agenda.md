@@ -80,13 +80,20 @@ June 24-28
 - [x] 9 MCAV  (Wed)
 - [x] 5 OFAV (Thurs 8am-1pm)
 - [x] meeting with Savanna PROPEL
-- [ ] 8 DLAB (Fri)
+- [x] 8 DLAB (Fri)
 - [ ] **MEETING WITH SARAH**
 	- When lo-bind tubes arrive, transfer DNA extraction products to those
 		 DO NOT DO ENRICHMENTS UNTIL THOSE ARRIVE
 	- copy SAN_Colony and SAN_Sample and metagenomics tracker into SAN_CORDAP
-	- compass buy??
+	- compass buy?? (small for clipboard)
 	- schedule for meals in Panama 
+
+**** Panama/Colombia Meeting with Sarah and Felicia** **June 28th**** 
+- [ ] arriving in COL before 21st, but we also have to do the probiotic samples 
+	- [ ] troubleshoot mucus sampling
+	- [ ] EXPERIMENT pull two mucus samples, filter one and send both to blake see which samples do better 
+	- [ ] No need to resample every coral, but when taking mucus samples can resample the corals 
+- [ ] schedule some day dives 26-28th
 
 July 1-5
 - [ ] Rescue Training in Salem (Mon)
@@ -96,8 +103,16 @@ July 1-5
 
 July 8-9
 - [ ] Panama Prep with Felicia!!
+- [ ] Packing (Mon)
+- [ ] Sea of Change video 
+	- [ ] videos of fish, videos of sampling, everyone in the water (giant strides?)
+- [ ] Savanna to fill tubes of RNA later
+- [ ] tough tags (2-3 hrs)
+	- [ ] look at each transect, how many corals in each transect, two labels per coral
+	- [ ] give a margin for new corals spotted, extra 16-20 per transect 
 - [ ] Pack BC 2, Reg 3
 - [ ] preferentially choose 5 mcav and pstrs that have bleached and recovered a dive for microfragging
+- [ ] electronic lab notebook (shared)
 
 
 
