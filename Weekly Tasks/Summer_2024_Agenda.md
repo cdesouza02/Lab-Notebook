@@ -73,7 +73,7 @@ June 24-28
 - [x] email elvira and juliana (DLAB, OFAV)
 - [x] mail oysert ORCS to SERC
 	- [x] oyster 16S samples to Ruth DiMaria 647 Contees Wharf Road Edgewater MD 21037. 
-- [ ] update SAN_CORDAP github repo (Tues)
+- [x] update SAN_CORDAP github repo (Tues)
 	- copy SAN colony and sample data, make updates to colony
 	- [x] -send github link to Blake, share with valeria, elvira, and juliana 
 - [ ] Read two Panama grant proposals (Harper)
@@ -96,17 +96,47 @@ June 24-28
 - [ ] schedule some day dives 26-28th
 
 July 1-5
-- [ ] Rescue Training in Salem (Mon)
-- [ ] 12th AAUS diving (mon, tues, or wed??)
+- [x] Rescue Training in Salem (Mon)
+- [x] 12th AAUS diving (mon, tues, or wed??)
 - [ ] Check in about Reg 2, inflator hose
-- [ ] DNA enrichments
+- [x]  Savanna to fill 500 tubes of RNA later
+- [x] UMass log dives
+- [x] microbiome enrichments (Brooke to order reagents)
+	- [x] should we use expired reagents?- NO but keep the last two reagents just in case
+- [ ] set up buyways 
+	- [x] resgister for training 
+	- [x] https://umassp.zoom.us/meeting/register/tJcrdOyorzMtHtNZyh1WOs6V9DpJC6euwiqu#/registration
+	- [x] form 
+- [ ] finish declaring travel with concur
+- [x] add field work order to order sheet
+- [x] blurb on the website
+		Technician
+		2022-Present
+		B.S. Biology & B.A. Economics, University of Massachusetts Lowell
+		My current work is in processing coral samples for metagenomic analysis, and studying the microbiome of Caribbean stony corals. Prior to working as a technician in the lab, I was an undergraduate researcher (UML '24) and studied the impact of thermal bleaching in the Caribbean. Outside of research I enjoy watercolor painting, crocheting and being outside.
+		
+		
+		
+- [x] NAUI rescue training
+- [ ] look into NDiSTEM
+
+**Meeting with Sarah**
+set up byways
+IDP 
+	what do I want to learn this year 
+mentorship agreement geared toward staff
+NDiSTEM conference 
+
+after dna stuff 
+16s and ITS2 on all the CBC samples
+	look at 16s over entire time series 
+	ITS2, produce the exact data that symportal requires 
 
 July 8-9
 - [ ] Panama Prep with Felicia!!
 - [ ] Packing (Mon)
 - [ ] Sea of Change video 
 	- [ ] videos of fish, videos of sampling, everyone in the water (giant strides?)
-- [ ] Savanna to fill tubes of RNA later
 - [ ] tough tags (2-3 hrs)
 	- [ ] look at each transect, how many corals in each transect, two labels per coral
 	- [ ] give a margin for new corals spotted, extra 16-20 per transect 
