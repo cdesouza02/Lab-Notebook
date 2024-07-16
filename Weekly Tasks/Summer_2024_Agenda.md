@@ -10,6 +10,7 @@ July 22- 26
 July 10-19
 - [ ] Plane leaves for Panama @ 8:47 am
 - [ ] Arrives back in Logan Friday July 19 @ 7:35 pm
+- [ ] colony data
 
 July 8-9
 - [ ] Panama Prep with Felicia!!
