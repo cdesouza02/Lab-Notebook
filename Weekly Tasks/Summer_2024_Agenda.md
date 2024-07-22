@@ -10,7 +10,20 @@ July 22- 26
 July 10-19
 - [ ] Plane leaves for Panama @ 8:47 am
 - [ ] Arrives back in Logan Friday July 19 @ 7:35 pm
-- [ ] colony data
+- [x] colony data T1-T5
+- [x] Sample data STRI
+	- [x] leah data?
+- [x] Sample Juan Point
+- [x] Sample Crawl
+- [x] Sample Punta 
+- [x] SAmple rhino
+	- [x] leah data?
+- [x] survey data STRI
+- [ ] Survey Data Juan
+- [x] survery data crawl
+- [x] survey data punta
+	- [ ] entered by sarah, confirm where it is
+
 
 July 8-9
 - [ ] Panama Prep with Felicia!!
@@ -19,7 +32,7 @@ July 8-9
 - [x] Packing (Mon)
 - [x] call hr about retirement plan
 - [ ] Sea of Change video 
-	- [ ] videos of fish, videos of sampling, everyone in the water (giant strides?)
+	- [ ] videos of fish, videos of sampling, everyone in the water?
 - [x] tough tags (2-3 hrs)
 	- [x] look at each transect, how many corals in each transect, two labels per coral
 	- [x] give a margin for new corals spotted, extra 16-20 per transect 
