@@ -1,3 +1,7 @@
+**Meeting with savanna jul 22**
+algal bloom experiment
+	temperature of water and testing water with fertilizer 
+
 **Meeting with sarah Jul 9**
 - [ ] Mentorship agreement questions
 	- [x] who am i mentoring-**savanna**

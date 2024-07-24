@@ -6,6 +6,7 @@ July 29- Aug 2
 
 July 22- 26
 - [ ] Select paper for lab discussion
+- [ ] stats about panama trip, go through notebook
 
 July 10-19
 - [ ] Plane leaves for Panama @ 8:47 am
