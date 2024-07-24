@@ -1,12 +1,19 @@
 August 5- 10
 - [ ] brush up on annotations of paper 
+- [ ] Microbiome enrichments 
 
 July 29- Aug 2
 - [ ] Send out paper with discussion questions
 
 July 22- 26
 - [ ] Select paper for lab discussion
-- [ ] stats about panama trip, go through notebook
+- [x] stats about panama trip, go through notebook
+- [ ] Savanna 
+	- [ ] algae blooms in filter flasks
+	- [ ] different environments under the grow lights 
+- [ ] IDP 
+- [ ] insta panama recap, just waiting on the photos 
+	- [ ] "That's a wrap on our field trip to Bocas Del Toro! We are so excited to be working at the Smithsonian Tropical Research Institute and even more excited to begin working with "
 
 July 10-19
 - [ ] Plane leaves for Panama @ 8:47 am

@@ -1,3 +1,6 @@
+Meeting with Sarah Jul 24
+
+
 **Meeting with savanna jul 22**
 algal bloom experiment
 	temperature of water and testing water with fertilizer 
