@@ -1,4 +1,9 @@
 Meeting with Sarah Jul 24
+- [ ] for PCR stuff, branae is really interested in genetics stuff but not to learn on CBC samples
+	- [ ] learn 16S protocol
+	- [ ] for rapid samples, sit down with SCTLD ppl to figure out which samples to work with 
+	- [ ] maybe for 16S do all of CBC samples
+	- [ ] pick one or two species, and 16S, ITS2
 
 
 **Meeting with savanna jul 22**
