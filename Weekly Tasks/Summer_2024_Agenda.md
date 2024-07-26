@@ -13,8 +13,11 @@ July 29- Aug 2
 
 July 22- 26
 - [ ] Select paper for lab discussion
+- [x] Check on 052022_T1_41_OANN_MICROBE
+	- [x] T2_71
 - [ ] look into NDiSTEM
 - [ ] **order more lo-bind tubes?**
+- [ ] Jaggaer supplier network ASK IRMA
 - [ ]  more FedEx express airbills
 - [x] review outreach slides 
 - [x] log Panama dives
