@@ -1,28 +1,41 @@
+August 12-17
+- [ ] attend Savannas symposium 
+- [ ] CORDAP microbiome enrichments
+- [ ] Concur request for Colombia
 
 August 5- 10
 - [ ] brush up on annotations of paper 
-- [ ] Microbiome enrichments 
+- [ ] savanna to prep for her presentation
+- [ ] CORDAP microbiome enrichments
 
 July 29- Aug 2
 - [ ] Send out paper with discussion questions
 
 July 22- 26
 - [ ] Select paper for lab discussion
-- [ ] review outreach slides 
-- [ ] log Panama dives
+- [ ] look into NDiSTEM
+- [ ] **order more lo-bind tubes?**
+- [ ]  more FedEx express airbills
+- [x] review outreach slides 
+- [x] log Panama dives
 - [x] stats about panama trip, go through notebook
-- [ ] Buyways 
-- [ ] UCard 
-- [ ] Savanna 
+- [x] Buyways 
+- [x] Send out July update email
+- [x] email about direct deposit for monthly stipend
+- [x] send out julias package, email central receiving for drop off?
+- [x] UCard!!!
+- [x] meeting with Savanna 
 	- [ ] algae blooms in filter flasks
 	- [ ] different environments under the grow lights 
+- [ ] fulbright?
+- [x] mentorship agreement
 - [ ] IDP 
 - [ ] insta panama recap, just waiting on the photos 
 	- [ ] "That's a wrap on our field trip to Bocas Del Toro! We are so excited to be working at the Smithsonian Tropical Research Institute and even more excited to begin working with Bocas Mariculture"
 
 July 10-19
-- [ ] Plane leaves for Panama @ 8:47 am
-- [ ] Arrives back in Logan Friday July 19 @ 7:35 pm
+- [x] Plane leaves for Panama @ 8:47 am
+- [x] Arrives back in Logan Friday July 19 @ 7:35 pm
 - [x] colony data T1-T5
 - [x] Sample data STRI
 	- [x] leah data?
@@ -32,10 +45,10 @@ July 10-19
 - [x] SAmple rhino
 	- [x] leah data?
 - [x] survey data STRI
-- [ ] Survey Data Juan
+- [x] Survey Data Juan
 - [x] survery data crawl
 - [x] survey data punta
-	- [ ] entered by sarah, confirm where it is
+	- [x] entered by sarah, confirm where it is
 
 
 July 8-9
@@ -50,7 +63,7 @@ July 8-9
 	- [x] look at each transect, how many corals in each transect, two labels per coral
 	- [x] give a margin for new corals spotted, extra 16-20 per transect 
 - [x] Pack BC 2, Reg 3
-- [ ] preferentially choose 5 mcav and pstrs that have bleached and recovered a dive for microfragging
+- [x] preferentially choose 5 mcav and pstrs that have bleached and recovered a dive for microfragging
 - [ ] electronic lab notebook (shared)
 
 	
