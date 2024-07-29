@@ -14,6 +14,8 @@ July 29- Aug 2
 
 July 22- 26
 - [ ] Select paper for lab discussion
+	- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296902#sec018
+	- 
 - [x] organize obsidian
 - [x] Check on 052022_T1_41_OANN_MICROBE
 	- [x] T2_71
@@ -34,7 +36,7 @@ July 22- 26
 - [ ] fulbright?
 - [x] mentorship agreement
 - [ ] IDP 
-- [ ] insta panama recap, just waiting on the photos 
+- [x] insta panama recap, just waiting on the photos 
 	- [ ] "That's a wrap on our field trip to Bocas Del Toro! We are so excited to be working at the Smithsonian Tropical Research Institute and even more excited to begin working with Bocas Mariculture"
 
 July 10-19
