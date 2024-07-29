@@ -11,6 +11,10 @@ August 5- 10
 July 29- Aug 2
 - [ ] Send out paper with discussion questions
 - [ ]  Jaggaer supplier network ASK IRMA
+- [ ] Go over IDP with Sarah 
+- [ ] Fulbright?
+- [ ] attending a confrence vs presenting at a confrence?
+	- [ ] differences in registration
 
 July 22- 26
 - [ ] Select paper for lab discussion
@@ -33,11 +37,10 @@ July 22- 26
 - [x] meeting with Savanna 
 	- [ ] algae blooms in filter flasks
 	- [ ] different environments under the grow lights 
-- [ ] fulbright?
 - [x] mentorship agreement
-- [ ] IDP 
+- [x] IDP 
 - [x] insta panama recap, just waiting on the photos 
-	- [ ] "That's a wrap on our field trip to Bocas Del Toro! We are so excited to be working at the Smithsonian Tropical Research Institute and even more excited to begin working with Bocas Mariculture"
+	- [x] "That's a wrap on our field trip to Bocas Del Toro! We are so excited to be working at the Smithsonian Tropical Research Institute and even more excited to begin working with Bocas Mariculture"
 
 July 10-19
 - [x] Plane leaves for Panama @ 8:47 am
