@@ -33,7 +33,7 @@ Sample 7
 	  0.2142 g
 	 8.26 ng/ul
 
-Sample 2
+Sample 8
 	032024_COL_SAN_T5_161_DLAB
 	  0.1513 g
 	  5.66 ng/ul
