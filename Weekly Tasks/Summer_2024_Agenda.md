@@ -8,8 +8,10 @@ August 5- 10
 - [ ] brush up on annotations of paper 
 - [ ] savanna to prep for her presentation
 - [ ] CORDAP microbiome enrichments
-- [ ] metagenomics tracker for DR and COL
+- [x] metagenomics tracker for DR and COL
 - [ ] read diversity supplement 
+- [x] concur
+- [ ] 
 
 July 29- Aug 2
 - [ ] Send out paper with discussion questions
