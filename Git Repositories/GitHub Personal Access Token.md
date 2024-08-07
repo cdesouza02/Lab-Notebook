@@ -1,5 +1,0 @@
-SCTLD 
-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
-
-lab notebook
-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

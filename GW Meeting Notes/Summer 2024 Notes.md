@@ -1,13 +1,13 @@
-Meeting with Sarah Jul 24
-- [ ] for PCR stuff, branae is really interested in genetics stuff but not to learn on CBC samples
+**Meeting with Sarah Jul 24**
+- [ ] for eventual PCR's, branae is really interested in metagenomics but not to learn on CBC samples
 	- [ ] learn 16S protocol
-	- [ ] for rapid samples, sit down with SCTLD ppl to figure out which samples to work with 
+	- [ ] for rapid samples, sit down with SCTLD team to figure out which samples to work with 
 	- [ ] maybe for 16S do all of CBC samples
 	- [ ] pick one or two species, and 16S, ITS2
 
 
 **Meeting with savanna jul 22**
-algal bloom experiment
+	algal bloom experiment
 	temperature of water and testing water with fertilizer 
 
 **Meeting with sarah Jul 9**
@@ -23,10 +23,10 @@ algal bloom experiment
 - [x] Sea of Change 3 minute video outline
 	- coral microfragging
 	- why corals are in trouble 
-- [x] uml fidelity shell account, is it worth it to contribute to that rather than IRA
+- [x] uml fidelity shell account
 - [x] changes with buyways with the change in my contract
 
-Feedback on Brookes presentation 
+**Feedback on Brookes presentation** 
 1- no notes, 
 SCTLD
 Microbiome- different transitition- discuss how they all function together first
@@ -50,7 +50,7 @@ after dna stuff
 	look at 16s over entire time series 
 	ITS2, produce the exact data that symportal requires 
 
-**MEETING WITH SARAH June 25th
+**MEETING WITH SARAH June 25th**
 	- When lo-bind tubes arrive, transfer DNA extraction products to those
 		 DO NOT DO ENRICHMENTS UNTIL THOSE ARRIVE
 	- copy SAN_Colony and SAN_Sample and metagenomics tracker into SAN_CORDAP

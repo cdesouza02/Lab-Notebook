@@ -9,6 +9,7 @@ August 5- 10
 - [ ] savanna to prep for her presentation
 - [ ] CORDAP microbiome enrichments
 - [x] metagenomics tracker for DR and COL
+	- [x] push to github
 - [ ] read diversity supplement 
 - [x] concur
 - [ ] 
@@ -165,10 +166,10 @@ May 29-31
 
 May 6- May 10
 - [ ] panama onboarding email
-- [ ] fill cooler with dry ice and pack and bring to hazardous shipping (Wednesday)
+- [x] fill cooler with dry ice and pack and bring to hazardous shipping (Wednesday)
 - [x] caption for christians diagram
-- [ ] Leon's samples, indexing and 2nd PCR (Monday)
-- [ ] Gel electrophoresis and Purification (Wednesday)
+- [x] Leon's samples, indexing and 2nd PCR (Monday)
+- [x] Gel electrophoresis and Purification (Wednesday)
 - [ ] review project dive plans 
 - [x] email Rae about honors thesis 
 - [x] send post info to julian
