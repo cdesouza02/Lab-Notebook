@@ -1,5 +1,6 @@
+
 August 12-17
-- [ ] attend Savannas symposium 
+- [ ] attend Savannas symposium (Aug 15th) 
 - [ ] CORDAP microbiome enrichments
 - [ ] Concur request for Colombia
 
@@ -7,14 +8,16 @@ August 5- 10
 - [ ] brush up on annotations of paper 
 - [ ] savanna to prep for her presentation
 - [ ] CORDAP microbiome enrichments
+- [ ] metagenomics tracker for DR and COL
+- [ ] read diversity supplement 
 
 July 29- Aug 2
 - [ ] Send out paper with discussion questions
-- [ ]  Jaggaer supplier network ASK IRMA
+- [x]  Jaggaer supplier network ASK IRMA
 - [ ] Go over IDP with Sarah 
 - [ ] Fulbright?
-- [ ] attending a confrence vs presenting at a confrence?
-	- [ ] differences in registration
+- [x] attending a confrence vs presenting at a confrence?
+	- [x] differences in registration
 
 July 22- 26
 - [ ] Select paper for lab discussion
