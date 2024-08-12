@@ -7,11 +7,13 @@ August 12-17
 August 5- 10
 - [ ] brush up on annotations of paper 
 - [x] savanna to prep for her presentation
-- [ ] plan time for CORDAP microbiome enrichments
+- [x] plan time for CORDAP microbiome enrichments
+- [x] qubit last of DR enrichment samples
 - [x] metagenomics tracker for DR and COL
 	- [x] push to github
 - [x] read diversity supplement 
 - [x] concur
+	- [x] email elizabeth for request approval
 - [ ] register for R-course
 - [ ] register for NDistem confrence
 
