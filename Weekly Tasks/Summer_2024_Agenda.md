@@ -1,8 +1,18 @@
 
-August 12-17
+August 20-23
+
+August 12-15
 - [ ] attend Savannas symposium (Aug 15th) 
 - [ ] CORDAP microbiome enrichments
-- [ ] Concur request for Colombia
+	- [x] MCAV
+	- [ ] PSTR
+	- [ ] DLAB
+	- [ ] OFAV
+- [ ]  Go over IDP with Sarah 
+- [x] Concur request for Colombia
+- [ ] register for R-course
+	- conflicts for when travel to COL
+- [ ] register for NDistem confrence
 
 August 5- 10
 - [ ] brush up on annotations of paper 
@@ -14,13 +24,11 @@ August 5- 10
 - [x] read diversity supplement 
 - [x] concur
 	- [x] email elizabeth for request approval
-- [ ] register for R-course
-- [ ] register for NDistem confrence
+
 
 July 29- Aug 2
 - [ ] Send out paper with discussion questions
 - [x]  Jaggaer supplier network ASK IRMA
-- [ ] Go over IDP with Sarah 
 - [ ] Fulbright?
 - [x] attending a confrence vs presenting at a confrence?
 	- [x] differences in registration
