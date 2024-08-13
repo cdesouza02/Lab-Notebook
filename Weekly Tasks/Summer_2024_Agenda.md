@@ -11,7 +11,7 @@ August 12-15
 - [ ] fall barbecue 
 - [ ] CORDAP microbiome enrichments
 	- [x] MCAV
-	- [ ] PSTR
+	- [x] PSTR
 	- [ ] DLAB
 	- [ ] OFAV
 - [ ]  Go over IDP with Sarah 
