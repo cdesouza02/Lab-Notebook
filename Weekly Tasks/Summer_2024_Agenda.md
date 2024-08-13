@@ -1,8 +1,14 @@
 
 August 20-23
+- [ ] help julia put oyster samples in cryovials 
+
 
 August 12-15
 - [ ] attend Savannas symposium (Aug 15th) 
+- [x] confirm that we use hot start DNA polymerase
+- [ ] look into lab kayaking trip/fun lowell activities 
+	- [ ] When to meet poll 
+- [ ] fall barbecue 
 - [ ] CORDAP microbiome enrichments
 	- [x] MCAV
 	- [ ] PSTR
@@ -10,8 +16,10 @@ August 12-15
 	- [ ] OFAV
 - [ ]  Go over IDP with Sarah 
 - [x] Concur request for Colombia
+- [x] resubmit metagenomics tracker 
 - [ ] register for R-course
 	- conflicts for when travel to COL
+	- temporal longitudinal data 
 - [ ] register for NDistem confrence
 
 August 5- 10

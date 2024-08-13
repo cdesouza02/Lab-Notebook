@@ -1,36 +1,36 @@
 Sample 1
 	032024_COL_SAN_T5_144_PSTR
 	**Microbe**
-	 ng/ul
+	 19.0 ng/ul
 	  **Host**
-	  ng/ul
+	  3.64 ng/ul
 	  
 Sample 2
 	032024_COL_SAN_T5_147_PSTR
 	**Microbe**
-	 ng/ul
+	 4.18 ng/ul
 	  **Host**
-	  ng/ul
+	  0.868 ng/ul
 	
 	  
 Sample 3
 	032024_COL_SAN_T5_154_PSTR
 	**Microbe**
-	 ng/ul
+	 2.74 ng/ul
 	  **Host**
-	  ng/ul
+	  0.464 ng/ul
 	  
 Sample 4
 	032024_COL_SAN_T5_162_PSTR
 	**Microbe**
-	 ng/ul
+	 1.5 ng/ul
 	  **Host**
-	  ng/ul
+	  0.200 ng/ul
 	  
 Sample 5
 	032024_COL_SAN_T5_163_PSTR
 	**Microbe**
-	 ng/ul
+	 19.7 ng/ul
 	  **Host**
-	  ng/ul
+	  4.56 ng/ul
 	  
