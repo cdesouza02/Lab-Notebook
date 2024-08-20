@@ -1,3 +1,8 @@
+**IDP Meeting**
+- [ ] paper topics it makes sense for me to read (zotero group)
+	- [ ] coral microbiome including symbionts 
+	- [ ] 
+
 **Meeting with Sarah Jul 24**
 - [ ] for eventual PCR's, branae is really interested in metagenomics but not to learn on CBC samples
 	- [ ] learn 16S protocol

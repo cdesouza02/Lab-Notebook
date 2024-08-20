@@ -1,20 +1,29 @@
+August 26-30
+- [ ] postdoc interview
+
 
 August 20-23
-- [ ] help julia put oyster samples in cryovials 
+- [x] help julia put oyster samples in cryovials 
+- [x] email rae to see how long i am eligible for fulbright
+- [ ] refresh on how to use zotero
+- [x] measure microbial dna before cleaning
+- [ ] call NEB about getting more dna out of microbiome enrichments 
+	- [ ] first send questions to sarah to get on same page
+- [x] coral general channel
+- [x] look into lab kayaking trip/fun lowell activities (icecream)
+	- [x] When to meet poll 
+- [ ] fall barbecue 
 
 
 August 12-15
-- [ ] attend Savannas symposium (Aug 15th) 
+- [x] attend Savannas symposium (Aug 15th) 
 - [x] confirm that we use hot start DNA polymerase
-- [ ] look into lab kayaking trip/fun lowell activities 
-	- [ ] When to meet poll 
-- [ ] fall barbecue 
 - [ ] CORDAP microbiome enrichments
 	- [x] MCAV
 	- [x] PSTR
-	- [ ] DLAB
-	- [ ] OFAV
-- [ ]  Go over IDP with Sarah 
+	- [x] DLAB
+	- [x] OFAV
+- [x]  Go over IDP with Sarah 
 - [x] Concur request for Colombia
 - [x] resubmit metagenomics tracker 
 - [ ] register for R-course
@@ -23,7 +32,7 @@ August 12-15
 - [ ] register for NDistem confrence
 
 August 5- 10
-- [ ] brush up on annotations of paper 
+- [x] brush up on annotations of paper 
 - [x] savanna to prep for her presentation
 - [x] plan time for CORDAP microbiome enrichments
 - [x] qubit last of DR enrichment samples
