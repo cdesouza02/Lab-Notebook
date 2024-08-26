@@ -1,5 +1,13 @@
 August 26-30
 - [ ] postdoc interview
+- [ ] SOC vid
+	- start with SOC logo and title of project
+	- videos/photos of what we are doing, sarah talking about coral restoration and microfragging, back to video of what we are doing (underwater)
+	- video of rhino reef, leah talking about why these reefs are really special and important, back to video of rhino
+	- video/photos of poor visibility and bleaching, why is this such a big issue in Bocas (excess rain, high temps)
+	- "in collaboration with a local organization,Bocas Maricultura" 
+		- queue videos of microfragging and why this will help solve the problem 
+	- thank sea of change 
 
 
 August 20-23
