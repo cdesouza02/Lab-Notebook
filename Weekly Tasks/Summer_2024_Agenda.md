@@ -6,9 +6,18 @@ August 20-23
 - [x] help julia put oyster samples in cryovials 
 - [x] email rae to see how long i am eligible for fulbright
 - [ ] refresh on how to use zotero
+- [x] send Zoe videos from bocas
 - [x] measure microbial dna before cleaning
 - [ ] call NEB about getting more dna out of microbiome enrichments 
 	- [ ] first send questions to sarah to get on same page
+	- we use 30 ul of dna with variable concentrations of DNA
+	-Microbial DNA
+	- in the omega bio-tek dna extraction kit we use the elution buffer is heated to 65C prior to incubating for 10 minutes, would heating the buffer help maximize eluted DNA
+	- would incubating for longer than 10 minutes increase dna 
+	-Host DNA
+	- why do we mix the beads by flicking during the elution of the host?
+	- should we centrifuge for longer if we do not have a centrifuge that goes to 13,000 rpm 
+	- if our DNA is going to be sequenced should we be eluting in elution buffer rather than TE buffer?
 - [x] coral general channel
 - [x] look into lab kayaking trip/fun lowell activities (icecream)
 	- [x] When to meet poll 
