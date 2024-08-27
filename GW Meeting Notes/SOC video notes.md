@@ -16,4 +16,7 @@ background: video of sarah speaking, cut through 3/4 of the way with video of Bo
 - [ ] **Leah talking about why these reefs are so special and the poor conditions**
 background: video of team in murky water/photos of us at juan point/ juan point PQ
 
+**Bocas Mariculture**
+- [x] Caroline:  The Sea of Change foundation has facilliated a partnership between marine scientists and a local Panamanian aquaculture organization "Bocas Mariculture". Project Lead Leah Harper says that without the funding from Sea of Change she may not have had the opportunity to work with Till Deuss on this restoration project. 
+
 **Conclusion**
