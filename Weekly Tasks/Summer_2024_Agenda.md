@@ -1,5 +1,18 @@
+
+Sept 3-5
+- [ ] bioanalyzer for 11 cordap samples (12-2pm)
+- [ ] talk with brooke about transfering CBC samples to lo-bind tubes
+- [ ] Transfer DR and cordap 
+- [ ] prepare CORDAP samples for sequencing 
+- [ ] 16S protocol talk about with brooke 
+
 August 26-30
 - [ ] postdoc interview
+- [ ] what are they doing with the 16S library prep oyster stuff
+- [ ] NEB questions
+	- we have been getting low results for host DNA, some may be lost during the process of eluting DNA, have you encountered any variety in the protocol that helps in maximizing DNA elution?
+	-  in the omega bio-tek dna extraction kit we use the elution buffer is heated to 65C prior to incubating for 10 minutes, would heating the buffer help maximize eluted DNA?
+	- why do we mix the beads by flicking during the elution of the host?
 - [ ] SOC vid
 	- start with SOC logo and title of project
 	- videos/photos of what we are doing, sarah talking about coral restoration and microfragging, back to video of what we are doing (underwater)
