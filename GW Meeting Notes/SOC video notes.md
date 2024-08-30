@@ -9,6 +9,8 @@
 - [x] One particular threat, Stony Coral Tissue Loss Disease, has been ravaging the Caribbean, leading to unprecedented mortality of corals in at least fifteen countries. After a decade of research, the cause still puzzles marine scientists, who have sought out various treatments for Stony coral tissue loss
 background: video of SCTLD affected reef
 
+Reefs in Bocas del Toro, a province off of the coast of Panama have not yet shown signs of stony coral tissue loss
+
 - [ ] Video: why is bocas special? it hasnt been exposed to SCTLD yet despite being in proximity to other SCTLD affected areas
 
 **Explain our work**
