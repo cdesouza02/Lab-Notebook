@@ -1,19 +1,23 @@
 
 Sept 3-5
 - [ ] bioanalyzer for 11 cordap samples (12-2pm)
+- [ ] check in with NEB email
 - [ ] talk with brooke about transfering CBC samples to lo-bind tubes
-- [ ] Transfer DR and cordap 
+- [ ] Transfer DR and cordap samples to lo-bind
 - [ ] prepare CORDAP samples for sequencing 
 - [ ] 16S protocol talk about with brooke 
+- [ ] call Concur office hours tuesday 3-4 
+- [ ] fill 2nd DI water for oysters, leave in oyster room 
+- [ ] 
 
 August 26-30
-- [ ] postdoc interview
-- [ ] what are they doing with the 16S library prep oyster stuff
-- [ ] NEB questions
+- [x] postdoc interview
+- [x] what are they doing with the 16S library prep oyster stuff
+- [x] NEB questions
 	- we have been getting low results for host DNA, some may be lost during the process of eluting DNA, have you encountered any variety in the protocol that helps in maximizing DNA elution?
 	-  in the omega bio-tek dna extraction kit we use the elution buffer is heated to 65C prior to incubating for 10 minutes, would heating the buffer help maximize eluted DNA?
 	- why do we mix the beads by flicking during the elution of the host?
-- [ ] SOC vid
+- [x] SOC vid
 	- start with SOC logo and title of project
 	- videos/photos of what we are doing, sarah talking about coral restoration and microfragging, back to video of what we are doing (underwater)
 	- video of rhino reef, leah talking about why these reefs are really special and important, back to video of rhino
@@ -21,7 +25,7 @@ August 26-30
 	- "in collaboration with a local organization,Bocas Maricultura" 
 		- queue videos of microfragging and why this will help solve the problem 
 	- thank sea of change 
-
+- [ ] figure out issues with github
 
 August 20-23
 - [x] help julia put oyster samples in cryovials 
@@ -29,8 +33,8 @@ August 20-23
 - [ ] refresh on how to use zotero
 - [x] send Zoe videos from bocas
 - [x] measure microbial dna before cleaning
-- [ ] call NEB about getting more dna out of microbiome enrichments 
-	- [ ] first send questions to sarah to get on same page
+- [x] call NEB about getting more dna out of microbiome enrichments 
+	- [x] first send questions to sarah to get on same page
 	- we use 30 ul of dna with variable concentrations of DNA
 	-Microbial DNA
 	- in the omega bio-tek dna extraction kit we use the elution buffer is heated to 65C prior to incubating for 10 minutes, would heating the buffer help maximize eluted DNA
