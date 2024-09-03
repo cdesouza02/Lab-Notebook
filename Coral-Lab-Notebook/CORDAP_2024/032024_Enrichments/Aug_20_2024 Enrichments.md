@@ -4,7 +4,8 @@ Sample 1
 	 preclean:  12.3 ng/ul
 	 41.6 ng/ul
 	  **Host**
-	  8.86 ng/ul
+	  preclean: 8.86 ng/ul
+	  
 	  
 Sample 2
 	032024_COL_SAN_T5_140_OFAV

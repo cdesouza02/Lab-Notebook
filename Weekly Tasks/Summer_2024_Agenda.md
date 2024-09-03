@@ -1,14 +1,17 @@
 
 Sept 3-5
 - [ ] bioanalyzer for 11 cordap samples (12-2pm)
+	- [ ] clean OFAV host 
 - [ ] check in with NEB email
 - [ ] talk with brooke about transfering CBC samples to lo-bind tubes
 - [ ] Transfer DR and cordap samples to lo-bind
+	- [ ] DR microbial
+	- [ ] DR host 
 - [ ] prepare CORDAP samples for sequencing 
 - [ ] 16S protocol talk about with brooke 
 - [ ] call Concur office hours tuesday 3-4 
-- [ ] fill 2nd DI water for oysters, leave in oyster room 
-- [ ] 
+- [ ] fill 2nd DI water for oysters, leave in oyster room
+	- cannot find spigot 
 
 August 26-30
 - [x] postdoc interview
