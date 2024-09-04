@@ -1,11 +1,11 @@
 
 Sept 3-5
-- [ ] bioanalyzer for 11 cordap samples (12-2pm)
-	- [ ] clean OFAV host 
-- [ ] check in with NEB email
+- [x] bioanalyzer for 11 cordap samples (12-2pm)
+	- [x] clean OFAV host 
+- [x] check in with NEB email
 - [ ] talk with brooke about transfering CBC samples to lo-bind tubes
 - [ ] Transfer DR and cordap samples to lo-bind
-	- [ ] DR microbial
+	- [x] DR microbial
 	- [ ] DR host 
 - [ ] prepare CORDAP samples for sequencing 
 - [ ] 16S protocol talk about with brooke 
