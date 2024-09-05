@@ -3,14 +3,22 @@ Sept 3-5
 - [x] bioanalyzer for 11 cordap samples (12-2pm)
 	- [x] clean OFAV host 
 - [x] check in with NEB email
-- [ ] talk with brooke about transfering CBC samples to lo-bind tubes
+- [x] talk with brooke about transfering CBC samples to lo-bind tubes
+	- branae and jen to do this 
+- [ ] which classes should I sign up to audit
+	- data science for grads? TR 12:30-1:45 F 12-1:50
+	- invertebrate zoology M 10-12:50 2-4:50
+	- disease ecology and evolution TR 11-12:15
 - [ ] Transfer DR and cordap samples to lo-bind
 	- [x] DR microbial
-	- [ ] DR host 
+	- [x] DR host 
+	- [ ] CORDAP dna extraction
+	- [ ] DR DNA extraction
 - [ ] prepare CORDAP samples for sequencing 
-- [ ] 16S protocol talk about with brooke 
+- [x] 16S protocol talk about with brooke 
+	- all- start with recently acquired samples
 - [ ] call Concur office hours tuesday 3-4 
-- [ ] fill 2nd DI water for oysters, leave in oyster room
+- [x] fill 2nd DI water for oysters, leave in oyster room
 	- cannot find spigot 
 
 August 26-30
