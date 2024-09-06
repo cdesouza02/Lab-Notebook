@@ -1,3 +1,6 @@
+**SCTLD meeting**
+- Col priorities
+- 
 **IDP Meeting**
 - [ ] paper topics it makes sense for me to read (zotero group)
 	- [ ] coral microbiome including symbionts 

@@ -1,25 +1,38 @@
+Sept 10-15
+- [ ] meeting with felicia 3pm monday 
+	- what to pack for COL
+- [ ] meeting with sarah Tues @ 2
+	- **when will the cordap meeting be?**
+- [ ]  call Concur office hours tuesday 3-4 
+- [ ] **which classes should I sign up to audit**
+	- data science for grads? TR 12:30-1:45 F 12-1:50
+	- invertebrate zoology M 10-12:50 2-4:50
+	- disease ecology and evolution TR 11-12:15
+- [ ] prepare CORDAP samples for sequencing 
+	- 100 million reads per sample, 50 million in each direction
 
-Sept 3-5
+
+Sept 3-6
+- [x] add probiotic data to CORDAP sample sheet 
+- [ ] per diem for colombia cost/ reimbursement 
+- [ ] plan CBC extractions
+- [ ] respond to blakes email about when to meet 
+- [ ] unity session Friday 10 am
+- [ ] coral net meeting friday noon 
+- [ ] lab meeting at 2 pm
 - [x] bioanalyzer for 11 cordap samples (12-2pm)
 	- [x] clean OFAV host 
 - [x] check in with NEB email
 - [x] talk with brooke about transfering CBC samples to lo-bind tubes
 	- branae and jen to do this 
-- [ ] which classes should I sign up to audit
-	- data science for grads? TR 12:30-1:45 F 12-1:50
-	- invertebrate zoology M 10-12:50 2-4:50
-	- disease ecology and evolution TR 11-12:15
 - [ ] Transfer DR and cordap samples to lo-bind
 	- [x] DR microbial
 	- [x] DR host 
 	- [ ] CORDAP dna extraction
 	- [ ] DR DNA extraction
-- [ ] prepare CORDAP samples for sequencing 
 - [x] 16S protocol talk about with brooke 
 	- all- start with recently acquired samples
-- [ ] call Concur office hours tuesday 3-4 
 - [x] fill 2nd DI water for oysters, leave in oyster room
-	- cannot find spigot 
 
 August 26-30
 - [x] postdoc interview
