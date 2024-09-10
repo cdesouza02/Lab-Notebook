@@ -1,6 +1,10 @@
 Sept 10-15
 - [ ] meeting with felicia 3pm monday 
 	- what to pack for COL
+- [ ] asl felicia how I can help prep for COL
+- [ ] fill 700 RNA later
+	- [ ] tough tags 
+- [ ] watch night diving videos 
 - [ ] meeting with sarah Tues @ 2
 	- **when will the cordap meeting be?**
 - [ ]  call Concur office hours tuesday 3-4 
