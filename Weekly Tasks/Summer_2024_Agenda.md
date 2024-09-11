@@ -1,29 +1,42 @@
+Oct 2-
+- [ ]  make a recent CBC samples table 
+		- how many samples we have for each time period split by diseased vs healthy, and species 
+
+Sept 17-19
+
+	
 Sept 10-15
-- [ ] meeting with felicia 3pm monday 
+- [x] meeting with felicia 3pm monday 
 	- what to pack for COL
-- [ ] asl felicia how I can help prep for COL
-- [ ] fill 700 RNA later
-	- [ ] tough tags 
+- [x] asl felicia how I can help prep for COL
+	- [ ] fill 700 RNA later
+	- [ ] tough tags (branae to make labels)
 - [ ] watch night diving videos 
 - [ ] meeting with sarah Tues @ 2
-	- **when will the cordap meeting be?**
+	- [ ] take a look at confrence for summer
+	- [x] figure out how to make multiple people hosts 
 - [ ]  call Concur office hours tuesday 3-4 
-- [ ] **which classes should I sign up to audit**
+- [x] **which classes should I sign up to audit**
 	- data science for grads? TR 12:30-1:45 F 12-1:50
 	- invertebrate zoology M 10-12:50 2-4:50
-	- disease ecology and evolution TR 11-12:15
+- [ ] learning goals read two papers per week and tell sarah about them 
 - [ ] prepare CORDAP samples for sequencing 
 	- 100 million reads per sample, 50 million in each direction
+	- genohub "sample manifest"
+	- sample ID= full sample name
+	- sample type = DNA 
+	- QC method= qubit
+	- volume 20 uL
 
 
 Sept 3-6
 - [x] add probiotic data to CORDAP sample sheet 
 - [ ] per diem for colombia cost/ reimbursement 
-- [ ] plan CBC extractions
-- [ ] respond to blakes email about when to meet 
-- [ ] unity session Friday 10 am
-- [ ] coral net meeting friday noon 
-- [ ] lab meeting at 2 pm
+- [x] plan CBC extractions
+- [x] respond to blakes email about when to meet 
+- [x] unity session Friday 10 am
+- [x] coral net meeting friday noon 
+- [x] lab meeting at 2 pm
 - [x] bioanalyzer for 11 cordap samples (12-2pm)
 	- [x] clean OFAV host 
 - [x] check in with NEB email
