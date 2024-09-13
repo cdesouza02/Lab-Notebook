@@ -11,7 +11,7 @@ Sept 10-15
 - [x] asl felicia how I can help prep for COL
 	- [ ] fill 700 RNA later
 	- [ ] tough tags (branae to make labels)
-- [ ] watch night diving videos 
+- [x] watch night diving videos 
 - [ ] meeting with sarah Tues @ 2
 	- [ ] take a look at confrence for summer
 	- [x] figure out how to make multiple people hosts 
