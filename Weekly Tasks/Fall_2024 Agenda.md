@@ -3,7 +3,7 @@ Oct 2-
 		- how many samples we have for each time period split by diseased vs healthy, and species 
 
 Sept 17-19
-
+- [ ] EHS biosafety training
 	
 Sept 10-15
 - [x] meeting with felicia 3pm monday 
@@ -12,6 +12,7 @@ Sept 10-15
 	- [ ] fill 700 RNA later
 	- [ ] tough tags (branae to make labels)
 - [x] watch night diving videos 
+- [x] CBC diseased_tissue extractions 
 - [ ] meeting with sarah Tues @ 2
 	- [ ] take a look at confrence for summer
 	- [x] figure out how to make multiple people hosts 
@@ -19,7 +20,7 @@ Sept 10-15
 - [x] **which classes should I sign up to audit**
 	- data science for grads? TR 12:30-1:45 F 12-1:50
 	- invertebrate zoology M 10-12:50 2-4:50
-- [ ] learning goals read two papers per week and tell sarah about them 
+	- [ ] learning goals read two papers per week and tell sarah about them 
 - [x] prepare CORDAP samples for sequencing 
 	- 100 million reads per sample, 50 million in each direction
 	- genohub "sample manifest"
