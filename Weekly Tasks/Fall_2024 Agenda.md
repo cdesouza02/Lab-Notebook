@@ -2,21 +2,27 @@ Oct 2-
 - [ ]  make a recent CBC samples table 
 		- how many samples we have for each time period split by diseased vs healthy, and species 
 
-Sept 17-19
-- [ ] EHS biosafety training
+Sept 16-19
+- [x] EHS biosafety training
+- [ ] check in on cert/ add cert to GW lab drive
+- [x] concur office hours monday 3-4 
+- [x] read dive plan
+- [ ] read CORDAP proposal 
+- [x] pack lab stuff
+- [ ] label RNA later tubes with branae
+- [ ] branae to prep aluminum foil
 	
 Sept 10-15
 - [x] meeting with felicia 3pm monday 
 	- what to pack for COL
 - [x] asl felicia how I can help prep for COL
-	- [ ] fill 700 RNA later
+	- [x] fill 700 RNA later
 	- [ ] tough tags (branae to make labels)
 - [x] watch night diving videos 
 - [x] CBC diseased_tissue extractions 
 - [ ] meeting with sarah Tues @ 2
 	- [ ] take a look at confrence for summer
 	- [x] figure out how to make multiple people hosts 
-- [ ]  call Concur office hours tuesday 3-4 
 - [x] **which classes should I sign up to audit**
 	- data science for grads? TR 12:30-1:45 F 12-1:50
 	- invertebrate zoology M 10-12:50 2-4:50
