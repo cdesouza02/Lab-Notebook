@@ -5,22 +5,25 @@ Oct 2-5
 - [x]  make a recent CBC samples table 
 		- how many samples we have for each time period split by diseased vs healthy, and species 
 - [ ] update computer off of ventura to use R
+	- [ ] how many samples for each species 
 - [ ] **read paper sarah sent** 
 - [ ] complete lab safety training
-- [ ] read lab meeting paper 
+	- SDS for new chemicals
+- [x] read lab meeting paper 
 - [x] concur phoenix travel request
 - [x] submit EHS cert to GW lab drive
 - [x] check in on lab meeting schedule
-- [ ] meeting with sarah Friday 
+- [x] meeting with sarah Friday 
 - [x] next weeks lab meeting, lab crafts is there anything I should bring, I'll send a slack 
 		- pictures of pets 
 		- printing pictures of corals (marine science magazine)
 		- explaining what we do as a lab!
 		- talk about open house 
-	- respond to the genohub email, we can send 5 more but those are all of the CORDAP and DR samples
-	- **"CBC DNA Extraction Plan"**
-	- i'd like to make a poster for the retreat maybe on introducing my ITS2 stuff and the connection to coral bleaching research, add info of bleaching from 072024_PAN?
-	- 
+- [x] respond to the genohub email, we can send 5 more but those are all of the CORDAP and DR samples
+ - [ ] **"CBC DNA Extraction Plan"**
+	 - species!!
+ - [x] i'd like to make a poster for the retreat maybe on introducing my ITS2 stuff and the connection to coral bleaching research, add info of bleaching from 072024_PAN?
+	 - 
 
 Sept 16-19
 - [x] EHS biosafety training
