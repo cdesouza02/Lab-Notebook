@@ -1,12 +1,30 @@
-Oct 2-
-- [ ]  make a recent CBC samples table 
+
+Oct 7-11
+
+Oct 2-5
+- [x]  make a recent CBC samples table 
 		- how many samples we have for each time period split by diseased vs healthy, and species 
+- [ ] update computer off of ventura to use R
+- [ ] **read paper sarah sent** 
+- [ ] complete lab safety training
+- [ ] read lab meeting paper 
+- [x] concur phoenix travel request
+- [x] submit EHS cert to GW lab drive
+- [x] check in on lab meeting schedule
+- [ ] meeting with sarah Friday 
+- [x] next weeks lab meeting, lab crafts is there anything I should bring, I'll send a slack 
+		- pictures of pets 
+		- printing pictures of corals (marine science magazine)
+		- explaining what we do as a lab!
+		- talk about open house 
+	- respond to the genohub email, we can send 5 more but those are all of the CORDAP and DR samples
+	- **"CBC DNA Extraction Plan"**
+	- i'd like to make a poster for the retreat maybe on introducing my ITS2 stuff and the connection to coral bleaching research, add info of bleaching from 072024_PAN?
+	- 
 
 Sept 16-19
 - [x] EHS biosafety training
-- [ ] check in on cert/ add cert to GW lab drive
-- [ ] concur travel to phoenix
-- [ ] send hotel and flights to Sarah 
+- [x] send hotel and flights to Sarah 
 - [x] concur office hours monday 3-4 
 - [x] read dive plan
 - [x] read CORDAP proposal 
@@ -22,8 +40,8 @@ Sept 16-19
 	- [x] shorts
 - [x] pack lab stuff
 - [x] label RNA later tubes with branae (for probiotic samples start with 31)
-- [ ] branae to prep aluminum foil
-- [ ] oyster maintenence meeting wednesday noon
+- [x] branae to prep aluminum foil
+- [x] oyster maintenence meeting wednesday noon
 	- julia to show how to feed oysters
 	- jen to show algae process 
 	- 

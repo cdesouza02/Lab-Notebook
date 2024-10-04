@@ -1,0 +1,4 @@
+- can sea cucumbers help keep corals healthy from disease?
+- can diseased corals spawn?
+	- why was their widespread lack of spawning this year, even captured corals in blakes lab
+- 
