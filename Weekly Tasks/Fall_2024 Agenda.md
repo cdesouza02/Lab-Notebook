@@ -3,7 +3,14 @@ Oct 7-11
 - [ ] Prepare poster for biology retreat, run by sarah on meeting October 15th
 	- [ ] figures from thesis, include 072024PAN data 
 	- [ ] discuss recovery of corals
-- [ ] read microbial paper (MON)
+		- **or lack thereof, looking at the photos from crawl cay to fill in the gaps for percentages and I see that the large PSTR colonies that were bleached in 2023, are now mostly dead** 86 and 87 PSTR
+		- **i want my data to reflect that** 
+		- 89 SSID? was it ever bleached or was it just predated upon? pale?
+		- made an all species plot, but I feel like it just doesn't capture the situation in panama well, there is more death than seen
+		- partial_mortality
+		- sankey plot
+- [x] read microbial paper (MON)
+- [x] when to meet Blake and Jordan
 - [ ]  complete lab safety training
 	- SDS for new chemicals
 

@@ -1,3 +1,11 @@
+Goal: identify how symbiont communities change over time in different colonies
+		colonies that got diseased, died from disease, bleached and recovered, died from bleaching, and stayed healthy throughout 
+		how symbionts themselves change over time
+	using MCAV and PSTR samples since 2019
+Look at coral ITS2 metabarcoding studies and see methods number of reads per sample and or depth of sequencing
+	symportal 
+
+
 |        | Healthy | Diseased_Tissue | Diseased_Margin |
 | ------ | ------- | --------------- | --------------- |
 | 092023 | 64      | 19              | 26              |
@@ -11,27 +19,27 @@
 |        | 428     | 40              | 48              |
 
 just focus on Brain corals or just on MCAV and PSTR
-100 samples will all go on one run, so organize by species 
+16S 100 samples will all go on one run, so organize by species 
 
-| Health_Status   | Species | Total_Count |
-| --------------- | ------- | ----------- |
-| Diseased Margin | DLAB    | 1           |
-| Diseased Margin | MCAV    | 2           |
-| Diseased Margin | ORBI    | 8           |
-| Diseased Margin | PSTR    | 3           |
-| Diseased Margin | SSID    | 34          |
-| Diseased Tissue | DLAB    | 1           |
-| Diseased Tissue | MCAV    | 2           |
-| Diseased Tissue | ORBI    | 10          |
-| Diseased Tissue | PSTR    | 3           |
-| Diseased Tissue | SSID    | 24          |
-| Healthy         | CNAT    | 1           |
-| Healthy         | DLAB    | 15          |
-| **Healthy**         | **MCAV**    | **102**         |
-| Healthy         | ORBI    | 107         |
-| Healthy         | PAST    | 80          |
-| Healthy         | PSTR    | 62          |
-| Healthy         | SSID    | 61          |
+| Health_Status   | Species  | Total_Count |
+| --------------- | -------- | ----------- |
+| Diseased Margin | DLAB     | 1           |
+| Diseased Margin | MCAV     | 2           |
+| Diseased Margin | ORBI     | 8           |
+| Diseased Margin | PSTR     | 3           |
+| Diseased Margin | SSID     | 34          |
+| Diseased Tissue | DLAB     | 1           |
+| Diseased Tissue | MCAV     | 2           |
+| Diseased Tissue | ORBI     | 10          |
+| Diseased Tissue | PSTR     | 3           |
+| Diseased Tissue | SSID     | 24          |
+| Healthy         | CNAT     | 1           |
+| Healthy         | DLAB     | 15          |
+| **Healthy**     | **MCAV** | **102**     |
+| Healthy         | ORBI     | 107         |
+| Healthy         | PAST     | 80          |
+| Healthy         | PSTR     | 62          |
+| Healthy         | SSID     | 61          |
 Week of October 15
 	diseased margin DNA extractions?? prioritize ssids since they have the most diseased margin?
 
