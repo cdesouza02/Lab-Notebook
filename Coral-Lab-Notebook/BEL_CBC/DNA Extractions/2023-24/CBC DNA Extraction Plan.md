@@ -2,9 +2,11 @@ Goal: identify how symbiont communities change over time in different colonies
 		colonies that got diseased, died from disease, bleached and recovered, died from bleaching, and stayed healthy throughout 
 		how symbionts themselves change over time
 	using MCAV and PSTR samples since 2019
-Look at coral ITS2 metabarcoding studies and see methods number of reads per sample and or depth of sequencing
-	symportal 
 
+Oct 15-19
+- Look at coral ITS2 metabarcoding studies and see methods number of reads per sample and or depth of sequencing
+	symportal 
+- **pull out april2024 data because it is for historical data??** **012024 added new transects** 
 
 |        | Healthy | Diseased_Tissue | Diseased_Margin |
 | ------ | ------- | --------------- | --------------- |
@@ -18,8 +20,17 @@ Look at coral ITS2 metabarcoding studies and see methods number of reads per sam
 | 082024 | 34      | 0               | 0               |
 |        | 428     | 40              | 48              |
 
-just focus on Brain corals or just on MCAV and PSTR
-16S 100 samples will all go on one run, so organize by species 
+just focus on 36 rapid corals since 2019 
+	PAST, SSID, PSTR, MCAV, OFAV(maybe)
+16S 100 samples will all go on one run, so **organize by species?** all in one run? one lane?
+
+
+positive control  in the lane to normalize the concentrations of symbiont
+randomized order of extraction
+include some of 2019 suseptible, but only the rapid colonies 
+
+Where to sequence? argonne or utaustin 
+	or smithsonian 
 
 | Health_Status   | Species  | Total_Count |
 | --------------- | -------- | ----------- |
