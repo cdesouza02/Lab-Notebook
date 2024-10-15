@@ -8,6 +8,15 @@ Oct 15-19
 	symportal 
 - **pull out april2024 data because it is for historical data??** **012024 added new transects** 
 
+**SCTLD Meeting Notes Oct 10**
+- just focus on 36 rapid corals since 2019 
+	PAST, SSID, PSTR, MCAV, OFAV(maybe)
+- positive control  in the lane to normalize the concentrations of symbiont
+- randomized order of extraction
+- include some of 2019 suseptible, but only the rapid colonies 
+- Where to sequence? argonne or utaustin or smithsonian 
+
+
 |        | Healthy | Diseased_Tissue | Diseased_Margin |
 | ------ | ------- | --------------- | --------------- |
 | 092023 | 64      | 19              | 26              |
@@ -20,17 +29,9 @@ Oct 15-19
 | 082024 | 34      | 0               | 0               |
 |        | 428     | 40              | 48              |
 
-just focus on 36 rapid corals since 2019 
-	PAST, SSID, PSTR, MCAV, OFAV(maybe)
+
 16S 100 samples will all go on one run, so **organize by species?** all in one run? one lane?
 
-
-positive control  in the lane to normalize the concentrations of symbiont
-randomized order of extraction
-include some of 2019 suseptible, but only the rapid colonies 
-
-Where to sequence? argonne or utaustin 
-	or smithsonian 
 
 | Health_Status   | Species  | Total_Count |
 | --------------- | -------- | ----------- |

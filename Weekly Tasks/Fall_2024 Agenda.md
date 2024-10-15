@@ -1,6 +1,13 @@
 
+Oct 15-19 
+- [ ]  complete lab safety training
+	- SDS for new chemicals
+- [ ] symportal ITS2 papers
+- [ ] update CBC extraction plan
+- [ ] prepare for WDHOF meeting with branae and jen 
+
 Oct 7-11
-- [ ] Prepare poster for biology retreat, run by sarah on meeting October 15th
+- [x] Prepare poster for biology retreat, run by sarah on meeting October 15th
 	- [ ] figures from thesis, include 072024PAN data 
 	- [ ] discuss recovery of corals
 		- **or lack thereof, looking at the photos from crawl cay to fill in the gaps for percentages and I see that the large PSTR colonies that were bleached in 2023, are now mostly dead** 86 and 87 PSTR
@@ -11,8 +18,7 @@ Oct 7-11
 		- sankey plot
 - [x] read microbial paper (MON)
 - [x] when to meet Blake and Jordan
-- [ ]  complete lab safety training
-	- SDS for new chemicals
+
 
 Oct 2-5
 - [x]  make a recent CBC samples table 
