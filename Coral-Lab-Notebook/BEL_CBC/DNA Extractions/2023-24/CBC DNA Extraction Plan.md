@@ -8,6 +8,85 @@ Oct 15-19
 	symportal 
 - **pull out april2024 data because it is for historical data??** **012024 added new transects** 
 
+|                   |             |                 |                       |       |       |       |       |       |       |        |        |        |        |
+| ----------------- | ----------- | --------------- | --------------------- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | ------ | ------ | ------ |
+| **Health_status** | **Species** | **Total_Count** | **Unextracted_Count** |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Margin   | MCAV        | 3               | 3                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Margin   | OANN        | 3               | 2                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Margin   | OFAV        | 0               | NA                    |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Margin   | PAST        | 1               | 1                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Margin   | PSTR        | 2               | 1                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Margin   | SSID        | 16              | 16                    |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Tissue   | MCAV        | 3               | 3                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Tissue   | OANN        | 3               | 2                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Tissue   | OFAV        | 0               | NA                    |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Tissue   | PAST        | 1               | 1                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Tissue   | PSTR        | 2               | 1                     |       |       |       |       |       |       |        |        |        |        |
+| Diseased_Tissue   | SSID        | 21              | 21                    |       |       |       |       |       |       |        |        |        |        |
+| Healthy           | MCAV        | 106             | 98                    |       |       |       |       |       |       |        |        |        |        |
+| Healthy           | OANN        | 22              | 20                    |       |       |       |       |       |       |        |        |        |        |
+| Healthy           | OFAV        | 53              | 45                    |       |       |       |       |       |       |        |        |        |        |
+| Healthy           | PAST        | 80              | 70                    |       |       |       |       |       |       |        |        |        |        |
+| Healthy           | PSTR        | 58              | 53                    |       |       |       |       |       |       |        |        |        |        |
+| Healthy           | SSID        | 68              | 67                    |       |       |       |       |       |       |        |        |        |        |
+|                   |             | 442             | 404                   |       |       |       |       |       |       |        |        |        |        |
+|                   |             |                 |                       |       |       |       |       |       |       |        |        |        |        |
+real unextracted is less than 404, I just have to put in the extraction_physical_locations for the extractions ive done/ make sure they are updated
+
+RAPID Colonies
+filter out immune yes colonies from CBC_ColonyData combine with CBC_Samples 
+- is there anyway to color code the samples that have already been extracted?
+- how to populate NA on the cells that are missing a sample (not_visited)
+
+CODE
+CBC_colonydata
+filter "y" CBC_colonydat$Immune
+
+
+
+| Species_Transect_Tag | 2019      | 052022 | 122022 | ... 12 time points |     |
+| -------------------- | --------- | ------ | ------ | ------------------ | --- |
+| PAST_T1_2            | SampleNum |        |        |                    |     |
+| ...36 colonies       |           |        |        |                    |     |
+
+| 2     | PAST |
+| ----- | ---- |
+| 3     | SSID |
+| 12    | PSTR |
+| 24    | MCAV |
+| 99    | SSID |
+| 55    | MCAV |
+| 57    | PAST |
+| 60    | MCAV |
+| 63    | PAST |
+| 68    | PAST |
+| 69    | MCAV |
+| 72    | SSID |
+| 72    | SSID |
+| 73    | SSID |
+| 76    | OFAV |
+| 79    | OFAV |
+| 2     | MCAV |
+| 2     | MCAV |
+| 5     | SSID |
+| 10    | PAST |
+| 14    | MCAV |
+| 20    | PSTR |
+| 21    | MCAV |
+| 33    | SSID |
+| 34    | PAST |
+| 38    | OFAV |
+| 39    | OFAV |
+| 70    | PSTR |
+| 66/41 | OFAV |
+| 28    | MCAV |
+| 30    | MCAV |
+| 76    | MCAV |
+| 78    | OFAV |
+| 79    | PSTR |
+| 98    | PSTR |
+| 25    | OANN |
+
 **SCTLD Meeting Notes Oct 10**
 - just focus on 36 rapid corals since 2019 
 	PAST, SSID, PSTR, MCAV, OFAV(maybe)
