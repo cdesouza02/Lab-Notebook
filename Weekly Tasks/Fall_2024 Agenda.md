@@ -1,12 +1,12 @@
 
 Oct 15-19 
-- [ ]  complete lab safety training
+- [x]  complete lab safety training
 	- SDS for new chemicals
 - [ ] symportal ITS2 papers
-- [ ] prepare for WDHOF meeting with branae and jen 
+- [x] prepare for WDHOF meeting with branae and jen 
 	- branae to ask for Dr. Wernick?
 - [x] updated CBC extractions
-- [ ] poster review!
+- [x] poster review!
 
 Oct 7-11
 - [x] Prepare poster for biology retreat, run by sarah on meeting October 15th
