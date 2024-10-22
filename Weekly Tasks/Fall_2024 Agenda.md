@@ -2,14 +2,24 @@ Oct 28-31
 - [ ] NDistem
 
 Oct 21-25
+- [ ] symportal ITS2 papers
+- [ ] register for R-course
+	- temporal longitudinal data 
+- [x] set up jupyter
+	- set up conda, environment file, installed R and got jupyter lab running
+	- questions: 
+		- now if I want to go into jupyter do I have to always change my pwd to ~opt/miniconda3 and acivate the jupyter environment?
+		- based on jupyter lab this info seems like it will be saved in ~/opt/miniconda3, **is this true? if so is this the goal, that it stays located here and can be easily shared?**
+		- how does making an environment file make it easier to share my environment?
+		- can this easily be transferred into unity?
+- [ ] 
+
+Oct 21-25
 
 Oct 15-19 
 - [x]  complete lab safety training
 	- SDS for new chemicals
-- [ ] symportal ITS2 papers
 - [x] COL post
-- [ ]  register for R-course
-	- temporal longitudinal data 
 - [x] prepare for WDHOF meeting with branae and jen 
 	- branae to ask for Dr. Wernick?
 - [x] updated CBC extractions
