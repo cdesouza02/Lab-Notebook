@@ -1,8 +1,15 @@
+Oct 28-31
+- [ ] NDistem
+
+Oct 21-25
 
 Oct 15-19 
 - [x]  complete lab safety training
 	- SDS for new chemicals
 - [ ] symportal ITS2 papers
+- [x] COL post
+- [ ]  register for R-course
+	- temporal longitudinal data 
 - [x] prepare for WDHOF meeting with branae and jen 
 	- branae to ask for Dr. Wernick?
 - [x] updated CBC extractions
@@ -10,8 +17,8 @@ Oct 15-19
 
 Oct 7-11
 - [x] Prepare poster for biology retreat, run by sarah on meeting October 15th
-	- [ ] figures from thesis, include 072024PAN data 
-	- [ ] discuss recovery of corals
+	- [x] figures from thesis, include 072024PAN data 
+	- [x] discuss recovery of corals
 		- **or lack thereof, looking at the photos from crawl cay to fill in the gaps for percentages and I see that the large PSTR colonies that were bleached in 2023, are now mostly dead** 86 and 87 PSTR
 		- **i want my data to reflect that** 
 		- 89 SSID? was it ever bleached or was it just predated upon? pale?
@@ -27,7 +34,7 @@ Oct 2-5
 		- how many samples we have for each time period split by diseased vs healthy, and species 
 - [x] update computer off of ventura to use R
 	- [x] how many samples for each species 
-- [ ] **read paper sarah sent** 
+- [x] **read paper sarah sent** 
 - [x] read lab meeting paper 
 - [x] concur phoenix travel request
 - [x] submit EHS cert to GW lab drive
@@ -105,7 +112,7 @@ Sept 3-6
 - [x] check in with NEB email
 - [x] talk with brooke about transfering CBC samples to lo-bind tubes
 	- branae and jen to do this 
-- [ ] Transfer DR and cordap samples to lo-bind
+- [x] Transfer DR and cordap samples to lo-bind
 	- [x] DR microbial
 	- [x] DR host 
 	- [x] CORDAP dna extraction

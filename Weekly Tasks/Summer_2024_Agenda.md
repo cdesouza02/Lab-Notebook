@@ -49,10 +49,7 @@ August 12-15
 - [x]  Go over IDP with Sarah 
 - [x] Concur request for Colombia
 - [x] resubmit metagenomics tracker 
-- [ ] register for R-course
-	- conflicts for when travel to COL
-	- temporal longitudinal data 
-- [ ] register for NDistem confrence
+- [x] register for NDistem confrence
 
 August 5- 10
 - [x] brush up on annotations of paper 
@@ -67,9 +64,9 @@ August 5- 10
 
 
 July 29- Aug 2
-- [ ] Send out paper with discussion questions
+- [x] Send out paper with discussion questions
 - [x]  Jaggaer supplier network ASK IRMA
-- [ ] Fulbright?
+- [x] Fulbright?
 - [x] attending a confrence vs presenting at a confrence?
 	- [x] differences in registration
 
@@ -80,8 +77,8 @@ July 22- 26
 - [x] organize obsidian
 - [x] Check on 052022_T1_41_OANN_MICROBE
 	- [x] T2_71
-- [ ] look into NDiSTEM
-- [ ] **order more lo-bind tubes?**
+- [x] look into NDiSTEM
+- [x] **order more lo-bind tubes?**
 - [x]  more FedEx express airbills
 - [x] review outreach slides 
 - [x] log Panama dives
@@ -118,19 +115,19 @@ July 10-19
 
 
 July 8-9
-- [ ] Panama Prep with Felicia!!
+- [x] Panama Prep with Felicia!!
 - [x] fill & label rna later tubes
 - [x] food ideas 
 - [x] Packing (Mon)
 - [x] call hr about retirement plan
-- [ ] Sea of Change video 
-	- [ ] videos of fish, videos of sampling, everyone in the water?
+- [x] Sea of Change video 
+	- [x] videos of fish, videos of sampling, everyone in the water?
 - [x] tough tags (2-3 hrs)
 	- [x] look at each transect, how many corals in each transect, two labels per coral
 	- [x] give a margin for new corals spotted, extra 16-20 per transect 
 - [x] Pack BC 2, Reg 3
 - [x] preferentially choose 5 mcav and pstrs that have bleached and recovered a dive for microfragging
-- [ ] electronic lab notebook (shared)
+- [x] electronic lab notebook (shared)
 
 	
 July 1-5
@@ -153,10 +150,10 @@ July 1-5
 		B.S. Biology & B.A. Economics, University of Massachusetts Lowell
 		My current work is in processing coral samples for metagenomic analysis, and studying the microbiome of Caribbean stony corals. Prior to working as a technician in the lab, I was an undergraduate researcher (UML '24) and studied the impact of thermal bleaching in the Caribbean. Outside of research I enjoy watercolor painting, crocheting and being outside.
 	- [x] NAUI rescue training
-- [ ] look into NDiSTEM
+- [x] look into NDiSTEM
 
 June 24-28
-- [ ] CORDAP DNA extractions!!
+- [x] CORDAP DNA extractions!!
 - [x] 5 PSTR (Mon)
 **Problems with PSTR- missing tag 1 in colony data, and missing 7 and 62 on June transect assemest** 
 - [x] email elvira and juliana (DLAB, OFAV)
@@ -165,7 +162,7 @@ June 24-28
 - [x] update SAN_CORDAP github repo (Tues)
 	- copy SAN colony and sample data, make updates to colony
 	- [x] -send github link to Blake, share with valeria, elvira, and juliana 
-- [ ] Read two Panama grant proposals (Harper)
+- [x] Read two Panama grant proposals (Harper)
 - [x] 9 MCAV  (Wed)
 - [x] 5 OFAV (Thurs 8am-1pm)
 - [x] meeting with Savanna PROPEL
