@@ -3,6 +3,10 @@ Oct 28-31
 
 Oct 21-25
 - [ ] symportal ITS2 papers
+- [ ] psbA primer sequences
+- [ ] its2 primer sequences
+- [ ] talk to gabby about asking when her honors project is actually due, ask ali or rae 
+	- [ ] if due in december sign up for a lab meeting to practice presentation
 - [ ] register for R-course
 	- temporal longitudinal data 
 - [x] set up jupyter
