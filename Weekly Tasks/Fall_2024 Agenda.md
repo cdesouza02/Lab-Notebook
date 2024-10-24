@@ -5,6 +5,8 @@ Oct 21-25
 - [ ] symportal ITS2 papers
 - [ ] psbA primer sequences
 - [ ] its2 primer sequences
+- [x] NDistem survey & name tag confirmation
+- [x] cyber security
 - [ ] talk to gabby about asking when her honors project is actually due, ask ali or rae 
 	- [ ] if due in december sign up for a lab meeting to practice presentation
 - [ ] register for R-course
