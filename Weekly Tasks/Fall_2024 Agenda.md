@@ -4,7 +4,10 @@ Oct 28-31
 Oct 21-25
 - [ ] symportal ITS2 papers
 - [ ] psbA primer sequences
+	- [ ]  draft email Dan Thornhill about psbA
 - [ ] its2 primer sequences
+	- SYM_VAR_FWD (5′CAGCTTCTGGACGTTGYGTTGG3′) 
+	- SYM_VAR_REV (5′CGGGTTCWCTTGTYTGACTTCATGC3′)
 - [x] NDistem survey & name tag confirmation
 - [x] cyber security
 - [ ] talk to gabby about asking when her honors project is actually due, ask ali or rae 

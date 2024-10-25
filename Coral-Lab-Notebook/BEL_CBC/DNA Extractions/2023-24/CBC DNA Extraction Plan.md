@@ -4,7 +4,7 @@ Goal: identify how symbiont communities change over time in different colonies
 	using MCAV and PSTR samples since 2019
 
 Oct 15-19
-- Look at coral ITS2 metabarcoding studies and see methods number of reads per sample and or depth of sequencing
+- Look at coral ribosomal internal transcribed spacer 2 (ITS2) metabarcoding studies and see methods number of reads per sample and or depth of sequencing
 	symportal 
 - **pull out april2024 data because it is for historical data??** **012024 added new transects** 
 
