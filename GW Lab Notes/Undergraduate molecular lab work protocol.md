@@ -1,0 +1,14 @@
+- Testing pipettes. The ratio of MW and volume of water is 1:1 g:mL therefore you can easily use this as a tool to check to see if your pipettes are set to the correct volume. 
+	- Fill a beaker of water and put a weight boat on a scale
+	- Tare the scale before each measurement
+	- Set your pipette to desired volume
+	- Pipette water onto the scale with that volume
+	- Does the number on the scale correspond to the volume you have on your pipette
+		- i.e. 1 mL of water should equal 1 g on the scale
+
+- Labelling Boxes
+	- where can you find the correct formula for Box IDs on github?
+		- readme
+- 
+- PCR work 
+	- 

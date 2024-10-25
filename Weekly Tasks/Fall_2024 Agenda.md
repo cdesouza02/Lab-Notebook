@@ -1,8 +1,9 @@
 Oct 28-31
 - [ ] NDistem
+- [ ] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
 
 Oct 21-25
-- [ ] symportal ITS2 papers
+- [x] symportal ITS2 papers
 - [ ] psbA primer sequences
 	- [ ]  draft email Dan Thornhill about psbA
 - [ ] its2 primer sequences
