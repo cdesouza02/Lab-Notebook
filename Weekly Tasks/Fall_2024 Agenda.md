@@ -2,6 +2,7 @@ Oct 28-31
 - [ ] NDistem
 - [ ] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
 - [ ] CBC extraction plan
+	- questions about the diseased tissue, should I just get rid of them since I extracted them?
 - [ ] email Sarah about psbA primers 
 - [ ] 
 
