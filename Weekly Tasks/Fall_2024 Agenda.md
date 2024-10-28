@@ -1,11 +1,14 @@
 Oct 28-31
 - [ ] NDistem
 - [ ] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
+- [ ] CBC extraction plan
+- [ ] email Sarah about psbA primers 
+- [ ] 
 
 Oct 21-25
 - [x] symportal ITS2 papers
-- [ ] psbA primer sequences
-	- [ ]  draft email Dan Thornhill about psbA
+- [x] psbA primer sequences
+	- [x]  draft email Dan Thornhill about psbA
 - [ ] its2 primer sequences
 	- SYM_VAR_FWD (5′CAGCTTCTGGACGTTGYGTTGG3′) 
 	- SYM_VAR_REV (5′CGGGTTCWCTTGTYTGACTTCATGC3′)
