@@ -8,17 +8,18 @@ Nov 4-9
 	- 42024BELCBCT2_1035_SSID
 	-  62024BELCBCT1_1341_SSID (colony 1_3, apparently healthy in 082024)
 	-  62024BELCBCT3_1412_MCAV (colony 3_2, apparently healthy in 082024)
-- [ ] CBC extractions 
-	- what does a recovery in coral look like?
+	- **what does a recovery in coral look like?**
 - [ ] order more qubit tubes
 	- new standards are reading 76 & 6638, used to be half of both 
-	- 
+	- old standards are not reading in qubit
 - [ ] read review paper for lab meeting 
 - [ ] consolidate SACNAS experience
-- [ ] concur receipt upload (check in about colombia)
+- [x] concur receipt upload (check in about colombia)
+	- **speed types? for both col and phx**
+	- made up expense reports (reciepts for phx) and (per diem for COL)
 - [ ]  talk to gabby about asking when her honors project is actually due, ask ali or rae 
 	- if due in december sign up for a lab meeting to practice presentation
- - [ ] email Allison Lewis from Lajuenesse lab (her email is on slack)
+ - [x] email Allison Lewis from Lajuenesse lab (her email is on slack)
  - [ ] USA scientific well makers?
 - [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points)
 	- T1_24 (tag) MCAV
