@@ -1,8 +1,18 @@
 Goal: identify how symbiont communities change over time in different colonies
 		colonies that got diseased, died from disease, bleached and recovered, died from bleaching, and stayed healthy throughout 
 		how symbionts themselves change over time
-	using MCAV and PSTR samples since 2019
+	using MCAV and PSTR samples since 2019\
+	
+**Oct 29 meeting w/ Sarah** 
+total exractions left to do ~260
+	may be fewer depending on the recent Thijs extraction tubes that Brooke found 
+if you want to see diseased and diseased tissue look at immune_samples_all.csv
+confirm that rapid colonies only became diseased in 22024
+- extractions from 260 extractions Nov 4-Dec 6
+- pcr practice Dec 9-12
 
+**calculation of Molarity**
+concentration of DNA times size of dna fragment (from gel)
 Oct 15-19
 - Look at coral ribosomal internal transcribed spacer 2 (ITS2) metabarcoding studies and see methods number of reads per sample and or depth of sequencing
 	symportal 

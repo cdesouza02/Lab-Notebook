@@ -1,10 +1,17 @@
 Oct 28-31
 - [ ] NDistem
-- [ ] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
+	- which talks to go to on friday 3:15 to 4:30
+- [ ] talk to gabby about asking when her honors project is actually due, ask ali or rae 
+	- [ ] if due in december sign up for a lab meeting to practice presentation
+- [x] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
 - [ ] CBC extraction plan
 	- questions about the diseased tissue, should I just get rid of them since I extracted them?
-- [ ] email Sarah about psbA primers 
-- [ ] 
+- [ ] email Sarah Davies about psbA primers 
+	- [ ] try Allison Lewis from Lajuenesse lab
+- [ ] tell brooke to keep an eye out for USA Scientific well makers 
+- [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points)
+	- T1_24 (tag) MCAV
+	- 2019 T3_70_PSTR
 
 Oct 21-25
 - [x] symportal ITS2 papers
@@ -15,8 +22,6 @@ Oct 21-25
 	- SYM_VAR_REV (5′CGGGTTCWCTTGTYTGACTTCATGC3′)
 - [x] NDistem survey & name tag confirmation
 - [x] cyber security
-- [ ] talk to gabby about asking when her honors project is actually due, ask ali or rae 
-	- [ ] if due in december sign up for a lab meeting to practice presentation
 - [ ] register for R-course
 	- temporal longitudinal data 
 - [x] set up jupyter
