@@ -1,17 +1,33 @@
-Oct 28-31
-- [ ] NDistem
-	- which talks to go to on friday 3:15 to 4:30
-- [ ] talk to gabby about asking when her honors project is actually due, ask ali or rae 
-	- [ ] if due in december sign up for a lab meeting to practice presentation
-- [x] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
-- [ ] CBC extraction plan
-	- questions about the diseased tissue, should I just get rid of them since I extracted them?
-- [ ] email Sarah Davies about psbA primers 
-	- [ ] try Allison Lewis from Lajuenesse lab
-- [ ] tell brooke to keep an eye out for USA Scientific well makers 
+Nov 4-9
+- [ ] emails to SACNAS ppl, 
+	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
+- [ ] Diseased Margin Extractions (Mon)
+	- 22024BelizeCBCT2806_SSID (colony 2_72, not reported as diseased after this, why?)
+	- 22024BelizeCBCT3843_MCAV
+	-  42024BELCBCT1_932_SSID
+	- 42024BELCBCT2_1035_SSID
+	-  62024BELCBCT1_1341_SSID (colony 1_3, apparently healthy in 082024)
+	-  62024BELCBCT3_1412_MCAV (colony 3_2, apparently healthy in 082024)
+- [ ] CBC extractions 
+	- what does a recovery in coral look like?
+- [ ] read review paper for lab meeting 
+- [ ] consolidate SACNAS experience
+- [ ] concur receipt upload (check in about colombia)
+- [ ]  talk to gabby about asking when her honors project is actually due, ask ali or rae 
+	- if due in december sign up for a lab meeting to practice presentation
+ - [ ] email Allison Lewis from Lajuenesse lab (her email is on slack)
+ - [ ] USA scientific well makers?
 - [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points)
 	- T1_24 (tag) MCAV
 	- 2019 T3_70_PSTR
+
+Oct 28-31
+- [x] NDistem
+	- which talks to go to on friday 3:15 to 4:30
+- [x] post-PCR room for coral pcr as well as oyster pcr? should we use the same fridge?
+- [x] CBC extraction plan
+	- questions about the diseased tissue, should I just get rid of them since I extracted them?
+- [x] email Sarah Davies about psbA primers 
 
 Oct 21-25
 - [x] symportal ITS2 papers
