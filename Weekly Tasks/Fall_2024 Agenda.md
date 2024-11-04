@@ -11,6 +11,8 @@ Nov 4-9
 - [ ] CBC extractions 
 	- what does a recovery in coral look like?
 - [ ] order more qubit tubes
+	- new standards are reading 76 & 6638, used to be half of both 
+	- 
 - [ ] read review paper for lab meeting 
 - [ ] consolidate SACNAS experience
 - [ ] concur receipt upload (check in about colombia)
