@@ -1,7 +1,7 @@
 Nov 4-9
 - [ ] emails to SACNAS ppl, 
 	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
-- [ ] Diseased Margin Extractions (Mon)
+- [x] Diseased Margin Extractions (Mon)
 	- 22024BelizeCBCT2806_SSID (colony 2_72, not reported as diseased after this, why?)
 	- 22024BelizeCBCT3843_MCAV
 	-  42024BELCBCT1_932_SSID
@@ -10,6 +10,7 @@ Nov 4-9
 	-  62024BELCBCT3_1412_MCAV (colony 3_2, apparently healthy in 082024)
 - [ ] CBC extractions 
 	- what does a recovery in coral look like?
+- [ ] order more qubit tubes
 - [ ] read review paper for lab meeting 
 - [ ] consolidate SACNAS experience
 - [ ] concur receipt upload (check in about colombia)
