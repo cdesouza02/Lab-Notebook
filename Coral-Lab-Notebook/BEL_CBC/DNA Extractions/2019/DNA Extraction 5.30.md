@@ -23,6 +23,7 @@ Sample 2
 Sample 3
 	102019_T1_29_PSTR
 	0.1056 g
+	
 	 2.0 ng/ul
 	 53.1 ng/ul 
 	  1.85 260/280

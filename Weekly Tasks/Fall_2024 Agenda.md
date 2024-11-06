@@ -2,8 +2,8 @@ Nov 4-9
 - [ ] emails to SACNAS ppl, 
 	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
 - [x] Diseased Margin Extractions (Mon)
-	- 22024BelizeCBCT2806_SSID (colony 2_72, not reported as diseased after this, why?)
-	- 22024BelizeCBCT3843_MCAV
+	- 22024BelizeCBCT2_806_SSID (colony 2_72, not reported as diseased after this, why?)
+	- 22024BelizeCBCT3_843_MCAV
 	-  42024BELCBCT1_932_SSID
 	- 42024BELCBCT2_1035_SSID
 	-  62024BELCBCT1_1341_SSID (colony 1_3, apparently healthy in 082024)
@@ -11,17 +11,18 @@ Nov 4-9
 	- **what does a recovery in coral look like?**
 - [ ] order more qubit tubes
 	- new standards are reading 76 & 6638, used to be half of both 
+		- read the box how to interpert what the standards say 
 	- old standards are not reading in qubit
+		- maybe use the other qubit machine 
 - [ ] read review paper for lab meeting 
 - [ ] consolidate SACNAS experience
 - [x] concur receipt upload (check in about colombia)
 	- **speed types? for both col and phx**
 	- made up expense reports (reciepts for phx) and (per diem for COL)
-- [ ]  talk to gabby about asking when her honors project is actually due, ask ali or rae 
-	- if due in december sign up for a lab meeting to practice presentation
  - [x] email Allison Lewis from Lajuenesse lab (her email is on slack)
  - [ ] USA scientific well makers?
-- [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points)
+	 - check in post pcr rooms and ask julia 
+- [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points) look through 2019 datasheets 
 	- T1_24 (tag) MCAV
 	- 2019 T3_70_PSTR
 
