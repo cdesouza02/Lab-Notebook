@@ -9,7 +9,7 @@ Nov 4-9
 	-  62024BELCBCT1_1341_SSID (colony 1_3, apparently healthy in 082024)
 	-  62024BELCBCT3_1412_MCAV (colony 3_2, apparently healthy in 082024)
 	- **what does a recovery in coral look like?**
-- [ ] order more qubit tubes
+- [ ] order more qubit tubes, quibit kit, and stuff for Jade
 	- new standards are reading 76 & 6638, used to be half of both 
 		- read the box how to interpert what the standards say 
 	- old standards are not reading in qubit
@@ -20,7 +20,7 @@ Nov 4-9
 	- **speed types? for both col and phx**
 	- made up expense reports (reciepts for phx) and (per diem for COL)
  - [x] email Allison Lewis from Lajuenesse lab (her email is on slack)
- - [ ] USA scientific well makers?
+ - [x] USA scientific well makers?
 	 - check in post pcr rooms and ask julia 
 - [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points) look through 2019 datasheets 
 	- T1_24 (tag) MCAV
