@@ -1,7 +1,16 @@
 Goal: identify how symbiont communities change over time in different colonies
 		colonies that got diseased, died from disease, bleached and recovered, died from bleaching, and stayed healthy throughout 
 		how symbionts themselves change over time
-	using MCAV and PSTR samples since 2019\
+	using MCAV and PSTR samples since 2019
+
+Nov 7 SCTLD meeting
+look through 2019 datasheets (PAST, SSID, MCAV, PSTR should have data for all time points)  
+	- T1_24 (tag) MCAV
+		- T1_Tag#24_MCAV was visited since 2019, but no evidence of sample
+		- **in sample sheet 052022, but not sampled?**
+		- labeled incorrectly as new tag 18 for 2019
+	- 2019 T3_70_PSTR
+		- **T3_70 wasnt visited in colony data until 122022 (why would it be included in rapid?)**
 	
 **Oct 29 meeting w/ Sarah** 
 total exractions left to do ~260

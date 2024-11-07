@@ -22,9 +22,7 @@ Nov 4-9
  - [x] email Allison Lewis from Lajuenesse lab (her email is on slack)
  - [x] USA scientific well makers?
 	 - check in post pcr rooms and ask julia 
-- [ ] samples missing from 2019 ask brooke (PAST, SSID, MCAV, PSTR should have data for all time points) look through 2019 datasheets 
-	- T1_24 (tag) MCAV
-	- 2019 T3_70_PSTR
+- [ ] samples missing from 2019 
 
 Oct 28-31
 - [x] NDistem
