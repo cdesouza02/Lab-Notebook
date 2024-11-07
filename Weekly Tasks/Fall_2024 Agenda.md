@@ -1,5 +1,9 @@
+Nov 11-15
+- [ ] can i measure coral DNA with BR qubit or should I wait for the order to come in?
+- [ ] 
+
 Nov 4-9
-- [ ] emails to SACNAS ppl, 
+- [ ] emails to SACNAS ppl, consolidate SACNAS experience
 	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
 - [x] Diseased Margin Extractions (Mon)
 	- 22024BelizeCBCT2_806_SSID (colony 2_72, not reported as diseased after this, why?)
@@ -9,20 +13,38 @@ Nov 4-9
 	-  62024BELCBCT1_1341_SSID (colony 1_3, apparently healthy in 082024)
 	-  62024BELCBCT3_1412_MCAV (colony 3_2, apparently healthy in 082024)
 	- **what does a recovery in coral look like?**
-- [ ] order more qubit tubes, quibit kit, and stuff for Jade
+- [ ] CBC Extractions (FRI)
+|92023BELCBCT1_171_PAST|
+|92023BELCBCT1_172_PAST|
+|92023BELCBCT1_173_SSID|
+|92023BELCBCT1_174_MCAV|
+|92023BELCBCT1_175_PAST|
+|92023BELCBCT1_177_PSTR|
+|92023BELCBCT2_171_OFAV|
+|92023BELCBCT2_172_OFAV|
+|92023BELCBCT2_173_SSID|
+|92023BELCBCT2_174_SSID|
+|92023BELCBCT2_175_PAST|
+|92023BELCBCT2_176_MCAV|
+|92023BELCBCT2_179_SSID|
+|92023BELCBCT2_181_PAST|
+|92023BELCBCT2_182_PAST|
+|92023BELCBCT2_183_MCAV|
+|92023BELCBCT2_184_MCAV|
+|92023BELCBCT1_178_OANN|
+- [x] order more qubit tubes, quibit kit, and stuff for Jade
 	- new standards are reading 76 & 6638, used to be half of both 
 		- read the box how to interpert what the standards say 
 	- old standards are not reading in qubit
 		- maybe use the other qubit machine 
-- [ ] read review paper for lab meeting 
-- [ ] consolidate SACNAS experience
+- [x] read review paper for lab meeting 
 - [x] concur receipt upload (check in about colombia)
 	- **speed types? for both col and phx**
 	- made up expense reports (reciepts for phx) and (per diem for COL)
  - [x] email Allison Lewis from Lajuenesse lab (her email is on slack)
  - [x] USA scientific well makers?
 	 - check in post pcr rooms and ask julia 
-- [ ] samples missing from 2019 
+- [x] samples missing from 2019 
 
 Oct 28-31
 - [x] NDistem
