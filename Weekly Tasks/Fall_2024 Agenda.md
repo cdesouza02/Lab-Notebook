@@ -13,25 +13,8 @@ Nov 4-9
 	-  62024BELCBCT1_1341_SSID (colony 1_3, apparently healthy in 082024)
 	-  62024BELCBCT3_1412_MCAV (colony 3_2, apparently healthy in 082024)
 	- **what does a recovery in coral look like?**
-- [ ] CBC Extractions (FRI)
-|92023BELCBCT1_171_PAST|
-|92023BELCBCT1_172_PAST|
-|92023BELCBCT1_173_SSID|
-|92023BELCBCT1_174_MCAV|
-|92023BELCBCT1_175_PAST|
-|92023BELCBCT1_177_PSTR|
-|92023BELCBCT2_171_OFAV|
-|92023BELCBCT2_172_OFAV|
-|92023BELCBCT2_173_SSID|
-|92023BELCBCT2_174_SSID|
-|92023BELCBCT2_175_PAST|
-|92023BELCBCT2_176_MCAV|
-|92023BELCBCT2_179_SSID|
-|92023BELCBCT2_181_PAST|
-|92023BELCBCT2_182_PAST|
-|92023BELCBCT2_183_MCAV|
-|92023BELCBCT2_184_MCAV|
-|92023BELCBCT1_178_OANN|
+- [x] CBC Extractions (FRI)
+	092023 healthy
 - [x] order more qubit tubes, quibit kit, and stuff for Jade
 	- new standards are reading 76 & 6638, used to be half of both 
 		- read the box how to interpert what the standards say 
