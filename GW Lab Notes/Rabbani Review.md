@@ -15,7 +15,7 @@ questions
 
 
 Edits
-- need an ending parenthesis in line 92
+- line 92 need an ending parenthesis 
 -  line 107 saying Corals were collected sounds like entire corals 
 - line 132, what does briefly mean in this case?
 - line 163 why chnage the default settings for the reads?

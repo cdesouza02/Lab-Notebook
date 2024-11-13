@@ -1,8 +1,23 @@
+Dec 9-13
+- [ ] edit gabby's thesis 
+- [ ] Revisit IDP 
+
+Nov 18-22
+- [ ] undergrad interest form
+
 Nov 11-15
-- [ ] can i measure coral DNA with BR qubit or should I wait for the order to come in?
-- [ ] prepare package for brooke
-- [ ] Healthy Extractions
-	- 
+- [x] can i measure coral DNA with BR qubit or should I wait for the order to come in?
+	- wait
+- [ ] emails to SACNAS ppl, consolidate SACNAS experience
+	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
+- [ ] LSAMP (Thurs)
+	- [ ] rsvp
+- [ ] prep for lab meeting (Fri)
+- [ ] fix the CBC metagenomics tracker for old tag 380 
+- [x] order more 1000 pipette tips
+- [x] prepare package for brooke
+	- email brooke the tracking number 
+- [x] Healthy Extractions (Tues)
 92023BELCBCT4_91_MCAV
 92023BELCBCT4_92_PSTR
 92023BELCBCT4_93_PSTR
@@ -25,8 +40,6 @@ Nov 11-15
 
 
 Nov 4-9
-- [ ] emails to SACNAS ppl, consolidate SACNAS experience
-	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
 - [x] Diseased Margin Extractions (Mon)
 	- 22024BelizeCBCT2_806_SSID (colony 2_72, not reported as diseased after this, why?)
 	- 22024BelizeCBCT3_843_MCAV
