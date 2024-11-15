@@ -3,16 +3,16 @@ Dec 9-13
 - [ ] Revisit IDP 
 
 Nov 18-22
-- [ ] undergrad interest form
 
 Nov 11-15
 - [x] can i measure coral DNA with BR qubit or should I wait for the order to come in?
 	- wait
 - [ ] emails to SACNAS ppl, consolidate SACNAS experience
 	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
-- [ ] LSAMP (Thurs)
-	- [ ] rsvp
-- [ ] prep for lab meeting (Fri)
+- [x] LSAMP (Thurs)
+	- [x] rsvp
+- [x] prep for lab meeting (Fri)
+- [x]  undergrad interest form (in admin on google drive, but want only verified uml emails to have access)
 - [ ] fix the CBC metagenomics tracker for old tag 380 
 - [x] order more 1000 pipette tips
 - [x] prepare package for brooke
