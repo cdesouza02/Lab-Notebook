@@ -3,17 +3,24 @@ Dec 9-13
 - [ ] Revisit IDP 
 
 Nov 18-22
-
+- [ ] contact EHS (pickup+stickers)
+- [x] my order? on the way!
+- [x] fill small ethanol? Yes! with molecular EtOH
+- [ ] cardboard box to put empty tip boxes in basement
+- [ ] read Microbial solutions must be deployed against climate catastrophe
+- [x] 122023 dna extractions (MON and Tues)
+- [ ] nanodrop all negatives and one sample from each date (Wed)
+- [ ]  fix the CBC metagenomics tracker for old tag 380 
+- [ ] emails to SACNAS ppl, consolidate SACNAS experience
+	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
+	
 Nov 11-15
 - [x] can i measure coral DNA with BR qubit or should I wait for the order to come in?
 	- wait
-- [ ] emails to SACNAS ppl, consolidate SACNAS experience
-	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
 - [x] LSAMP (Thurs)
 	- [x] rsvp
 - [x] prep for lab meeting (Fri)
 - [x]  undergrad interest form (in admin on google drive, but want only verified uml emails to have access)
-- [ ] fix the CBC metagenomics tracker for old tag 380 
 - [x] order more 1000 pipette tips
 - [x] prepare package for brooke
 	- email brooke the tracking number 
