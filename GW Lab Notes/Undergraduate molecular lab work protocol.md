@@ -11,4 +11,30 @@
 		- readme
 - 
 - PCR work 
-	- 
+	- Master Mix
+		- important to make up fresh master mix every time
+		- 
+- Gel Electrophoresis 
+	- dilutions for TE Buffer (10x to 1x)
+	- making TE Buffer
+	- Basics
+		- why do we use gel eletrophoresis in genetics work?
+		- how does it work?
+		- what is a dna ladder? why do we need to make sure to use one in every gel?
+		- what changes when we change the setting of an electrophoresis run
+			- **read a paper on this**
+	- making a gel
+		- how thick to make it 
+		- how to tell when your gel is solidified
+	- loading a gel
+		- loading dye on parafilm
+		- hand steadiness
+		- 
+	- Visualizing a gel
+		- our phone method 
+		- method upstairs that also visualizes SDS-PAGE
+	- Reusing gels
+		- can only be reused up to twice
+	- Cleaning up after a gel
+
+
