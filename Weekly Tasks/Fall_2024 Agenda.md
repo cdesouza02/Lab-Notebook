@@ -4,13 +4,20 @@ Dec 9-13
 
 Nov 18-22
 - [ ] contact EHS (pickup+stickers)
+- [ ] pipette tip empties (just throw them out)
+- [ ] fischer 20 ul pipette tips to test if they fit on 2 ul pipettes 
+- [ ] Do the refillables fit in the thermofischer
+- [ ] move unfiltered pipette tips?
+	- keep some for undergrads doing oyster stuff 
+- [ ] fridge in post pcr room
+	- consolidate pipette
 - [x] my order? on the way!
 - [x] fill small ethanol? Yes! with molecular EtOH
 - [ ] cardboard box to put empty tip boxes in basement
-- [ ] read Microbial solutions must be deployed against climate catastrophe
+- [x] read Microbial solutions must be deployed against climate catastrophe
 - [x] 122023 dna extractions (MON and Tues)
-- [ ] nanodrop all negatives and one sample from each date (Wed)
-- [ ]  fix the CBC metagenomics tracker for old tag 380 
+- [ ] nanodrop all negatives and one sample from each date (Thurs)
+- [x]  fix the CBC metagenomics tracker for old tag 380 
 - [ ] emails to SACNAS ppl, consolidate SACNAS experience
 	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
 	
