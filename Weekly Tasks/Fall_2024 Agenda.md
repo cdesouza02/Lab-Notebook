@@ -1,6 +1,7 @@
 Dec 9-13
 - [ ] edit gabby's thesis 
-- [ ] Revisit IDP 
+- [ ] Revise IDP 
+- [ ]  37 degree incubator now that oyster ppl are using it?
 
 Nov 18-22
 - [ ] contact EHS (pickup+stickers)
@@ -14,9 +15,11 @@ Nov 18-22
 - [x] my order? on the way!
 - [x] fill small ethanol? Yes! with molecular EtOH
 - [ ] cardboard box to put empty tip boxes in basement
+- [ ] set up for outreach
+- [ ] set up for friday extraction w Nikea
 - [x] read Microbial solutions must be deployed against climate catastrophe
 - [x] 122023 dna extractions (MON and Tues)
-- [ ] nanodrop all negatives and one sample from each date (Thurs)
+- [ ] quibit Rapid samples(Thurs)
 - [x]  fix the CBC metagenomics tracker for old tag 380 
 - [ ] emails to SACNAS ppl, consolidate SACNAS experience
 	- Dr. Merchant, Rosemaria (NOAA panel), Oregon State (Dr. Weis), CSU Masters
