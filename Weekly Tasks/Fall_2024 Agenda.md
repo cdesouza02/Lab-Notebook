@@ -15,8 +15,8 @@ Nov 18-22
 - [x] my order? on the way!
 - [x] fill small ethanol? Yes! with molecular EtOH
 - [ ] cardboard box to put empty tip boxes in basement
-- [ ] set up for outreach
-- [ ] set up for friday extraction w Nikea
+- [x] set up for outreach
+- [x] set up for friday extraction w Nikea
 - [x] read Microbial solutions must be deployed against climate catastrophe
 - [x] 122023 dna extractions (MON and Tues)
 - [ ] quibit Rapid samples(Thurs)
