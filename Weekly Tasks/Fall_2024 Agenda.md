@@ -3,18 +3,24 @@ Dec 9-13
 - [ ] Revise IDP 
 - [ ]  37 degree incubator now that oyster ppl are using it?
 
+Nov 25-28
+- [ ] 02024 dna extractions (Mon)
+- [ ] donelan box in basement
+- [ ] 042024 dna extractions (tues)
+- [ ] meeting with sarah? (tues)
+	- ORDER PIPETTE TIPS 
+	- ask about consilidating post-pcr fridge space
+	- move unfiltered pipette tips? keep some for undergrads doing oyster stuff 
+	-   pipette tip empties (just throw them out)?
+- [ ] BGC outreach (tues)
+- [ ]  contact EHS (pickup+stickers)
+- [ ] do the fischer 20 ul pipette tips fit on 2 ul pipettes ?
+- [ ] Do the refillables fit in the thermofischer piette tip boxes?
+- [ ] 
+
 Nov 18-22
-- [ ] contact EHS (pickup+stickers)
-- [ ] pipette tip empties (just throw them out)
-- [ ] fischer 20 ul pipette tips to test if they fit on 2 ul pipettes 
-- [ ] Do the refillables fit in the thermofischer
-- [ ] move unfiltered pipette tips?
-	- keep some for undergrads doing oyster stuff 
-- [ ] fridge in post pcr room
-	- consolidate pipette
 - [x] my order? on the way!
 - [x] fill small ethanol? Yes! with molecular EtOH
-- [ ] cardboard box to put empty tip boxes in basement
 - [x] set up for outreach
 - [x] set up for friday extraction w Nikea
 - [x] read Microbial solutions must be deployed against climate catastrophe
