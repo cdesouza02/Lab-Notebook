@@ -1,22 +1,38 @@
+Summer 2025
+- move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
+
 Dec 9-13
 - [ ] edit gabby's thesis 
 - [ ] Revise IDP 
-- [ ]  37 degree incubator now that oyster ppl are using it?
+- [ ] PCR protocol practice
+
+Dec 1-6
+- [ ] new pipette tips
+	-  do the fischer 20 ul pipette tips fit on 2 ul pipettes ?
+	- Do the refillables fit in the thermofischer piette tip boxes?
+- [ ] requbit
+	- 92023BELCBCT1_175_PAST 0.14 ng/ul
+	- 92023BELCBCT3_172_PSTR
+	- 112023BELCBCT1_274_PAST
+	- 
 
 Nov 25-28
-- [ ] 02024 dna extractions (Mon)
+- [x] 02024 dna extractions (tues)
 - [ ] donelan box in basement
-- [ ] 042024 dna extractions (tues)
-- [ ] meeting with sarah? (tues)
-	- ORDER PIPETTE TIPS 
-	- ask about consilidating post-pcr fridge space
-	- move unfiltered pipette tips? keep some for undergrads doing oyster stuff 
-	-   pipette tip empties (just throw them out)?
+- [ ] grab incubator from 601 (center table, on right side)
+- [ ] 042024 dna extractions (wed)
+- [x] meeting with sarah? (tues)
+	- ~~ORDER PIPETTE TIPS~~ 
+	- ~~ask about consilidating post-pcr fridge space~~ (throw out sea cuc)
+	-  ~~pipette tip empties save for sarah donelan~~
+	- ~~37 degree incubator now that oyster ppl are using it **water bath**~~ 
+- [ ] more research on cHTR reagent and how much it matters in dna extraction
+		- call omega bio-tek
+		- cut the pipette tip
+- [ ] borrow p10 and pipette tips from a lab to use up the beaded genetic material 
+	- Jessica Garb 
 - [ ] BGC outreach (tues)
 - [ ]  contact EHS (pickup+stickers)
-- [ ] do the fischer 20 ul pipette tips fit on 2 ul pipettes ?
-- [ ] Do the refillables fit in the thermofischer piette tip boxes?
-- [ ] 
 
 Nov 18-22
 - [x] my order? on the way!
