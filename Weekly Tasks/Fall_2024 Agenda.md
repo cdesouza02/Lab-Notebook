@@ -14,13 +14,13 @@ Dec 1-6
 	- 92023BELCBCT1_175_PAST 0.14 ng/ul
 	- 92023BELCBCT3_172_PSTR
 	- 112023BELCBCT1_274_PAST
-	- 
+- [ ] contact EHS (pickup+stickers)
+- [ ] donelan box in basement
+- [ ] Julia to grab incubator from 601 (center table, on right side)
 
 Nov 25-28
 - [x] 02024 dna extractions (tues)
-- [ ] donelan box in basement
-- [ ] grab incubator from 601 (center table, on right side)
-- [ ] 042024 dna extractions (wed)
+- [x] 042024 dna extractions (wed)
 - [x] meeting with sarah? (tues)
 	- ~~ORDER PIPETTE TIPS~~ 
 	- ~~ask about consilidating post-pcr fridge space~~ (throw out sea cuc)
@@ -29,10 +29,9 @@ Nov 25-28
 - [ ] more research on cHTR reagent and how much it matters in dna extraction
 		- call omega bio-tek
 		- cut the pipette tip
-- [ ] borrow p10 and pipette tips from a lab to use up the beaded genetic material 
+- [x] borrow p10 and pipette tips from a lab to use up the beaded genetic material 
 	- Jessica Garb 
-- [ ] BGC outreach (tues)
-- [ ]  contact EHS (pickup+stickers)
+- [x] BGC outreach (tues)
 
 Nov 18-22
 - [x] my order? on the way!
