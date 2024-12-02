@@ -10,7 +10,7 @@ Dec 1-6
 - [ ] new pipette tips
 	-  do the fischer 20 ul pipette tips fit on 2 ul pipettes ?
 	- Do the refillables fit in the thermofischer piette tip boxes?
-- [ ] requbit
+- [x] requbit
 	- 92023BELCBCT1_175_PAST 0.14 ng/ul
 	- 92023BELCBCT3_172_PSTR
 	- 112023BELCBCT1_274_PAST
