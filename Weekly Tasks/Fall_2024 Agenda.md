@@ -3,8 +3,13 @@ Summer 2025
 
 Dec 9-13
 - [ ] edit gabby's thesis 
+- [ ] Talk about panama and the long term sampling oals
 - [ ] Revise IDP 
 - [ ] PCR protocol practice
+- [ ] orders
+	- more 25 ml serological pipettes
+	- RNAse from omega bio-tek
+	- qubit tubes
 
 Dec 1-6
 - [ ] new pipette tips
