@@ -2,7 +2,7 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 
 Dec 9-13
-- [ ] edit gabby's thesis 
+- [ ] edit gabby's thesis
 - [ ] Talk about panama and the long term sampling oals
 - [ ] Revise IDP 
 - [ ] PCR protocol practice
@@ -20,6 +20,8 @@ Dec 1-6
 	- 92023BELCBCT3_172_PSTR
 	- 112023BELCBCT1_274_PAST
 - [ ] contact EHS (pickup+stickers)
+- [ ] meeting with Sarah
+	- Erins email, why do they put the extraction in the -80? should we do that?
 - [ ] donelan box in basement
 - [ ] Julia to grab incubator from 601 (center table, on right side)
 
