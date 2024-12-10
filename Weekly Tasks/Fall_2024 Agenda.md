@@ -2,14 +2,23 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 
 Dec 9-13
+- [x] go through PCR protocol confirm reagents 
 - [ ] edit gabby's thesis
-- [ ] Talk about panama and the long term sampling oals
+- [ ] Talk about panama and the long term sampling goals
 - [ ] Revise IDP 
 - [ ] PCR protocol practice
+- [ ] Rabbani review
+- [x] label the -80 racks
+- [x] donelan box in basement
+- [x] email sofi about samples
+- [x]  contact EHS (pickup+stickers)
 - [ ] orders
 	- more 25 ml serological pipettes
+		- Jen to be using the glass sereological pipettes
 	- RNAse from omega bio-tek
 	- qubit tubes
+	- heat block insert 
+	- lock box for basement key
 
 Dec 1-6
 - [ ] new pipette tips
@@ -19,11 +28,9 @@ Dec 1-6
 	- 92023BELCBCT1_175_PAST 0.14 ng/ul
 	- 92023BELCBCT3_172_PSTR
 	- 112023BELCBCT1_274_PAST
-- [ ] contact EHS (pickup+stickers)
-- [ ] meeting with Sarah
+- [x] meeting with Sarah
 	- Erins email, why do they put the extraction in the -80? should we do that?
-- [ ] donelan box in basement
-- [ ] Julia to grab incubator from 601 (center table, on right side)
+- [x] Julia to grab incubator from 601 (center table, on right side)
 
 Nov 25-28
 - [x] 02024 dna extractions (tues)
