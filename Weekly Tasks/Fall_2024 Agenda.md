@@ -3,7 +3,7 @@ Summer 2025
 
 Dec 9-13
 - [x] go through PCR protocol confirm reagents 
-- [ ] edit gabby's thesis
+- [x] edit gabby's thesis
 - [ ] Talk about panama and the long term sampling goals
 - [ ] Revise IDP 
 - [ ] PCR protocol practice
