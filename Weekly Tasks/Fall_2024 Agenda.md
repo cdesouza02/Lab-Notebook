@@ -1,12 +1,15 @@
 Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 
+- [ ] Revise IDP 
+
 Dec 9-13
 - [x] go through PCR protocol confirm reagents 
 - [x] edit gabby's thesis
-- [ ] Talk about panama and the long term sampling goals
-- [ ] Revise IDP 
+- [x] Talk about panama and the long term sampling goals
+- [ ] organize samples from Sofi
 - [ ] PCR protocol practice
+	- cleaning prior to pooling?
 - [ ] Rabbani review
 - [x] label the -80 racks
 - [x] donelan box in basement
