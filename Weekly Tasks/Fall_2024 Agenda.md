@@ -2,6 +2,8 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 
 - [ ] Revise IDP 
+- [ ] email alison about figuring things out (if she hasn't had her baby)
+- [ ] respond to kira, love to talk to her about how to interpert the data
 
 Dec 9-13
 - [x] go through PCR protocol confirm reagents 
@@ -21,7 +23,7 @@ Dec 9-13
 	- RNAse from omega bio-tek
 	- qubit tubes
 	- heat block insert 
-	- lock box for basement key
+- [ ] ask irma for lock box for basement key
 
 Dec 1-6
 - [ ] new pipette tips
