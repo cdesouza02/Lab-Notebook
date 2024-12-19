@@ -6,6 +6,7 @@ Winter Break
 	- [ ] print out new  labels 
 	- [ ] take half of the sample 
 	- [ ] update panama samples excel
+- [ ] move june colony photos to Colony photos folder
 
 note in github that some panama samples aren't split 
 
