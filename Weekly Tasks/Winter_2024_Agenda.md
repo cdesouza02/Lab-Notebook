@@ -7,7 +7,8 @@ Dec 16-20
 - [x] move june colony photos to Colony photos folder
 - [x] trash
 - [ ] 2nd part of 1st pcr
-- [ ] 
+- [ ] compile 96 in first PCR 
+	- [ ] then move on to indexing 96 at a time
 
 note in github that some panama samples aren't split 
 - [ ] update panama samples excel
