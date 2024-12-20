@@ -1,23 +1,20 @@
 Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 
-- [ ] Revise IDP 
-- [ ] email alison about figuring things out (if she hasn't had her baby)
-- [ ] respond to kira, love to talk to her about how to interpert the data
 
 Dec 9-13
 - [x] go through PCR protocol confirm reagents 
 - [x] edit gabby's thesis
 - [x] Talk about panama and the long term sampling goals
 - [ ] organize samples from Sofi
-- [ ] PCR protocol practice
+- [x] PCR protocol practice
 	- cleaning prior to pooling?
-- [ ] Rabbani review
+- [x] Rabbani review
 - [x] label the -80 racks
 - [x] donelan box in basement
 - [x] email sofi about samples
 - [x]  contact EHS (pickup+stickers)
-- [ ] orders
+- [x] orders
 	- more 25 ml serological pipettes
 		- Jen to be using the glass sereological pipettes
 	- RNAse from omega bio-tek
