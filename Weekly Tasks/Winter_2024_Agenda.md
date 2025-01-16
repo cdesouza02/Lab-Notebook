@@ -1,4 +1,11 @@
 
+- [ ] test pcr on accidental samples
+	- [ ] also sample that I had redone
+- [ ] send brooke sankey plot code
+- [ ] clean up CBC_samples 
+- [ ] branae to startt extracting panama samples for her own project
+- [ ] change dna extraction protocol to specify lo-bind tubes
+
 Dec 16-20
 - [ ] branae to dna extraction practice 
 - [ ] Revise IDP 
