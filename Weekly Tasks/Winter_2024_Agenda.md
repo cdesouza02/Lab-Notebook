@@ -1,21 +1,33 @@
+Jan 21-24
+- [ ] interviews
+	- Tues 11 am Jake
+	- Tues 1 pm Rynn
+	- Wed 10 am Sara
+- [ ] clean up CBC_samples 
+	- use brookes jupyter notebook draft
+	- issues to solve: add leading zeros, sorting?
+- [ ] branae to start extracting panama samples for her own project
 
+Jan 13-17
+- [x] last RAPID DNA extractions!!! 
+	- ~~062024 MON~~
+	- ~~082024 TUES~~
+	- ~~082024 WED~~
+- [ ] Revise IDP 
 - [ ] test pcr on accidental samples
 	- [ ] also sample that I had redone
-- [ ] send brooke sankey plot code
-- [ ] clean up CBC_samples 
-- [ ] branae to startt extracting panama samples for her own project
-- [ ] change dna extraction protocol to specify lo-bind tubes
+- [x] send brooke sankey plot code 
+- [ ] note in github that some panama samples aren't split 
+	- update panama samples excel
+- [x] change dna extraction protocol to specify lo-bind tubes
+
 
 Dec 16-20
-- [ ] branae to dna extraction practice 
-- [ ] Revise IDP 
+- [x] branae to dna extraction practice 
 - [x] email alison about figuring things out (if she hasn't had her baby)
 - [x] respond to kira, love to talk to her about how to interpert the data
 - [x] move june colony photos to Colony photos folder
 - [x] trash
-- [ ] 2nd part of 1st pcr
+- [x] troubleshoot 2nd part of 1st pcr
 - [ ] compile 96 in first PCR 
 	- [ ] then move on to indexing 96 at a time
-
-note in github that some panama samples aren't split 
-- [ ] update panama samples excel
