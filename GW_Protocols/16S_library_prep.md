@@ -29,7 +29,7 @@
 2. Pipette 25uL of master mix into each replicate tube (3 replicates per sample)
 3. Run thermocycler program:
 	1. 95C for 10 mins
-	2. 35 cycles of:
+	2. **28 cycles** of:
 		1. 95C for 15 seconds
 		2. 50C for 1 minute
 		3. 72C for 1 minute
@@ -49,14 +49,14 @@
 	- % = weight (g) / volume (mL)
 - melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
 	- do not pour into gel rig until flask is cool to touch
-	- **add SyberSafe to gel once cool** (if you don't, you won't see your bands!!)
+	- **add GelRed to gel once cool** (if you don't, you won't see your bands!!)
 - Add gel comb for number of samples you need
 	- pour gel until just underneath where the comb ends
 - let gel cool - wells will break if not cooled down enough
 - **turn rig so DNA will move towards the positive electrode**
 - load 2-3uL of DNA ladder (6X; 1:100 dilution) at beginning or end (or both if large rig) of the gel, and on each row
 - load PCR product 
-- put cover on and turn on electric current - **run 120 volts for ~35 mins**
+- put cover on and turn on electric current - **run 110 volts for ~35 mins**
 	- check to make sure bands aren't running off the gel
 - turn off electric current *then* remove lid
 - take picture of gel and save where needed
@@ -95,7 +95,7 @@ Thermocycler program:
 2. **98 for 20 sec**
 3. **60 for 45 sec**
 4. **72 for 45 sec** 
-*repeat 2-4 for **8 cycles** (# of cycles varies depending on input)*
+*repeat 2-4 for **7 cycles** (# of cycles varies depending on input)*
 6. 72 for 5 min
 
 #### V. Gel electrophoresis
