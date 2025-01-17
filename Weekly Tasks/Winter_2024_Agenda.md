@@ -7,15 +7,17 @@ Jan 21-24
 	- use brookes jupyter notebook draft
 	- issues to solve: add leading zeros, sorting?
 - [ ] branae to start extracting panama samples for her own project
+	- first full dna extraction on oyster?
+- [ ] register to physalia course
+- [ ] test pcr on accidental samples
+	- [ ] also sample that I had redone
 
 Jan 13-17
 - [x] last RAPID DNA extractions!!! 
 	- ~~062024 MON~~
 	- ~~082024 TUES~~
 	- ~~082024 WED~~
-- [ ] Revise IDP 
-- [ ] test pcr on accidental samples
-	- [ ] also sample that I had redone
+- [x] Revise IDP 
 - [x] send brooke sankey plot code 
 - [ ] note in github that some panama samples aren't split 
 	- update panama samples excel
