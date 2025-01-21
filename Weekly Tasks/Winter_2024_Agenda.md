@@ -6,11 +6,20 @@ Jan 21-24
 - [ ] clean up CBC_samples 
 	- use brookes jupyter notebook draft
 	- issues to solve: add leading zeros, sorting?
-- [ ] branae to start extracting panama samples for her own project
-	- first full dna extraction on oyster?
-- [ ] register to physalia course
 - [ ] test pcr on accidental samples
 	- [ ] also sample that I had redone
+**MEETING With SARAH 1/24**
+ - [ ] set up lock box
+- [ ] branae to start extracting panama samples for her own project
+	- first full dna extraction on oyster?
+- [ ] register to physalia course (fri)
+- [ ] review IDP (fri)
+	- [x] send to sarah by wednesday
+- [ ] orders 
+	- xs gloves
+	- agar for post pcr room
+	- another roll of parafilm for post-pcr room
+
 
 Jan 13-17
 - [x] last RAPID DNA extractions!!! 
