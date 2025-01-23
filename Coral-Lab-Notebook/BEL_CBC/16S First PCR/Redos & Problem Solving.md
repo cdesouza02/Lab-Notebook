@@ -1,4 +1,4 @@
-Samples 
+## Redo Samples
 tried with 1 ul
 1. 052022BELCBC_T3_19_MCAV (B32)
 2. 52022BELCBCT3_13_MCAV (B35)
@@ -65,7 +65,6 @@ tried with 5 ul, newer versions worked but not older
 	3. 
 ## After 3rd PCR (Jan 23 2025)
 
-
 | tubelabel_species          | row   | volume (ul) | concentration (ng/ul)          | date_extracted | PCR worked | notes            |
 | -------------------------- | ----- | ----------- | ------------------------------ | -------------- | ---------- | ---------------- |
 | 112023BELCBC_T4_399_MCAV   | 1-3   | 1           | 13.9                           | Nov 2024       | yes        |                  |
@@ -91,4 +90,4 @@ Action items:
 	1. test out one sample from 1-5 ul?
 2. 
 
-
+# II. Simple Fool's Guide to PCR
