@@ -3,10 +3,14 @@ tried with 1 ul
 1. 052022BELCBC_T3_19_MCAV (B32)
 2. 52022BELCBCT3_13_MCAV (B35)
 3. 52022BELCBCT3_8_PAST (B32)
+4. 112023_BEL_CBC_T3_355 (B12)
+5. 122023BELCBCT3526_SSID (B13)
+6.  22024BelizeCBCT3851_PSTR (B13)
 
 tried with 5 ul, newer versions worked but not older
 1. 062019_BEL_CBC_T1_22_MCAV (penguin, B33)
 2. 052022_BEL_CBC_T1_2_SSID (penguin, B33)
+
 
 # I. What could be inhibiting my PCR? :')
 
