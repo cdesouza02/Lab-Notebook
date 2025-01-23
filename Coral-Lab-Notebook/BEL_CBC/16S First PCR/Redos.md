@@ -1,6 +1,0 @@
-Samples 
-1. 052022BELCBC_T3_19_MCAV (B32)
-2. 52022BELCBCT3_13_MCAV (B35)
-3. 52022BELCBCT3_8_PAST (B32)
-
-What could be inhibibiting PCR??
