@@ -91,3 +91,4 @@ Action items:
 2. 
 
 # II. Simple Fool's Guide to PCR
+low dna concentration? older samples? unexpected discrepancies in samples that are similar in age but different concentrations
