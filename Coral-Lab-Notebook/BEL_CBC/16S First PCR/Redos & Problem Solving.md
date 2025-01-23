@@ -87,7 +87,7 @@ Issues:
 
 Action items:
 1. maybe there is a DNA ng (volume*concentration) threshold to be met?
-	1. test out one sample from 1-5 ul?
+	1. is it worth it to test out one sample from 1-5 ul?
 2. 
 
 # II. Simple Fool's Guide to PCR
