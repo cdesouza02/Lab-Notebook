@@ -31,6 +31,7 @@ tried with 5 ul, newer versions worked but not older
 1. Already seeing issues with bands forming in some cases
 	1. Believe that recently extracted samples are more successful
 	2. also why are the triplicates not all at the same bp length
+		1. ideally they would all be ~300-350 bp, but some seem closer to 500 bp (bright band)
 	3. yayy the negative control worked
 	4.  **why was there a faint band for 052022_BEL_CBC_T3_13_MCAV (3 ng/ul) but not for 052022BELCBC_T3_19_MCAV (17.4 ng/ul)**
 	
@@ -41,6 +42,7 @@ tried with 5 ul, newer versions worked but not older
 3. Potential solution: 
 	1. use more starting DNA 
 	2. Test out using 5 ul & 10 ul of starting DNA on accidental extractions/ duplicates
+	3. 
 
 ## After 2nd PCR (Jan 22 2025)
 | tubelabel_species              | row      | volume (ul) | concentration (ng/ul) | date_extracted | PCR worked | notes                              |
@@ -88,7 +90,16 @@ Issues:
 Action items:
 1. maybe there is a DNA ng (volume*concentration) threshold to be met?
 	1. is it worth it to test out one sample from 1-5 ul?
-2. 
+2. make a table of my randomized list that includes when they were extracted and DNA concentration
 
 # II. Simple Fool's Guide to PCR
 low dna concentration? older samples? unexpected discrepancies in samples that are similar in age but different concentrations
+
+Primers
+515F and 806R target the V4 region of the 16S SSU rRNA
+
+Suggestions about the Double Bands from ResearchGate
+1. reduce number of PCR cycle- I've tried this
+2. the double bands in some samples could be contamination from Human DNA 
+3. dilute the primers to reduce chance of non-specific binding
+	1. rn they're diluted to 10 mM, consider trying 1 uM
