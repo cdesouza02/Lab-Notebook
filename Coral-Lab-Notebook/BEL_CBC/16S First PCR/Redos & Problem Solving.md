@@ -97,6 +97,7 @@ low dna concentration? older samples? unexpected discrepancies in samples that a
 
 Primers
 515F and 806R target the V4 region of the 16S SSU rRNA
+	1. are the 1N,2N,3N barcodes?
 
 Suggestions about the Double Bands from ResearchGate
 1. reduce number of PCR cycle- I've tried this
