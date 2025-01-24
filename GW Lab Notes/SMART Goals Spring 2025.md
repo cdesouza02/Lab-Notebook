@@ -6,8 +6,9 @@ Step-by-step
 3. work through the first PCR + pooling for 96 samples ~ 3 weeks
 	1. starting at 7 samples at a time then 15 samples at a time
 4. **Indexing Day!!!** 
-5. send first batch out for sequencing yippeee!
-6. Repeat 3-5 for the rest of the set
+5. 
+6. send first batch out for sequencing yippeee!
+7. Repeat 3-5 for the rest of the set
 	1. at least 3 sequencing cycles left ~9 weeks left
-7. 
+8. 
 
