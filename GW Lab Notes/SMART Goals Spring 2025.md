@@ -1,5 +1,8 @@
 Overarching Goal: send out all of my 16S samples for sequencing by May 2025
 
+**charge sequenicing to sea of change grant (5K to spend in sequening by june)**
+
+
 Step-by-step
 1. rework 1st PCR for older samples which may have less DNA ~1 week
 2. decide how to randomize the samples/ if the old samples need a different master mix than the new samples
@@ -10,5 +13,5 @@ Step-by-step
 6. send first batch out for sequencing yippeee!
 7. Repeat 3-5 for the rest of the set
 	1. at least 3 sequencing cycles left ~9 weeks left
-8. 
+8
 
