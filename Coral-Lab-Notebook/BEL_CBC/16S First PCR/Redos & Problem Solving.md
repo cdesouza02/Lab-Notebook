@@ -127,5 +127,6 @@ Suggestions about the Double Bands from ResearchGate
 
 bead cleanup on unknown samples 
 
-pooling -> gel purification
+pooling -> **gel purification** instead of clenaing with ampure beads
+
 normalizing the amount of dna input
