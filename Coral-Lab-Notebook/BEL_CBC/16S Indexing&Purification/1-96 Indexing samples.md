@@ -1,4 +1,3 @@
-Samples 1-72
 
 | Group: | 0   | i7 -                        | i7 -                        | i7 -                       | i7 -                        | i7 -                        | i7 -                        | i7 -                        | i7 -                        | i7 -                        | i7 -                       | i7 -                        | i7 -                        |
 | ------ | --- | --------------------------- | --------------------------- | -------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | -------------------------- | --------------------------- | --------------------------- |
@@ -12,7 +11,7 @@ Samples 1-72
 | i5 -   | G   | 092023_BEL_CBC_T1_175_PAST  | 042024_BEL_CBC_T2_1018_PAST | 052022_BEL_CBC_T2_9_PAST   | 082024_BEL_CBC_T3_1562_OFAV | 122023_BEL_CBC_T3_524_OFAV  | 082024_BEL_CBC_T1_1479_PAST | 112023_BEL_CBC_T2_310_MCAV  | 092023_BEL_CBC_T2_181_PAST  | 012024_BEL_CBC_T4_661_PSTR  | 062019_BEL_CBC_T2_18_MCAV  | 022024_BEL_CBC_T2_804_OFAV  | 042024_BEL_CBC_T2_1014_OFAV |
 | i5 -   | H   | 052022_BEL_CBC_T1_2_SSID    | 062019_BEL_CBC_T1_21_PAST   | 122022_BEL_CBC_T3_142_MCAV | 122022_BEL_CBC_T3_127_OFAV  | 052022_BEL_CBC_T3_66_OFAV   | 062019_BEL_CBC_T3_1_MCAV    | 012024_BEL_CBC_T1_557_SSID  | 122022_BEL_CBC_T3_124_PAST  | 112023_BEL_CBC_T2_304_OFAV  | 122022_BEL_CBC_T3_141_PSTR | 122023_BEL_CBC_T2_522_MCAV  | Negative 3/10/2025          |
 |        |     | 1-8                         | 9-16                        | 17-24                      | 25-32                       | 33-40                       | 41-48                       | 49-56                       | 57-64                       | 65-72                       | 73-80                      |                             | 89-96                       |
-
+## Protocol
 #### IV. Indexing PCR 
 - each sample is indexed with a unique combination of i5 and i7 primers 
 
@@ -28,12 +27,41 @@ using HotStart reagents for this protocol using the following combination of rea
 3. add DNA to individual reactions 
 4. run thermocycler program
 
+#### V. Gel electrophoresis
+perform steps as above with one addition:
+- for each row in the gel, **include both a ladder and a non-indexed control**
+- pre- and post-indexed samples should be different sizes
+- **1uL product used to load gel to check indexing**
+
+## 3/18/2025
+Samples 73-96
 Master Mix
-mm_calculations
+mm_calculations: indexing
 
-Indexing 
-16S indexing
+| Lab-made master mix |                       |                             |
+| ------------------- | --------------------- | --------------------------- |
+| Reagent             | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| Buffer              | 5                     | 132                         |
+| dNTP (10mM)         | 0.5                   | 13.2                        |
+| DNA                 | 1                     |                             |
+| Polymerase          | 0.25                  | 6.6                         |
+| Water               | 15.25                 | 402.6                       |
+| Total               | 22                    | 554.4                       |
+primers 
 
+| Index master mix rows (vertical) |           |                            |
+| -------------------------------- | --------- | -------------------------- |
+| Reagent                          | MM amount | Divided by two (if needed) |
+| Big master mix                   | 36.3      | 18.15                      |
+| N50xx index                      | 3.3       | 1.65                       |
+| Total                            | 39.6      | 19.8                       |
+
+| Index master mix columns (horizontal) |                       |                            |
+| ------------------------------------- | --------------------- | -------------------------- |
+| Reagent                               | Amount per 1 rxn (uL) | Divided by two (if needed) |
+| Big master mix                        | 96.8                  | 48.4                       |
+| N50xx index                           | 8.8                   | 4.4                        |
+| Total                                 | 105.6                 | 52.8                       |
 Thermocycler program:
 1. 95 for 5 mins
 2. **98 for 20 sec**
@@ -42,13 +70,39 @@ Thermocycler program:
 *repeat 2-4 for **7 cycles** (# of cycles varies depending on input)*
 5. 72 for 5 min
 
+##### 3/19/25
+| L   |       |       |       |       |       |        |     |
+| --- | ----- | ----- | ----- | ----- | ----- | ------ | --- |
+| L   | 74p&i | 76p&i | 78p&i | 80p&i | 81p&i | 83p&i  | L   |
+| L   | 85p&i | 87p&i | 90p&i | 92p&i | 94p&i | NEGp&i | L   |
+NO IMAGE did not work 
+##### 3/20/25
+
+| Gel |       |       |       |     |
+| --- | ----- | ----- | ----- | --- |
+| L   | 74p&i | 83p&i | 92p&i |     |
+| L   | 78p&i | 87p&i | 96p&i |     |
+
+
+## 3/11/2025
+Samples 1-72
 ##### **samples id like to redo from all of these days** 
 4, 17, 36, 45, 54, 63
-#### V. Gel electrophoresis
-perform steps as above with one addition:
-- for each row in the gel, **include both a ladder and a non-indexed control**
-- pre- and post-indexed samples should be different sizes
-- **1uL product used to load gel to check indexing**
+
+| Big master mix     |                       |                             |
+| ------------------ | --------------------- | --------------------------- |
+| Reagent            | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| Q5 hot start 2x MM | 12.5                  | 990                         |
+| Water              | 9.5                   | 752.4                       |
+| Total              | 22                    | 1742.4                      |
+
+Thermocycler program:
+1. 95 for 5 mins
+2. **98 for 20 sec**
+3. **60 for 45 sec**
+4. **72 for 45 sec** 
+*repeat 2-4 for **7 cycles** (# of cycles varies depending on input)*
+5. 72 for 5 min
 
 ##### 3/13/2025
 key #  means didn't see indexing band
