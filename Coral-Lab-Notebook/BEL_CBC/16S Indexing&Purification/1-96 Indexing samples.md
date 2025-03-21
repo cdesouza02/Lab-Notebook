@@ -75,15 +75,15 @@ Thermocycler program:
 | --- | ----- | ----- | ----- | ----- | ----- | ------ | --- |
 | L   | 74p&i | 76p&i | 78p&i | 80p&i | 81p&i | 83p&i  | L   |
 | L   | 85p&i | 87p&i | 90p&i | 92p&i | 94p&i | NEGp&i | L   |
-NO IMAGE did not work 
+NO IMAGE did not work (not even the ladder)
 ##### 3/20/25
 
-| Gel |       |       |       |     |     |
-| --- | ----- | ----- | ----- | --- | --- |
-| L   | 74p&i | 83p&i | 92p&i | 93  | L   |
-| L   | 78p&i | 87p&i | 79p&i | 96  | L   |
+| Gel |       |       |       |       |     |
+| --- | ----- | ----- | ----- | ----- | --- |
+| L   | 74p&i | 83p&i | 92p&i | 93p&i | L   |
+| L   | 78p&i | 87p&i | 79p&i | 96p&i | L   |
 
-
+![[mar202025.pdf]]
 ## 3/11/2025
 Samples 1-72
 ##### **samples id like to redo from all of these days** 
