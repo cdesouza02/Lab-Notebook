@@ -83,7 +83,18 @@ NO IMAGE did not work (not even the ladder)
 | L   | 74p&i | 83p&i | 92p&i | 93p&i | L   |
 | L   | 78p&i | 87p&i | 79p&i | 96p&i | L   |
 
+
 ![[mar202025.pdf]]
+
+#### 3/24/25
+
+| Gel |       |     |     |     |     |       |     |
+| --- | ----- | --- | --- | --- | --- | ----- | --- |
+| L   | 49p&i | A+B | C+D | E+F | G+H | 74p&i | L   |
+| L   | 8     | 15  | 22  | 29  | 36  | 43    | L   |
+
+
+
 ## 3/11/2025
 Samples 1-72
 ##### **samples id like to redo from all of these days** 
