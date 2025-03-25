@@ -64,4 +64,6 @@ Thermocycler program:
 | --- | ----- | --- | --- | --- | --- | --- | --- |
 | L   | 17p+i | A+B | C+D | E+F | G+H |     | L   |
 | L   | 49p+i | A+B | C+D | E+F | G+H |     | L   |
-best results at 62.8
+![[mar192025.heic]]
+
+best results at 62.8 degrees cel, but this gel only showed the primer dimer from first row

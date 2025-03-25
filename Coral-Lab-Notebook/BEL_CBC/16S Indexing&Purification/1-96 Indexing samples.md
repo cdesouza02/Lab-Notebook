@@ -33,8 +33,42 @@ perform steps as above with one addition:
 - pre- and post-indexed samples should be different sizes
 - **1uL product used to load gel to check indexing**
 
+## 3/25/2025 
+
+samples 73-96 annealing temp 66
+
+| Lab-made master mix |                       |                             |
+| ------------------- | --------------------- | --------------------------- |
+| Reagent             | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| Buffer              | 5                     | 132                         |
+| dNTP (10mM)         | 0.5                   | 13.2                        |
+| DNA                 |                       |                             |
+| Polymerase          | 0.25                  | 6.6                         |
+| Water               | 16.25                 | 429                         |
+| Total               | 22                    | 580.8                       |
+
+| Index master mix rows (vertical)      |                       |                            |
+| ------------------------------------- | --------------------- | -------------------------- |
+| Reagent                               | MM amount             | Divided by two (if needed) |
+| Big master mix                        | 36.3                  | 18.15                      |
+| N50xx index                           | 3.3                   | 1.65                       |
+| Total                                 | 39.6                  | 19.8                       |
+
+| Index master mix columns (horizontal) |                       |                            |
+| ------------------------------------- | --------------------- | -------------------------- |
+| Reagent                               | Amount per 1 rxn (uL) | Divided by two (if needed) |
+| Big master mix                        | 96.8                  | 48.4                       |
+| N50xx index                           | 8.8                   | 4.4                        |
+| Total                                 | 105.6                 | 52.8                       |
+#### 3/25/25 Gel electrophoresis
+
+| Gel             |       |       |       |       |       |       |                 |
+| --------------- | ----- | ----- | ----- | ----- | ----- | ----- | --------------- |
+| 1:10 dilution L | 74p&i | 83p&i | 92p&i | 93p&i | 79p&i | 96p&i | 1:10 dilution L |
+| L               | 74p&i | 83p&i | 92p&i | 93p&i | 79p&i | 96p&i | L               |
+
 ## 3/18/2025
-Samples 73-96
+Samples 73-96 annealing temp 63
 Master Mix
 mm_calculations: indexing
 
@@ -92,11 +126,19 @@ NO IMAGE did not work (not even the ladder)
 | --- | ----- | --- | --- | --- | --- | ----- | --- |
 | L   | 49p&i | A+B | C+D | E+F | G+H | 74p&i | L   |
 | L   | 8     | 15  | 22  | 29  | 36  | 43    | L   |
+![[mar242025 1.pdf]]
 
+
+
+| Gel              |      |       |       |       |                  |
+| ---------------- | ---- | ----- | ----- | ----- | ---------------- |
+| L 1:100 dilution | 8p&i | 57p&i | 77p&i | 90p&i | L 1:100 dilution |
+| L not diluted    | 8p&i | 57p&i | 77p&i | 90p&i | L not diluted    |
+![[dilution_mar242025.heic]]
 
 
 ## 3/11/2025
-Samples 1-72
+Samples 1-72 annealing temp 60
 ##### **samples id like to redo from all of these days** 
 4, 17, 36, 45, 54, 63
 
