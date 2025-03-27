@@ -27,6 +27,13 @@ using HotStart reagents for this protocol using the following combination of rea
 3. add DNA to individual reactions 
 4. run thermocycler program
 
+Thermocycler program:
+1. 98 for 30 sec
+2. **98 for 10 sec**
+3. **67 for 30 sec**
+4. **72 for 20 sec** 
+*repeat 2-4 for 7 cycles (# of cycles varies depending on input)*
+5. 72 for 2 min
 #### V. Gel electrophoresis
 perform steps as above with one addition:
 - for each row in the gel, **include both a ladder and a non-indexed control**
@@ -34,8 +41,7 @@ perform steps as above with one addition:
 - **1uL product used to load gel to check indexing**
 
 ## 3/25/2025 
-
-samples 73-96 annealing temp 66
+samples 73-96 annealing temp 67
 
 | Lab-made master mix |                       |                             |
 | ------------------- | --------------------- | --------------------------- |
@@ -60,12 +66,13 @@ samples 73-96 annealing temp 66
 | Big master mix                        | 96.8                  | 48.4                       |
 | N50xx index                           | 8.8                   | 4.4                        |
 | Total                                 | 105.6                 | 52.8                       |
-#### 3/25/25 Gel electrophoresis
+#### 3/25/25 
 
 | Gel             |       |       |       |       |       |       |                 |
 | --------------- | ----- | ----- | ----- | ----- | ----- | ----- | --------------- |
-| 1:10 dilution L | 74p&i | 83p&i | 92p&i | 93p&i | 79p&i | 96p&i | 1:10 dilution L |
-| L               | 74p&i | 83p&i | 92p&i | 93p&i | 79p&i | 96p&i | L               |
+| 1:10 dilution L | 74p&i | 83p&i | 92p&i | 85p&i | 79p&i | 96p&i | 1:10 dilution L |
+| L               | 74p&i | 83p&i | 92p&i | 85p&i | 79p&i | 96p&i | L               |
+![[mar252025.pdf]]
 
 ## 3/18/2025
 Samples 73-96 annealing temp 63
@@ -96,14 +103,6 @@ primers
 | Big master mix                        | 96.8                  | 48.4                       |
 | N50xx index                           | 8.8                   | 4.4                        |
 | Total                                 | 105.6                 | 52.8                       |
-Thermocycler program:
-1. 95 for 5 mins
-2. **98 for 20 sec**
-3. **60 for 45 sec**
-4. **72 for 45 sec** 
-*repeat 2-4 for **7 cycles** (# of cycles varies depending on input)*
-5. 72 for 5 min
-
 ##### 3/19/25
 | L   |       |       |       |       |       |        |     |
 | --- | ----- | ----- | ----- | ----- | ----- | ------ | --- |
@@ -148,15 +147,6 @@ Samples 1-72 annealing temp 60
 | Q5 hot start 2x MM | 12.5                  | 990                         |
 | Water              | 9.5                   | 752.4                       |
 | Total              | 22                    | 1742.4                      |
-
-Thermocycler program:
-1. 95 for 5 mins
-2. **98 for 20 sec**
-3. **60 for 45 sec**
-4. **72 for 45 sec** 
-*repeat 2-4 for **7 cycles** (# of cycles varies depending on input)*
-5. 72 for 5 min
-
 ##### 3/13/2025
 key #  means didn't see indexing band
 
