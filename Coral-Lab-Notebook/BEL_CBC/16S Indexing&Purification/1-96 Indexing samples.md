@@ -40,6 +40,40 @@ perform steps as above with one addition:
 - pre- and post-indexed samples should be different sizes
 - **1uL product used to load gel to check indexing**
 
+## 3/27/2025
+samples 1-72 annealing temp 67
+
+| Lab-made master mix |                       |                             |
+| ------------------- | --------------------- | --------------------------- |
+| Reagent             | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| Buffer              | 5                     | 396                         |
+| dNTP (10mM)         | 0.5                   | 39.6                        |
+| DNA                 |                       |                             |
+| Polymerase          | 0.25                  | 19.8                        |
+| Water               | 16.25                 | 1287                        |
+| Total               | 22                    | 1742.4                      |
+
+| Index master mix rows (vertical) |           |                            |
+| -------------------------------- | --------- | -------------------------- |
+| Reagent                          | MM amount | Divided by two (if needed) |
+| Big master mix                   | 108.9     | 54.45                      |
+| N50xx index                      | 9.9       | 4.95                       |
+| Total                            | 118.8     | 59.4                       |
+
+| Index master mix columns (horizontal) |                       |                            |
+| ------------------------------------- | --------------------- | -------------------------- |
+| Reagent                               | Amount per 1 rxn (uL) | Divided by two (if needed) |
+| Big master mix                        | 96.8                  | 48.4                       |
+| N50xx index                           | 8.8                   | 4.4                        |
+| Total                                 | 105.6                 | 52.8                       |
+#### 3/27/25
+things to look out for: 
+i am using the same gel mold and wires as [[mar252025.pdf]] will this create the same odd looking gel? if so think about the electrodes
+
+| Gel             |     |     |     |     |     |     |                 |
+| --------------- | --- | --- | --- | --- | --- | --- | --------------- |
+| 1:5 dilution L  |     |     |     |     |     |     | 1:5 dilution L  |
+| 1:10 dilution L |     |     |     |     |     |     | 1:10 dilution L |
 ## 3/25/2025 
 samples 73-96 annealing temp 67
 
@@ -66,7 +100,11 @@ samples 73-96 annealing temp 67
 | Big master mix                        | 96.8                  | 48.4                       |
 | N50xx index                           | 8.8                   | 4.4                        |
 | Total                                 | 105.6                 | 52.8                       |
-#### 3/25/25 
+#### 3/25/25
+didn't love how this gel came out, seems that a quarter of it didn't run properly
+	- maybe because of gel red not being distributed enough?
+	- energy source? are any of the electrodes not working
+	- uneven thickness of the gel?
 
 | Gel             |       |       |       |       |       |       |                 |
 | --------------- | ----- | ----- | ----- | ----- | ----- | ----- | --------------- |
@@ -120,6 +158,8 @@ NO IMAGE did not work (not even the ladder)
 ![[mar202025.pdf]]
 
 #### 3/24/25
+notes on imaging: 
+using the Bulldog bio fastgene imager you cannot have the amber screen parallel to the gel otherwise you will create a reflection as seen in pages 2&3. to avoid this lift amber screen to a 45 degree angle, take the clearest photo you can take and edit for brightness in post
 
 | Gel |       |     |     |     |     |       |     |
 | --- | ----- | --- | --- | --- | --- | ----- | --- |
