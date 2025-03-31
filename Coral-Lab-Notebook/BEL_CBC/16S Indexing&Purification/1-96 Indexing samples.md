@@ -66,14 +66,15 @@ samples 1-72 annealing temp 67
 | Big master mix                        | 96.8                  | 48.4                       |
 | N50xx index                           | 8.8                   | 4.4                        |
 | Total                                 | 105.6                 | 52.8                       |
-#### 3/27/25
+#### 3/31/25
 things to look out for: 
-i am using the same gel mold and wires as [[mar252025.pdf]] will this create the same odd looking gel? if so think about the electrodes
+- i am using the same gel mold and wires as [[mar252025.pdf]] will this create the same odd looking gel? if so think about the electrodes
+- make sure gel is evenly dispersed
 
-| Gel             |     |     |     |     |     |     |                 |
-| --------------- | --- | --- | --- | --- | --- | --- | --------------- |
-| 1:5 dilution L  |     |     |     |     |     |     | 1:5 dilution L  |
-| 1:10 dilution L |     |     |     |     |     |     | 1:10 dilution L |
+| Gel            |     |     |     |     |     |     |                |
+| -------------- | --- | --- | --- | --- | --- | --- | -------------- |
+| L              | 1   | 10  | 19  | 28  | 37  | 46  | 1:5 dilution L |
+| 1:5 dilution L | 55  | 64  | 72  | 74  | 83  | 96  | L              |
 ## 3/25/2025 
 samples 73-96 annealing temp 67
 
