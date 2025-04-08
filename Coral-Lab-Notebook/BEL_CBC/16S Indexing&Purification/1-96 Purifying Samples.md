@@ -45,3 +45,4 @@ make fresh 70% ethanol in a 50mL tube (label and parafilm when not in use)
 | L   | 1+10  | 19+28 | 37+46 | 55+64 | 1:5 L |
 | 1.5 | 73 pi | 82pi  | 91pi  | 96pi  | l     |
 
+![[apr72025.heic]]

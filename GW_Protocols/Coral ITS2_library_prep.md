@@ -1,3 +1,5 @@
+- [ ] ITS2 protocol (wed)
+	- Mutualistic dinofagellates with big disparities in ribosomal DNA variation may confound estimates of symbiont diversity and ecology in the jellyfsh Cotylorhiza tuberculata
 #### I. PCR
 
 **Lajueness 2022**- 38 cycles
