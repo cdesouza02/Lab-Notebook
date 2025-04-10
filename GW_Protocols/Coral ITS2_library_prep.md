@@ -1,33 +1,54 @@
 - [ ] ITS2 protocol (wed)
 	- Mutualistic dinofagellates with big disparities in ribosomal DNA variation may confound estimates of symbiont diversity and ecology in the jellyfsh Cotylorhiza tuberculata
-#### I. PCR
 
-**Lajueness 2022**- 38 cycles
+**Lajueness 2022** 
+**(this MM will change because not using )**
 25 uL final volume
+5x High Fidelity Fusion RXN buffer, 0.02 uL phusion DNA polymerase
 0.5 ng (2.5 uL) extracted DNA
 0.5 uM each primer
 3% DMSO??
 200 uM dNTPs
-5x High Fidelity Fusion RXN buffer, 0.02 uL phusion DNA polymerase
+Amplification was achieved using with an initial denaturation step at 98 °C for 30s, followed by 38 cycles including 10 s at 98 °C, 30 s of annealing at 57 °C, 30 s of elongation at 72 °C, and a final elongation step of 10 min at 72 °C
 
+**Hume 2013**
+50 uL final volume
+0.5 Advantage 2 polymerase mix
+200 uM dNTP
+0.5 primer
+50 ng DNA
+The PCR encompassed an initial denaturation step of 1 min at 98 °C followed by 35 cycles of denaturation (95 °C/30 s), annealing (62 °C/30 s), and elongation (68 °C/1 min). A final elongation step of 2 min was performed at 68 °C.
+## ITS2 PCR Questions
+1. NEB recommends 1.25 uL primer, should I try 1 uL to save (primer dimer with 1.25 also migth be excessive)
+2. Lajueness used 0.5 ng (2.5 uL) extracted dna. does this mean his concentrations were around 0.2? ours are better than that. if so I think we can standardize 1 ul of dna 
+	1. Q5 requires DNA template of 1ng-1ug
+3. start with 30 cycles,  did lajueness 38 cycles, Hume did 35 cycles because of the primers they were using?
+4. start with testing out the use of albumin?
 
-| Reagents |        |
-| -------- | ------ |
-| Buffer   |        |
-| dNTP     |        |
-| F Primer |        |
-| R Primer |        |
-| DNA      | 2.5 uL |
-| Water    |        |
-|          |        |
-|          |        |
-| Total    |        |
+#### I. PCR
+
+| Reagent             | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% | Triplicate (uL) + 10% |
+| ------------------- | --------------------- | --------------------------- | --------------------- |
+| Q5 Buffer           | 5                     |                             |                       |
+| dNTP (10mM)         | 0.5                   |                             |                       |
+| F Primer (10uM)     | 1.25                  |                             |                       |
+| R Primer (10uM)     | 1.25                  |                             |                       |
+| DNA                 | 1                     |                             |                       |
+| HotStart Polymerase | 0.25                  |                             |                       |
+| Water               | 15.5                  |                             |                       |
+| Albumin             | 0.25                  |                             |                       |
+| Total               | 25                    |                             |                       |
 1. Create master mix for each sample
 2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
 	1. use new pipette tip for each replicate
-4. Run thermocycler program:
-
+4. run thermocycler program:
+	1. 98 for 30 sec
+	2. **98 for 10 sec**
+	3. **69 for 30 sec**
+	4. **72 for 20 sec** 
+	*repeat 2-4 for 30 cycles (# of cycles varies depending on input)*
+	5. 72 for 2 min
 
 ### **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 
@@ -37,7 +58,8 @@
 - TBE Buffer 'Recipe' https://github.com/jgmcdonough/GW-lab-notebook/blob/main/Protocols/TBE%20Buffer%20Protocol.md
 
 **Making and setting up a gel:**
-1. mix agar and clean TBE buffer to generate a 1.5% agarose gel that will be large enough 
+1. mix agar and clean TBE buffer to generate a 2% agarose gel that will be large enough for the gel mold
+	1. higher percentage because ITS2 region (220bp) is smaller than 16S V4 region (254bp)
 2. calculating gel density:
 	- % = weight (g) / volume (mL)
 3. melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
@@ -45,6 +67,7 @@
 	- do not pour into gel rig until flask is cool to touch
 4. Add gel comb for number of samples you need
 	- pour gel into the middle of mold and wait for even dispersion
+	- enough gel to see that the wells are in it, not too thick
 5. let gel cool - wells will break if not cooled down enough
 	- 20 mins to be safe
 	- during this time set up for loading gel (step 6)
@@ -62,6 +85,7 @@
 	- turn lights off in room, put gel on the glass and lift the cover (45 degrees) so that there is no reflection from the gel, take photo parallel to gel 
 	- editing: crop to be centered, brightness -100
 13. in some cases may run for longer to get more separation in bands 
+14. you may reuse gels up to 3 times, if so break the gel up into a glass container that can be covered and store at 2-8 °C
 
 #### III. PCR Pooling
 1. using gel images - compare relative brightness of each band for sample replication across all 3 replicates
@@ -72,7 +96,7 @@
 		2. Ex. R1 = absent (5uL), R2 = absent (5uL), R3 = absent (5uL)
 	 - when **all bands are not equal brightness**, then take 10uL from the fainter replicates and pool with 5uL from the bright replicates
 		1. Ex. R1 = faint (5uL), R2 = absent (10uL), R3 = absent (10uL)
-3. obtain, label, cross-link new strip tubes - appropriate volumes from all 3 replicates are put in the same tube
+3. obtain, label, cross-link new strip tubes (or plate) - appropriate volumes from all 3 replicates are put in the same tube
 
 #### IV. Indexing PCR 
 - each sample is indexed with a unique combination of i5 and i7 primers 
