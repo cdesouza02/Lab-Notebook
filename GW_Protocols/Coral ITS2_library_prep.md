@@ -20,10 +20,13 @@ Amplification was achieved using with an initial denaturation step at 98 °C fo
 The PCR encompassed an initial denaturation step of 1 min at 98 °C followed by 35 cycles of denaturation (95 °C/30 s), annealing (62 °C/30 s), and elongation (68 °C/1 min). A final elongation step of 2 min was performed at 68 °C.
 ## ITS2 PCR Questions
 1. NEB recommends 1.25 uL primer, should I try 1 uL to save (primer dimer with 1.25 also migth be excessive)
+	1. yes
 2. Lajueness used 0.5 ng (2.5 uL) extracted dna. does this mean his concentrations were around 0.2? ours are better than that. if so I think we can standardize 1 ul of dna 
 	1. Q5 requires DNA template of 1ng-1ug
 3. start with 30 cycles,  did lajueness 38 cycles, Hume did 35 cycles because of the primers they were using?
+	1. yes
 4. start with testing out the use of albumin?
+	1. yes
 
 #### I. PCR
 

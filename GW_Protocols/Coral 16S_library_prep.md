@@ -40,7 +40,7 @@ copy & paste table off of mm_calculations, note which primer you are using each 
 		3. 72C for 1 minute
 	3. 72C for 10 mins (extension)
 ### **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
-
+*can use unfiltered pipette tips for this if not doing NGS*
 #### II. Gel electrophoresis
 - **always use standard DNA ladder on every row of gel**, can dilute ladder to 1:5 in order to see relatively brighter bands
 
