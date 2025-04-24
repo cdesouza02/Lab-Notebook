@@ -1,5 +1,4 @@
 Qiagen Gel Extraction Kit
-
 #### **Selecting the gel electrophoresis voltage**
 - A general recommendation is to use 5-10 V for every centimeter of distance between the electrodes in your gel system:
 
@@ -8,6 +7,17 @@ Voltage = distance between the electrodes (cm) x 5-10 V/cm
 **medium gel**: 16cm * 5-10 V/cm = 80-160 V
 **large gel**: 19 cm * 5-10 V/cm = 95-190 V
 - For example, if there are 10 cm between the electrodes, then run at 50-100 V
+
+#### 4/24/2025 Gel Extraction
+
+**pre extraction qubit concentration** 19.7 ng/ul
+
+| Gel                 |            |            |            |            |                           |
+| ------------------- | ---------- | ---------- | ---------- | ---------- | ------------------------- |
+| 1 ul ladder+1ul dye | 50 ul pool | 50 ul pool | 50 ul pool | 50 ul pool | 12 ul 1:5 ladder+2 ladder |
+
+**post exraction qubit concentration:**
+
 #### 4/17/2025- Test
 test pooling with samples indexed at 60C 
 
@@ -24,4 +34,6 @@ notes-
 |                     |            |            |                           |
 tube 1: 138 * 3 = 414 QG
 tube 2: 139 * 3 =417 QG
+
+**qubit concnetration** 1.91 ng/ul
 

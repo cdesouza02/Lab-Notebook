@@ -12,5 +12,6 @@ if it melts before 10 mins you can remove from heat
 	1. Note: If the DNA will be used for salt-sensitive applications (e.g., sequencing, bluntended ligation), **let the column stand 2–5 min after addition of Buffer PE.** Centrifuge the QIAquick column in the provided 2 ml collection tube for 1 min to remove residual wash buffer. 
 9. Place QIAquick column into a clean 1.5 ml microcentrifuge tube.
 10.  To elute DNA, add 50 μl Buffer EB (10 mM Tris·Cl, pH 8.5) or water to the center of the QIAquick membrane. After the addition of Buffer EB to the QIAquick membrane, increasing the incubation time to up to 4 min can increase the yield of purified DNA.  centrifuge the column for 1 min. 
-	1. **For increased DNA concentration ==what does this mean**==, add 30 μl Buffer EB to the center of the QIAquick membrane, let the column stand for 1 min, and then centrifuge for 1 min. 
+	1. **For increased DNA concentration**, add 30 μl Buffer EB to the center of the QIAquick membrane, let the column stand for 1 min, and then centrifuge for 1 min. 
+	2. Do not add extra if concentration of DNA is measurable by HS quibit
 11. If purified DNA is to be analyzed on a gel, add 1 volume of Loading Dye to 5 volumes of purified DNA. Mix the solution by pipetting up and down before loading the gel.
