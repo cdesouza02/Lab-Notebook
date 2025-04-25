@@ -12,11 +12,27 @@ Voltage = distance between the electrodes (cm) x 5-10 V/cm
 
 **pre extraction qubit concentration** 19.7 ng/ul
 
+pre extraction volume 170 ul pool used, 28 ul dye used
+49 ul pool in each well
+
 | Gel                 |            |            |            |            |                           |
 | ------------------- | ---------- | ---------- | ---------- | ---------- | ------------------------- |
-| 1 ul ladder+1ul dye | 50 ul pool | 50 ul pool | 50 ul pool | 50 ul pool | 12 ul 1:5 ladder+2 ladder |
+| 1 ul ladder+1ul dye | 49 ul pool | 49 ul pool | 49 ul pool | 49 ul pool | 12 ul 1:5 ladder+2 ladder |
+ran at 80 V for 100 min
 
-**post exraction qubit concentration:**
+tube 1/well 1: 175 mg+ 525= 700
+tube 2: 131.7+ 395=526.7
+tube 3: 112 mg+336= 448
+tube 4: 100 mg+300=400
+
+400*3=1200+400=1600+400=2
+
+**post exraction qubit concentration:** 
+1+2: 1.46 ng/ul
+3: 0.396 ng/ul
+4: 0.742 ng/ul
+
+
 
 #### 4/17/2025- Test
 test pooling with samples indexed at 60C 
