@@ -23,24 +23,25 @@ The PCR encompassed an initial denaturation step of 1 min at 98 °C followed b
 	1. yes
 2. Lajueness used 0.5 ng (2.5 uL) extracted dna. does this mean his concentrations were around 0.2? ours are better than that. if so I think we can standardize 1 ul of dna 
 	1. Q5 requires DNA template of 1ng-1ug
-3. start with 30 cycles,  did lajueness 38 cycles, Hume did 35 cycles because of the primers they were using?
+	2. **start with 1 uL for annealing gradient** if any problems standardize with super low/high concentrations
+3. start with 30 cycles?  lajueness 38 cycles, Hume did 35 cycles because of the primers they were using?
 	1. yes
 4. start with testing out the use of albumin?
 	1. yes
 
 #### I. PCR
 
-| Reagent             | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% | Triplicate (uL) + 10% |
-| ------------------- | --------------------- | --------------------------- | --------------------- |
-| Q5 Buffer           | 5                     |                             |                       |
-| dNTP (10mM)         | 0.5                   |                             |                       |
-| F Primer (10uM)     | 1.25                  |                             |                       |
-| R Primer (10uM)     | 1.25                  |                             |                       |
-| DNA                 | 1                     |                             |                       |
-| HotStart Polymerase | 0.25                  |                             |                       |
-| Water               | 15.5                  |                             |                       |
-| Albumin             | 0.25                  |                             |                       |
-| Total               | 25                    |                             |                       |
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% | Triplicate (uL) + 10% |
+| --------------- | --------------------- | --------------------------- | --------------------- |
+| Buffer          | 5                     | 0                           | 0                     |
+| dNTP (10mM)     | 0.5                   | 0                           | 0                     |
+| F Primer (10uM) | 1                     | 0                           | 0                     |
+| R Primer (10uM) | 1                     | 0                           | 0                     |
+| DNA             | 1                     | 0                           | 0                     |
+| Polymerase      | 0.25                  | 0                           | 0                     |
+| Water           | 16                    | 0                           | 0                     |
+| Albumin         | 0.25                  | 0                           | 0                     |
+| Total           | 25                    | 0                           | 0                     |
 1. Create master mix for each sample
 2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
@@ -52,6 +53,7 @@ The PCR encompassed an initial denaturation step of 1 min at 98 °C followed b
 	4. **72 for 20 sec** 
 	*repeat 2-4 for 30 cycles (# of cycles varies depending on input)*
 	5. 72 for 2 min
+	6. 8 for Forever
 
 ### **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 
