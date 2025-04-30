@@ -8,6 +8,14 @@ Voltage = distance between the electrodes (cm) x 5-10 V/cm
 **large gel**: 19 cm * 5-10 V/cm = 95-190 V
 - For example, if there are 10 cm between the electrodes, then run at 50-100 V
 
+#### 4/29/2025 Test 
+
+| Gel    |      |      |        |              |      |      |        |               |               |
+| ------ | ---- | ---- | ------ | ------------ | ---- | ---- | ------ | ------------- | ------------- |
+| ladder | 74 p | 74 i | ladder | cleaned pool | 92 p | 92 i | ladder | extracted 350 | extracted 400 |
+1 uL ladder/sample 
+1 uL loading dye
+![[apr292025_test.pdf]]
 #### 4/24/2025 Gel Extraction
 
 **pre extraction qubit concentration** 19.7 ng/ul
@@ -20,19 +28,19 @@ pre extraction volume 170 ul pool used, 28 ul dye used
 | 1 ul ladder+1ul dye | 49 ul pool | 49 ul pool | 49 ul pool | 49 ul pool | 12 ul 1:5 ladder+2 ladder |
 ran at 80 V for 100 min
 
+![[apr242025_gel_extract.heic]]
+
 tube 1/well 1: 175 mg+ 525= 700
 tube 2: 131.7+ 395=526.7
 tube 3: 112 mg+336= 448
 tube 4: 100 mg+300=400
 
-400*3=1200+400=1600+400=2
+40 * 3=1200+400=1600+400=2
 
 **post exraction qubit concentration:** 
 1+2: 1.46 ng/ul
 3: 0.396 ng/ul
 4: 0.742 ng/ul
-
-
 
 #### 4/17/2025- Test
 test pooling with samples indexed at 60C 
