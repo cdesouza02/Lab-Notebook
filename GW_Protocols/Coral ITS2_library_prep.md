@@ -63,7 +63,7 @@ The PCR encompassed an initial denaturation step of 1 min at 98 °C followed b
 - TBE Buffer 'Recipe' https://github.com/jgmcdonough/GW-lab-notebook/blob/main/Protocols/TBE%20Buffer%20Protocol.md
 
 **Making and setting up a gel:**
-1. mix agar and clean TBE buffer to generate a 2% agarose gel that will be large enough for the gel mold
+1. mix agar and clean TBE buffer to generate a 1.5% agarose gel that will be large enough for the gel mold
 	1. higher percentage because ITS2 region (220bp) is smaller than 16S V4 region (254bp)
 2. calculating gel density:
 	- % = weight (g) / volume (mL)
