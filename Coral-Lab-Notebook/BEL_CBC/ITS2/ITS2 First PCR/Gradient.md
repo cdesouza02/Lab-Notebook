@@ -1,27 +1,5 @@
 https://www.nature.com/articles/s41598-020-72589-0
-
-#### 5.1.2025
-try increasing cycles- more amplification
-try a lower set of gradient 
-
-
-#### 4.30.2025
-Samples
-092023_BEL_CBC_T1_175_PAST
-|052022_BEL_CBC_T1_2_SSID|
 #### I. PCR
-
-| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
-| --------------- | --------------------- | --------------------------- |
-| Buffer          | 5                     | 88                          |
-| dNTP (10mM)     | 0.5                   | 8.8                         |
-| F Primer (10uM) | 1                     | 17.6                        |
-| R Primer (10uM) | 1                     | 17.6                        |
-| DNA             | 1                     | 17.6                        |
-| Polymerase      | 0.25                  | 4.4                         |
-| Water           | 16                    | 281.6                       |
-| Albumin         | 0.25                  | 4.4                         |
-| Total           | 25                    | 440                         |
 1. Create master mix for each sample
 2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
@@ -72,3 +50,44 @@ Samples
 	- editing: crop to be centered, brightness -100
 13. in some cases may run for longer to get more separation in bands 
 14. you may reuse gels up to 3 times, if so break the gel up into a glass container that can be covered and store at 2-8 °C
+#### 5.9.2025
+try increasing cycles- more amplification
+try a lower set of gradient 
+
+Samples
+112023_BEL_CBC_T4_399_MCAV
+082024_BEL_CBC_T4_1609_OFAV
+
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| --------------- | --------------------- | --------------------------- |
+| Buffer          | 5                     | 88                          |
+| dNTP (10mM)     | 0.5                   | 8.8                         |
+| F Primer (10uM) | 1                     | 17.6                        |
+| R Primer (10uM) | 1                     | 17.6                        |
+| DNA             | 1                     | 17.6                        |
+| Polymerase      | 0.25                  | 4.4                         |
+| Water           | 16                    | 281.6                       |
+| Albumin         | 0.25                  | 4.4                         |
+| Total           | 25                    | 440                         |
+
+notes: bands at 700 bp could be the same bands from earlier
+
+![[may92025.pdf]]
+#### 4.30.2025
+Samples
+092023_BEL_CBC_T1_175_PAST
+|052022_BEL_CBC_T1_2_SSID|
+
+
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| --------------- | --------------------- | --------------------------- |
+| Buffer          | 5                     | 88                          |
+| dNTP (10mM)     | 0.5                   | 8.8                         |
+| F Primer (10uM) | 1                     | 17.6                        |
+| R Primer (10uM) | 1                     | 17.6                        |
+| DNA             | 1                     | 17.6                        |
+| Polymerase      | 0.25                  | 4.4                         |
+| Water           | 16                    | 281.6                       |
+| Albumin         | 0.25                  | 4.4                         |
+| Total           | 25                    | 440                         |
+![[apr302025.heic]]
