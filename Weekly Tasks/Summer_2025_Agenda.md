@@ -29,6 +29,8 @@ May 12-16
 - [x] undergrad intro day/RNAlater (mon)
 - [x] Inventory day (tues)
 - [x] annealing gradient gel (wed)
-- [ ] run annealing bands from both samples in the same row
-- [ ] ITS2 pcr (thurs)
+- [x] run annealing bands from both samples in the same row
+- [ ] thinking day, answer my ITS2 pcr questions (thurs)
+- [ ] read fieldwork protocols (thurs)
+- [ ] ITS2 pcr (fri)
 - [ ] 
