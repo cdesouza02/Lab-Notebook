@@ -50,6 +50,12 @@ https://www.nature.com/articles/s41598-020-72589-0
 	- editing: crop to be centered, brightness -100
 13. in some cases may run for longer to get more separation in bands 
 14. you may reuse gels up to 3 times, if so break the gel up into a glass container that can be covered and store at 2-8 °C
+
+#### 5.14.2025
+notes: reran the annealing gradient from 5.9.2025 to hopefully answer some of the questions I had from that gel
+
+![[may142025.pdf]]
+
 #### 5.9.2025
 try increasing cycles- more amplification
 try a lower set of gradient 
