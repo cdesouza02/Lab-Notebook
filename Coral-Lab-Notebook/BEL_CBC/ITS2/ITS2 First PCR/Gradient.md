@@ -51,6 +51,14 @@ https://www.nature.com/articles/s41598-020-72589-0
 13. in some cases may run for longer to get more separation in bands 
 14. you may reuse gels up to 3 times, if so break the gel up into a glass container that can be covered and store at 2-8 °C
 
+
+#### 5.15.2025
+
+| Gel   | A      | A       | C      | C       |     | F      | G       | G      |       |
+| ----- | ------ | ------- | ------ | ------- | --- | ------ | ------- | ------ | ----- |
+| 1:5 L | 399_72 | 1609_72 | 399_69 | 1609_69 | L   | 399_62 | 1609_60 | 399_60 | 1:5 L |
+
+
 #### 5.14.2025
 notes: reran the annealing gradient from 5.9.2025 to hopefully answer some of the questions I had from that gel
 
