@@ -1,7 +1,8 @@
-- [ ] its2 primer sequences
-	- SYM_VAR_FWD (5′CAGCTTCTGGACGTTGYGTTGG 3′)  
+- updated its2 primer sequences
 
-	- 
+
+- outdated @hume_etal_2013
+	- SYM_VAR_FWD (5′CAGCTTCTGGACGTTGYGTTGG 3′)  
 	- SYM_VAR_REV (5′CGGGTTCWCTTGTYTGACTTCATGC 3′)
 
 100 µM = X nmoles lyophilized primer + (X × 10 µl molecular grade H2O)
