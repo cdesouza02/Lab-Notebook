@@ -3,8 +3,8 @@ Summer 2025
 - coding hour, where people can bring their ideas/ issues to chat about 
 
 May 20-22
-- [ ] branae dna extraction (tues)
-- [ ] ITS2 pcr (tues)
+- [ ] branae extraction set up (tues)
+- [ ] think through ITS2 pcr (tues)
 **Inventory day** (wed)
 -  fridge
 	- move manatee up to 614- free up bench space & extra fridge needed up there
@@ -20,9 +20,9 @@ May 20-22
 	- add PCR reagents to freezer 
 - 618 freezer
 	- frozen oyster shells
-- [ ] branae to meet with SGW+BKS+CCD about summer project
 - [ ] coral packing (thurs)
 - [ ] Branae dna extraction (thurs)
+- [ ] branae to meet with SGW+BKS+CCD about summer project (fri)
 - [ ] ITS2 PCR (fri)
 
 May 12-16
@@ -31,6 +31,5 @@ May 12-16
 - [x] annealing gradient gel (wed)
 - [x] run annealing bands from both samples in the same row
 - [ ] thinking day, answer my ITS2 pcr questions (thurs)
-- [ ] read fieldwork protocols (thurs)
-- [ ] ITS2 pcr (fri)
-- [ ] 
+- [x] read fieldwork protocols (thurs)
+
