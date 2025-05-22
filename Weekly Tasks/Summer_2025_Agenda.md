@@ -3,7 +3,7 @@ Summer 2025
 - coding hour, where people can bring their ideas/ issues to chat about 
 
 May 20-22
-- [ ] branae extraction set up (tues)
+- [x] branae extraction set up (tues)
 - [ ] think through ITS2 pcr (tues)
 **Inventory day** (wed)
 -  fridge
@@ -11,13 +11,13 @@ May 20-22
 	- move Shea fridge down to 504 for oyster stuff, put underneath white shelves
 	- temperature log the fridge
 	- go through manatee for things to throw out (21st)
--  incubator
-	- can we fit the shaking incuabtor on top of the vwr incubator 
-	- move out of 504
-- large scale better in 504
-	- for salt measuring and we measure out small amounts of agar in 614
-- NARWHAL freezer 
-	- add PCR reagents to freezer 
+-  ~~incubator~~
+	- ~~can we fit the shaking incuabtor on top of the vwr incubator~~ 
+	- ~~move out of 504~~
+- ~~large scale better in 504~~
+	- ~~for salt measuring and we measure out small amounts of agar in 614~~
+- ~~NARWHAL freezer~~ 
+	- ~~add PCR reagents to freezer~~ 
 - 618 freezer
 	- frozen oyster shells
 - [ ] coral packing (thurs)
