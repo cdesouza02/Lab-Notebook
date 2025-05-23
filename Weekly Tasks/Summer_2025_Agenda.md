@@ -3,6 +3,8 @@ Summer 2025
 - coding hour, where people can bring their ideas/ issues to chat about 
 
 May 20-22
+
+**check hangman leah datasheet 18_PSTR**
 - [x] branae extraction set up (tues)
 - [ ] think through ITS2 pcr (tues)
 **Inventory day** (wed)
@@ -20,8 +22,8 @@ May 20-22
 	- ~~add PCR reagents to freezer~~ 
 - 618 freezer
 	- frozen oyster shells
-- [ ] coral packing (thurs)
-- [ ] Branae dna extraction (thurs)
+- [x] coral packing (thurs)
+- [ ] Branae dna extraction (fri)
 - [ ] branae to meet with SGW+BKS+CCD about summer project (fri)
 - [ ] ITS2 PCR (fri)
 
