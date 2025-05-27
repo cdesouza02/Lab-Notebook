@@ -2,8 +2,11 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
-May 20-22
 
+May 27-28
+- [ ] read more papers on variation among species for ITS2
+
+May 20-22
 **check hangman leah datasheet 18_PSTR**
 - [x] branae extraction set up (tues)
 - [ ] think through ITS2 pcr (tues)
@@ -23,9 +26,8 @@ May 20-22
 - 618 freezer
 	- frozen oyster shells
 - [x] coral packing (thurs)
-- [ ] Branae dna extraction (fri)
-- [ ] branae to meet with SGW+BKS+CCD about summer project (fri)
-- [ ] ITS2 PCR (fri)
+- [x] Branae dna extraction (fri)
+- [x] branae to meet with SGW+BKS+CCD about summer project (fri)
 
 May 12-16
 - [x] undergrad intro day/RNAlater (mon)
