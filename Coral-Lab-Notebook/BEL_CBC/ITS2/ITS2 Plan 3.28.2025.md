@@ -1,3 +1,5 @@
+Ho: bleaching and disease have no effect on changes in the coral host microbiome
+
 - Kira recommended against psba next gen as there isn’t a universal primer across genera that works.
 	- instead use sanger sequencing to sequence psba products
 - caleb
