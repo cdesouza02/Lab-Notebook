@@ -3,6 +3,15 @@ Summer 2025
 - coding hour, where people can bring their ideas/ issues to chat about 
 
 
+June 9-12
+- [x] mail out vortex (mon)
+- [x] read tristin paper (mon)
+- [x] download photos from erins camera (mon)
+- [ ] wash dive gear (mon)
+- [x] finish i9 (mon)
+
+
+
 May 27-28
 - [ ] read more papers on variation among species for ITS2
 
