@@ -2,13 +2,28 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
+June 25-27
+- [ ] fulbright info session
 
 June 9-12
 - [x] mail out vortex (mon)
 - [x] read tristin paper (mon)
 - [x] download photos from erins camera (mon)
-- [ ] wash dive gear (mon)
+- [x] wash dive gear (mon)
 - [x] finish i9 (mon)
+- [ ] COL_SAN_T3_62_OFAV (no samples 03024 and only in raw datasheet for  012025)
+- [x] inventory samples (tues)
+- [x] ask nikea if she submits timesheets/can get paid overtime
+- [x] email Rae about fulbright now (tues)
+- [ ] CERF early career awards application (wed)
+- [ ] call benefits office (wed)
+	- do I have to have a GIC account even if I have insurance through my parents and am under 26?
+- [ ] emailing people 
+	- interesting in a technician role/masters 
+	- read career development article 
+- [ ] make lists of people that I want to reach out to
+	- if brooke and nikea are talking to anyone at the confrence that is looking for a tech or a masters student 
+
 
 
 
