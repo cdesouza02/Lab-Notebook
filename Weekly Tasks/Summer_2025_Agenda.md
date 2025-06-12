@@ -11,11 +11,13 @@ June 9-12
 - [x] download photos from erins camera (mon)
 - [x] wash dive gear (mon)
 - [x] finish i9 (mon)
-- [ ] COL_SAN_T3_62_OFAV (no samples 03024 and only in raw datasheet for  012025)
+- [x] COL_SAN_T3_62_OFAV (no samples 03024 and only in raw datasheet for  012025)
+	- its a new tag
 - [x] inventory samples (tues)
 - [x] ask nikea if she submits timesheets/can get paid overtime
 - [x] email Rae about fulbright now (tues)
-- [ ] CERF early career awards application (wed)
+- [x] CERF early career awards application (wed)
+	-  [Submit another response](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfn1CxNsICm_eYkVrldcUw_JsAn--vSi1Dfc3GyxgPbnB_DGw/viewform?usp=form_confirm)
 - [ ] call benefits office (wed)
 	- do I have to have a GIC account even if I have insurance through my parents and am under 26?
 - [ ] emailing people 
