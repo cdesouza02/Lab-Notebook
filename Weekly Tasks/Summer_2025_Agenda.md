@@ -24,7 +24,7 @@ June 9-12
 	- interesting in a technician role/masters 
 	- read career development article 
 - [ ] make lists of people that I want to reach out to
-	- if brooke and nikea are talking to anyone at the confrence that is looking for a tech or a masters student 
+	- ~~if brooke and nikea are talking to anyone at the confrence that is looking for a tech or a masters student~~ 
 
 
 
