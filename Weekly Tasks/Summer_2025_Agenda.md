@@ -3,7 +3,14 @@ Summer 2025
 - coding hour, where people can bring their ideas/ issues to chat about 
 
 June 25-27
-- [ ] fulbright info session
+- [ ] fulbright info sessions 
+	- monday
+	- tuesday (application help)
+- [x] reach out to sophie UMD SMAST
+ - [ ] friday- independent research on where to study- use my notes from thurs
+ - [ ] saturday- first draft of short answers :)
+ 
+
 
 June 9-12
 - [x] mail out vortex (mon)
