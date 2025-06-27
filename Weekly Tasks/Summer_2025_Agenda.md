@@ -2,11 +2,31 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
+ June 30-Jul 4
+- [ ] **paper for the week:** psba or random one from the coral microbiome folder
+- [ ] send leah all things to be ordered (sun)
+	- scuba pro
+	- NEB
+- [ ] compile PsbA info for branae (mon)
+- [ ] meeting with sarah (tues)
+	- progress on ITS2
+	- order psba primers for branae/ chat about her plans and timeline
+		- she'll only be here through july might be best to prioritize dna extractions since she has time for those 
+		- but I can also see a benefit for having a set of sequences to learn how to analyze through the semester
+	- cali trip in late july 
+	- fulbright updates 
+- [ ] ITS2 pcr (wed)
+- [ ] ITS2 pcr
+
+
 June 25-27
-- [ ] fulbright info sessions 
+- [x] fulbright info sessions 
 	- monday
 	- tuesday (application help)
 - [x] reach out to sophie UMD SMAST
+- [x] IST2 pcr (thurs)
+- [x] ITS2 pcr (fri)
+- [x] read mentoring paper (fri)
  - [ ] friday- independent research on where to study- use my notes from thurs
  - [ ] saturday- first draft of short answers :)
  
@@ -42,7 +62,7 @@ May 27-28
 May 20-22
 **check hangman leah datasheet 18_PSTR**
 - [x] branae extraction set up (tues)
-- [ ] think through ITS2 pcr (tues)
+- [x] think through ITS2 pcr (tues)
 **Inventory day** (wed)
 -  fridge
 	- move manatee up to 614- free up bench space & extra fridge needed up there
