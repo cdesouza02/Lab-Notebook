@@ -4,11 +4,14 @@ Summer 2025
 
  June 30-Jul 4
 - [ ] **paper for the week:** psba or random one from the coral microbiome folder
-- [ ] send leah all things to be ordered (sun)
+- [x] send leah all things to be ordered (sun)
 	- scuba pro
 	- NEB
+- [x] onboarding forms (mon)
+- [x] ITS2 pcr (mon)
 - [ ] compile PsbA info for branae (mon)
-- [ ] meeting with sarah (tues)
+- [ ] meeting with sophie
+- [ ] meeting with sarah (wed)
 	- progress on ITS2
 	- order psba primers for branae/ chat about her plans and timeline
 		- she'll only be here through july might be best to prioritize dna extractions since she has time for those 
