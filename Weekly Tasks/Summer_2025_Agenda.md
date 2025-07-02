@@ -10,12 +10,13 @@ Summer 2025
 - [x] onboarding forms (mon)
 - [x] ITS2 pcr (mon)
 - [ ] compile PsbA info for branae (mon)
-- [ ] meeting with sophie
+- [x] meeting with sophie
 - [ ] meeting with sarah (wed)
 	- progress on ITS2
-	- order psba primers for branae/ chat about her plans and timeline
+	- order psba primers (universal commonly used for Breviolium-CNAT) for branae/ chat about her plans and timeline
 		- she'll only be here through july might be best to prioritize dna extractions since she has time for those 
 		- but I can also see a benefit for having a set of sequences to learn how to analyze through the semester
+		- 
 	- cali trip in late july 
 	- fulbright updates 
 - [ ] ITS2 pcr (wed)
