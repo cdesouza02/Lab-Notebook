@@ -2,6 +2,22 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
+Jul 21-24
+- [ ] mail out sequences
+
+
+Jul 14-18
+**make sure that the samples stay the same through indexing, that way one barcode has the same sample just ITS2 vs 16S**
+- [ ] indexing day (read above) Wed
+- [ ] meeting with sarah (tues)
+	- talk about pooling 16S and ITS2
+
+Jul 7-11
+- [ ] 15 ITS2 pcr (mon)
+- [ ] 15 ITS2 pcr (wed)
+- [ ] 15 ITS2 pcr (thurs)
+- [ ] pooling day
+
  June 30-Jul 4
 - [ ] **paper for the week:** psba or random one from the coral microbiome folder
 - [x] send leah all things to be ordered (sun)
@@ -9,18 +25,23 @@ Summer 2025
 	- NEB
 - [x] onboarding forms (mon)
 - [x] ITS2 pcr (mon)
-- [ ] compile PsbA info for branae (mon)
+- [x] compile PsbA info for branae (mon)
 - [x] meeting with sophie
 - [ ] meeting with sarah (wed)
 	- progress on ITS2
 	- order psba primers (universal commonly used for Breviolium-CNAT) for branae/ chat about her plans and timeline
 		- she'll only be here through july might be best to prioritize dna extractions since she has time for those 
 		- but I can also see a benefit for having a set of sequences to learn how to analyze through the semester
-		- 
+		- she should be extracting EtOH
 	- cali trip in late july 
 	- fulbright updates 
-- [ ] ITS2 pcr (wed)
-- [ ] ITS2 pcr
+- [x] ITS2 pcr (wed)
+- [x] set up primer order with branae, breviolum and durusdinium (wed)
+- [ ] 15 ITS2 pcr (thurs)
+- [ ] update resume 
+- [ ] list of people in the US 
+- [ ] list of people at university of southampton 
+	- 
 
 
 June 25-27
