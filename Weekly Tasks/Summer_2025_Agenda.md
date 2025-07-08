@@ -13,7 +13,9 @@ Jul 14-18
 	- talk about pooling 16S and ITS2
 
 Jul 7-11
-- [ ] 15 ITS2 pcr (mon)
+- [x] 15 ITS2 pcr (mon)
+- [x] send sarah resume and draft email (mon)
+- [x] make more tbe buffer (mon)
 - [ ] 15 ITS2 pcr (wed)
 - [ ] 15 ITS2 pcr (thurs)
 - [ ] pooling day
