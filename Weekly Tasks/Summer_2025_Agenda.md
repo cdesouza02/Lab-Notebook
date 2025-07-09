@@ -19,6 +19,11 @@ Jul 7-11
 - [x] branae to requbit her negative just in case she pulled from the wrong tube 
 	- label collection tubes as well 
 	- do an extraction with 3 negatives 
+- [ ] mentoring meeting
+	- have them figure out how long things take 
+		- personal data on their work efficiency 
+	- trying things is an accomplishment, even if they don't work
+	- revisit mentoring agreement 
 - [ ] 15 ITS2 pcr (wed)
 - [ ] 15 ITS2 pcr (thurs)
 - [ ] pooling day
