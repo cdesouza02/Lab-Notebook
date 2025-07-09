@@ -16,12 +16,15 @@ Jul 7-11
 - [x] 15 ITS2 pcr (mon)
 - [x] send sarah resume and draft email (mon)
 - [x] make more tbe buffer (mon)
+- [x] branae to requbit her negative just in case she pulled from the wrong tube 
+	- label collection tubes as well 
+	- do an extraction with 3 negatives 
 - [ ] 15 ITS2 pcr (wed)
 - [ ] 15 ITS2 pcr (thurs)
 - [ ] pooling day
 
  June 30-Jul 4
-- [ ] **paper for the week:** psba or random one from the coral microbiome folder
+- [x] **paper for the week:** psba or random one from the coral microbiome folder
 - [x] send leah all things to be ordered (sun)
 	- scuba pro
 	- NEB
