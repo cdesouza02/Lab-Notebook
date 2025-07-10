@@ -43,10 +43,13 @@ The PCR encompassed an initial denaturation step of 1 min at 98 °C followed b
 | Albumin         | 0.25                  | 0                           | 0                     |
 | Total           | 25                    | 0                           | 0                     |
 1. Create master mix for each sample
+	1. after adding Buffer, dNTP, and Primers vortex master mix
+	2. DO NOT vortex polymerase or albumin, pipette up and down to mix
 2. Pipette 24uL of master mix into each replicate tube (3 replicates per sample)
 3. Pipette 1uL of DNA into each replicate tube
 	1. use new pipette tip for each replicate
-4. run thermocycler program:
+4. briefly centrifuge pcr tubes before thermal cycler
+5. run thermocycler program:
 	1. 98 for 30 sec
 	2. **98 for 10 sec**
 	3. **69 for 30 sec**
@@ -54,6 +57,7 @@ The PCR encompassed an initial denaturation step of 1 min at 98 °C followed b
 	*repeat 2-4 for 30 cycles (# of cycles varies depending on input)*
 	5. 72 for 2 min
 	6. 8 for Forever
+	
 
 ### **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 
