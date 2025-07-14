@@ -24,9 +24,10 @@ Jul 7-11
 		- personal data on their work efficiency 
 	- trying things is an accomplishment, even if they don't work
 	- revisit mentoring agreement 
-- [ ] 15 ITS2 pcr (wed)
-- [ ] 15 ITS2 pcr (thurs)
-- [ ] pooling day
+- [x] 15 ITS2 pcr (wed)
+- [x] 15 ITS2 pcr (thurs)
+- [x] pooling day (fri)
+- [ ] 7 its2 (fri)
 
  June 30-Jul 4
 - [x] **paper for the week:** psba or random one from the coral microbiome folder
