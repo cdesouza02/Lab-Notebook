@@ -161,7 +161,9 @@ Note: The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determ
 
 #### **VII. Gel electrophoresis**
 
-Pool all indexed 
+Quibit to figure out the concentration of each sample
+ 
+ Pool all indexed according to concentration
 
 Gel purification for pooled 
 
