@@ -8,16 +8,16 @@ Jul 21-24
 
 Jul 14-18
 **make sure that the samples stay the same through indexing, that way one barcode has the same sample just ITS2 vs 16S**
-- [ ] meeting with sarah (tues)
+- [x] meeting with sarah (tues)
 	- talk about pooling 16S and ITS2
 		- from the concentrations calculate molarity based on the length of the regions including primers 
 	- reading a paper on psba/sanger sequencing with branae this week
-	- belize concur
-		- just delete it
+	- ~~belize concur~~
+		- ~~just delete it~~
 	- pls send me the indexing primer sheets (log in via buyways)
-- [ ] indexing day (read above) Wed
-- [ ] Quibit and pool ITS2 (thurs)
-- [ ] final clean up and pool with 16S (fri)
+- [x] indexing day (read above) Wed
+- [ ] sample purification and qubit (thurs)
+- [ ] pool ITS2 based on qubit and pool with 16S (fri)
 	- share calculations with sarah thurs
 
 Jul 7-11

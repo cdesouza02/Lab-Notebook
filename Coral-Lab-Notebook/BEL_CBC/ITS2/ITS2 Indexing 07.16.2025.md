@@ -30,6 +30,30 @@
 2. Make master Mix
 	- mm_calculations
 
+| [Lab-made master mix](https://www.neb.com/en-us/protocols/2012/08/30/pcr-using-q5-hot-start-high-fidelity-dna-polymerase-m0493?srsltid=AfmBOorUhEZyY74XPAYqTfjvQFYPWY0Z7KkOANR9s6kU7p9b_lfKZb74) |                       |                             |                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | --------------------------- | -------------------------- |
+| Reagent                                                                                                                                                                                          | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% | Divided by two (if needed) |
+| Buffer                                                                                                                                                                                           | 5                     | 528                         | 264                        |
+| dNTP (10mM)                                                                                                                                                                                      | 0.5                   | 52.8                        | 26.4                       |
+| DNA                                                                                                                                                                                              |                       |                             | 0                          |
+| Polymerase                                                                                                                                                                                       | 0.25                  | 26.4                        | 13.2                       |
+| Water                                                                                                                                                                                            | 16.25                 | 1716                        | 858                        |
+| Total                                                                                                                                                                                            | 22                    | 2323.2                      | 1161.6                     |
+
+| Index master mix rows (vertical) |           |                            |
+| -------------------------------- | --------- | -------------------------- |
+| Reagent                          | MM amount | Divided by two (if needed) |
+| Big master mix                   | 145.2     | 72.6                       |
+| N50xx index                      | 13.2      | 6.6                        |
+| Total                            | 158.4     | 79.2                       |
+
+| Index master mix columns (horizontal) |                       |                            |
+| ------------------------------------- | --------------------- | -------------------------- |
+| Reagent                               | Amount per 1 rxn (uL) | Divided by two (if needed) |
+| Big master mix                        | 96.8                  | 48.4                       |
+| N50xx index                           | 8.8                   | 4.4                        |
+| Total                                 | 105.6                 | 52.8                       |
+
 **Steps:**
 1. Use strip tubes to create a master mix for each i5 and i7 primer
 2. use multi-channel pipette to dispense the master mixes into appropriate tube
@@ -49,3 +73,9 @@ perform steps as above with one addition:
 - for each row in the gel, **include both a ladder and a non-indexed control**
 - pre- and post-indexed samples should be different sizes
 - **1uL product used to load gel to check indexing**
+
+| gel  |       |       |     |     |     |
+| ---- | ----- | ----- | --- | --- | --- |
+| 1p&i | 10p&i | 19p&i | 28  | 37  | 46  |
+| 55   | 64    | 71    | 78  | 85  | 96  |
+
