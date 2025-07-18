@@ -11,6 +11,8 @@ Jul 14-18
 - [x] meeting with sarah (tues)
 	- talk about pooling 16S and ITS2
 		- from the concentrations calculate molarity based on the length of the regions including primers 
+			- ITS2 ~350 bp
+			- 
 	- reading a paper on psba/sanger sequencing with branae this week
 	- ~~belize concur~~
 		- ~~just delete it~~
