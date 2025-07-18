@@ -16,9 +16,12 @@ Jul 14-18
 		- ~~just delete it~~
 	- pls send me the indexing primer sheets (log in via buyways)
 - [x] indexing day (read above) Wed
-- [ ] sample purification and qubit (thurs)
+- [x] sample purification and qubit (thurs)
+- [ ]  requbit samples 79, 92 and 96
 - [ ] pool ITS2 based on qubit and pool with 16S (fri)
 	- share calculations with sarah thurs
+- [x] ORP docs
+- [x] send fulbright emails out
 
 Jul 7-11
 - [x] 15 ITS2 pcr (mon)

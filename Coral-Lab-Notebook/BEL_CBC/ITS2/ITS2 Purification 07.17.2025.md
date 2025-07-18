@@ -1,4 +1,8 @@
 ## Protocol
+
+#### Prep 
+Make 80% ethanol
+
 #### VI. Purification with ampure beads
 obtain, label, and cross-link new strip tubes
 start with the manufacturer protocol using 1.8X-1.5X bead ratio and 10uL PCR product
@@ -20,10 +24,14 @@ make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
 | Bead Volume         |      |               |                   |
 | ------------------- | ---- | ------------- | ----------------- |
 | final concentration | 1.8  |               |                   |
-| PCR volume          | 24   | total samples | Total bead volume |
-| Added Beads         | 43.2 | 96            | 4147.2            |
-
-
+| PCR volume          | 25   | total samples | Total bead volume |
+| Added Beads         | 45   | 96            | 4320              |
+|                     |      |               |                   |
+| final concentration | 1.5  |               |                   |
+| PCR volume          | 25   | total samples | Total bead volume |
+| Added Beads         | 37.5 | 96            | 3600              |
+|                     |      |               |                   |
+1.8 until sample 40, 1.5x after sample 40
 3. Mix reagent and PCR reaction thoroughly by pipette mixing 5 times.
 4. Incubate the mixed samples for 5 minutes at room temperature for maximum recovery. 
 	1. This step allows the binding of PCR products 125bp and greater to the Magnetic beads.  After mixing, the color of the mixture should appear homogenous.
@@ -43,3 +51,5 @@ make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
 12. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
 
 #### VII. Gel electrophoresis
+
+![[jul17_2025_its2.pdf]]

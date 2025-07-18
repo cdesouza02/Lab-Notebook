@@ -79,3 +79,4 @@ perform steps as above with one addition:
 | 1p&i | 10p&i | 19p&i | 28  | 37  | 46  |
 | 55   | 64    | 71    | 78  | 85  | 96  |
 
+![[jul17_2025_its2.pdf]]
