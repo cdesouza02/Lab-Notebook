@@ -4,6 +4,7 @@ Summer 2025
 
 Jul 21-24
 - [ ] mail out sequences
+- [x] read its2 psba paper 
 
 
 Jul 14-18
@@ -13,7 +14,7 @@ Jul 14-18
 		- from the concentrations calculate molarity based on the length of the regions including primers 
 			- ITS2 ~350 bp
 			- 
-	- reading a paper on psba/sanger sequencing with branae this week
+	- ~~reading a paper on psba/sanger sequencing with branae this week~~
 	- ~~belize concur~~
 		- ~~just delete it~~
 	- pls send me the indexing primer sheets (log in via buyways)
