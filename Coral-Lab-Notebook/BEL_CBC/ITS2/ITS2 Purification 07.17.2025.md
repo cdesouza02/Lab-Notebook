@@ -52,4 +52,4 @@ make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
 
 #### VII. Gel electrophoresis
 
-![[jul17_2025_its2.pdf]]
+![[jul17_2025_its2 copy.pdf]]

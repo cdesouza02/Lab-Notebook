@@ -5,6 +5,10 @@ Summer 2025
 Jul 21-24
 - [ ] mail out sequences
 - [x] read its2 psba paper 
+- [ ] ngs form 
+- [ ] branae pcr
+- [ ] caroline psba next samples or put them back in freezer 
+- [ ] 
 
 
 Jul 14-18
