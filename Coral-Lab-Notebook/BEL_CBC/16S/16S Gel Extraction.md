@@ -10,6 +10,16 @@ Voltage = distance between the electrodes (cm) x 5-10 V/cm
 
 #### 4/29/2025 Test 
 
+**post exraction qubit concentration:** 
+300 bp: 1.46 ng/ul
+400 bp: 0.396 ng/ul
+400 bp: 0.742 ng/ul
+
+july 
+400 bp: 0.514 ng/ul
+
+
+
 | Gel    |      |      |        |              |      |      |        |               |               |
 | ------ | ---- | ---- | ------ | ------------ | ---- | ---- | ------ | ------------- | ------------- |
 | ladder | 74 p | 74 i | ladder | cleaned pool | 92 p | 92 i | ladder | extracted 350 | extracted 400 |
@@ -37,10 +47,8 @@ tube 4: 100 mg+300=400
 
 40 * 3=1200+400=1600+400=2
 
-**post exraction qubit concentration:** 
-1+2: 1.46 ng/ul
-3: 0.396 ng/ul
-4: 0.742 ng/ul
+
+
 
 #### 4/17/2025- Test
 test pooling with samples indexed at 60C 

@@ -4,9 +4,15 @@ Summer 2025
 
 Jul 21-24
 - [ ] mail out sequences
+- [ ] instructions for mail out (thurs)
+- [x] FINAL POOL :0  (thurs)
+- [x] vacuum dry 16S samples to increase concentration (wed)
+- [x] figured out 16S and ITS2 pooling at 3:1 ratio concentration
+- [x] figured out how long 16S is- 400 bp with indexes
+- [x]  ngs form 
+- [x] ITS2 gel extraction
 - [x] read its2 psba paper 
-- [ ] ngs form 
-- [ ] branae pcr
+- [x] branae pcr
 - [ ] caroline psba next samples or put them back in freezer 
 - [ ] 
 
