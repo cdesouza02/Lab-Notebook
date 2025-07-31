@@ -2,10 +2,22 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
+Jul 28-31
+- [ ] email ehs about glass disposal
+- [ ] restock 614
+	- gloves
+	- kimwipes
+	- bleach
+- [ ] orders:
+	- packing tape
+	- order trash bags
+- [ ] samples to be mailed out
+
+
 Jul 21-24
 - [ ] mail out sequences
 - [ ] instructions for mail out (thurs)
-- [x] FINAL POOL :0  (thurs)
+- [ ] FINAL POOL :0  (thurs)
 - [x] vacuum dry 16S samples to increase concentration (wed)
 - [x] figured out 16S and ITS2 pooling at 3:1 ratio concentration
 - [x] figured out how long 16S is- 400 bp with indexes
