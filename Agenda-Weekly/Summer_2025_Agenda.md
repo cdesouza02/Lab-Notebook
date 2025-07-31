@@ -2,31 +2,10 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
-# Periodic Meeting Notes
-## What I accomplished last week
-
-### Notes
-Any further explanation / links
-
-## What I plan to do next week
-### Notes
-Any further explanation / links
-## Questions for SGW?
-
-## SGW notes
-## Periodic survey
-
-This week, (check all that apply):
-
-- [ ]  I accomplished all or most of my goals
-- [ ]  I used my time wisely
-- [ ]  I struggled with a problem, but solved it
-- [ ]  I ran into an issue I could not solve on my own.
-
 Jul 28-31
 - [x] email ehs about glass disposal
 - [ ] fulbright emails :0
-- [ ] set up new github system for GW meetings
+- [x] set up new github system for GW meetings
 - [x] restock 614
 	- gloves
 	- kimwipes
