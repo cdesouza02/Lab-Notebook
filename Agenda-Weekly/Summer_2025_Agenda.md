@@ -2,8 +2,10 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
-Jul 28-31
+Jul 28-Aug 1
 - [x] email ehs about glass disposal
+- [ ] read DOI: 10.1038/srep32032
+- [ ] go over tapestation reading
 - [ ] fulbright emails :0
 - [x] set up new github system for GW meetings
 - [x] restock 614
@@ -14,6 +16,7 @@ Jul 28-31
 	- packing tape
 	- order trash bags
 - [x] samples to be mailed out
+- [x] restock pipette tips
 
 
 Jul 21-24
