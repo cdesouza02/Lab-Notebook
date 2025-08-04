@@ -4,8 +4,8 @@ Summer 2025
 
 Jul 28-Aug 1
 - [x] email ehs about glass disposal
-- [ ] read DOI: 10.1038/srep32032
-- [ ] go over tapestation reading
+- [x] read DOI: 10.1038/srep32032
+- [x] go over tapestation reading
 - [ ] CERF form
 - [ ] CERF grant app due sept 8
 - [x] fulbright emails :0
