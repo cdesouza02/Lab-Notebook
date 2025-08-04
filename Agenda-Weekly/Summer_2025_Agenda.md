@@ -2,9 +2,17 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
+Aug 4-9
+- [ ] **reading DOI: 10.7717/peerj.17358**
+- [ ] organize 16S samples (mon), new set of samples!
+- [ ] 16S pcr!! (wed, thurs, friday)
+- [ ] tristin to practice gels
+- [ ] outline fulbright app 1 hr each evening
+
+
 Jul 28-Aug 1
 - [x] email ehs about glass disposal
-- [x] read DOI: 10.1038/srep32032
+- [x] **read DOI: 10.1038/srep32032**
 - [x] go over tapestation reading
 - [ ] CERF form
 - [ ] CERF grant app due sept 8
