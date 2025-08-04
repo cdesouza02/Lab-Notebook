@@ -6,7 +6,9 @@ Jul 28-Aug 1
 - [x] email ehs about glass disposal
 - [ ] read DOI: 10.1038/srep32032
 - [ ] go over tapestation reading
-- [ ] fulbright emails :0
+- [ ] CERF form
+- [ ] CERF grant app due sept 8
+- [x] fulbright emails :0
 - [x] set up new github system for GW meetings
 - [x] restock 614
 	- gloves
