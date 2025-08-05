@@ -4,8 +4,10 @@ Summer 2025
 
 Aug 4-9
 - [ ] **reading DOI: 10.7717/peerj.17358**
+- [x] read mentoring with a backbone
+- [ ] t3_66_OFAV?? R6_B1
 - [ ] organize 16S samples (mon), new set of samples!
-- [ ] put old samples back in freezer (tues)
+- [ ] put previous 96 samples back in freezer (tues)
 - [ ] 16S pcr!! (wed, thurs, friday)
 - [ ] tristin to practice gels
 - [ ] outline fulbright app 1 hr each evening
@@ -17,7 +19,7 @@ Aug 4-9
 - [ ] goals for 16S and ITS2
 	- see if the 3:1 molarity worked
 	- how to separate the 16S and ITS2 when I used same indexing primers 
-- [ ] ask rae what exactly I need for the september deadline for fulbright
+- [x] ask rae what exactly I need for the september deadline for fulbright
 	- do I need my letter of affiliation and letters of rec?
 		- who else should I ask for fulbright letter of rec
 		- is there an advantage to getting diverse set of 
