@@ -5,9 +5,24 @@ Summer 2025
 Aug 4-9
 - [ ] **reading DOI: 10.7717/peerj.17358**
 - [ ] organize 16S samples (mon), new set of samples!
+- [ ] put old samples back in freezer (tues)
 - [ ] 16S pcr!! (wed, thurs, friday)
 - [ ] tristin to practice gels
 - [ ] outline fulbright app 1 hr each evening
+- [ ] see if CERF has roommate matching program
+- [ ] look into flights and hotel for CERF
+- [x] edit purification (lower concentration) steps for 16S and ITS2 
+- [ ] get on unity slack, download the files onto unity
+	- check with nikea about where raw data goes 
+- [ ] goals for 16S and ITS2
+	- see if the 3:1 molarity worked
+	- how to separate the 16S and ITS2 when I used same indexing primers 
+- [ ] ask rae what exactly I need for the september deadline for fulbright
+	- do I need my letter of affiliation and letters of rec?
+		- who else should I ask for fulbright letter of rec
+		- is there an advantage to getting diverse set of 
+	- what exactly will be happening with my Fulbright
+
 
 
 Jul 28-Aug 1
