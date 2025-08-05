@@ -118,9 +118,9 @@ perform steps as above with one addition:
 
 #### **VI. Purification with ampure beads**
 obtain, label, and cross-link new strip tubes
-start with the manufacturer protocol using 1.8X-1.5X bead ratio and 10uL-25uL PCR product
+start with the manufacturer protocol using 1.8X-1.0X bead ratio and 10uL-25uL PCR product
 - ratio of beads will change the size you select for 
-- 1.5x will get rid of larger primer dimers, 1.8X will get rid of primer dimer below 100 bp
+	*1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp*
 
 make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
 	 *may need to re-clean samples if gel images show that multiple bands were not removed*
