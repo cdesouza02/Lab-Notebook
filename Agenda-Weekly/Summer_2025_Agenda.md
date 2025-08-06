@@ -5,16 +5,17 @@ Summer 2025
 Aug 4-9
 - [ ] **reading DOI: 10.7717/peerj.17358**
 - [x] read mentoring with a backbone
-- [ ] t3_66_OFAV?? R6_B1
+- [x] t3_66_OFAV?? R6_B1
+- [x] email matt about intro to marine biology
 - [ ] organize 16S samples (mon), new set of samples!
-- [ ] put previous 96 samples back in freezer (tues)
+- [x] put previous 96 samples back in freezer (tues)
 - [ ] 16S pcr!! (wed, thurs, friday)
 - [ ] tristin to practice gels
 - [ ] outline fulbright app 1 hr each evening
-- [ ] see if CERF has roommate matching program
+- [x] see if CERF has roommate matching program
 - [ ] look into flights and hotel for CERF
 - [x] edit purification (lower concentration) steps for 16S and ITS2 
-- [ ] get on unity slack, download the files onto unity
+- [x] get on unity slack, download the files onto unity
 	- check with nikea about where raw data goes 
 - [ ] goals for 16S and ITS2
 	- see if the 3:1 molarity worked
