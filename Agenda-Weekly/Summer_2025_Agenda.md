@@ -9,7 +9,7 @@ Aug 4-9
 - [x] email matt about intro to marine biology
 - [ ] organize 16S samples (mon), new set of samples!
 - [x] put previous 96 samples back in freezer (tues)
-- [ ] 16S pcr!! (wed, thurs, friday)
+- [ ] 16S pcr!! (thurs, friday)
 - [ ] tristin to practice gels
 - [ ] outline fulbright app 1 hr each evening
 - [x] see if CERF has roommate matching program
