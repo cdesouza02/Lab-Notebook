@@ -4,12 +4,13 @@ Summer 2025
 
 Aug 4-9
 - [ ] **reading DOI: 10.7717/peerj.17358**
+- [x] send out new lab meetings
 - [x] read mentoring with a backbone
 - [x] t3_66_OFAV?? R6_B1
 - [x] email matt about intro to marine biology
-- [ ] organize 16S samples (mon), new set of samples!
+- [x] organize 16S samples (mon), new set of samples!
 - [x] put previous 96 samples back in freezer (tues)
-- [ ] 16S pcr!! (thurs, friday)
+- [ ] 16S pcr!! ( friday)
 - [ ] tristin to practice gels
 - [ ] outline fulbright app 1 hr each evening
 - [x] see if CERF has roommate matching program
