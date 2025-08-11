@@ -2,25 +2,28 @@ Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
 
+Aug 11-15
+- [ ] **reading DOI: 10.1038/s41467-023-38612-4**
+- [ ] goals for 16S and ITS2
+	- see if the 3:1 molarity worked
+	- how to separate the 16S and ITS2 when I used same indexing primers 
+ - [ ] look into flights and hotel for CERF
+
 Aug 4-9
-- [ ] **reading DOI: 10.7717/peerj.17358**
+- [x] **reading DOI: 10.7717/peerj.17358**
 - [x] send out new lab meetings
 - [x] read mentoring with a backbone
 - [x] t3_66_OFAV?? R6_B1
 - [x] email matt about intro to marine biology
 - [x] organize 16S samples (mon), new set of samples!
 - [x] put previous 96 samples back in freezer (tues)
-- [ ] 16S pcr!! ( friday)
-- [ ] tristin to practice gels
-- [ ] outline fulbright app 1 hr each evening
+- [x] 16S pcr!! ( friday)
+- [x] tristin to practice gels
+- [x] outline fulbright app 1 hr each evening
 - [x] see if CERF has roommate matching program
-- [ ] look into flights and hotel for CERF
 - [x] edit purification (lower concentration) steps for 16S and ITS2 
 - [x] get on unity slack, download the files onto unity
 	- check with nikea about where raw data goes 
-- [ ] goals for 16S and ITS2
-	- see if the 3:1 molarity worked
-	- how to separate the 16S and ITS2 when I used same indexing primers 
 - [x] ask rae what exactly I need for the september deadline for fulbright
 	- do I need my letter of affiliation and letters of rec?
 		- who else should I ask for fulbright letter of rec
