@@ -7,7 +7,13 @@ Aug 11-15
 - [ ] goals for 16S and ITS2
 	- see if the 3:1 molarity worked
 	- how to separate the 16S and ITS2 when I used same indexing primers 
+	- cutadapt with the primers 
  - [ ] look into flights and hotel for CERF
+ - [x] ask Teresa about auditing/taking classes 
+ - [ ] download drop box onto monitor
+	 - get unity ssh working on my end
+	 - make scratch workspace, share with nikea 
+	 - get downloaded sequences onto harddrive and scratch space
 
 Aug 4-9
 - [x] **reading DOI: 10.7717/peerj.17358**
