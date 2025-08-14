@@ -4,6 +4,7 @@ Summer 2025
 
 Aug 11-15
 - [ ] **reading DOI: 10.1038/s41467-023-38612-4**
+- [ ] order more tape
 - [ ] goals for 16S and ITS2
 	- see if the 3:1 molarity worked
 	- how to separate the 16S and ITS2 when I used same indexing primers 
