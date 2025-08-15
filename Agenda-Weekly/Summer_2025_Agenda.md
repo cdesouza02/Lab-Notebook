@@ -4,14 +4,14 @@ Summer 2025
 
 Aug 11-15
 - [ ] **reading DOI: 10.1038/s41467-023-38612-4**
-- [ ] order more tape
+- [ ] order more lab tape
 - [ ] goals for 16S and ITS2
 	- see if the 3:1 molarity worked
 	- how to separate the 16S and ITS2 when I used same indexing primers 
 	- cutadapt with the primers 
  - [ ] look into flights and hotel for CERF
  - [x] ask Teresa about auditing/taking classes 
- - [ ] download drop box onto monitor
+ - [x] unity set up
 	 - get unity ssh working on my end
 	 - make scratch workspace, share with nikea 
 	 - get downloaded sequences onto harddrive and scratch space
