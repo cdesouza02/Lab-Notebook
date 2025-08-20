@@ -1,15 +1,24 @@
 Summer 2025
 - move unfiltered pipette tips? keep some for undergrads doing oyster stuff (next inventory?)
 - coding hour, where people can bring their ideas/ issues to chat about 
-
-Aug 11-15
-- [ ] **reading DOI: 10.1038/s41467-023-38612-4**
-- [ ] order more lab tape
-- [ ] goals for 16S and ITS2
+-  goals for 16S and ITS2
 	- see if the 3:1 molarity worked
 	- how to separate the 16S and ITS2 when I used same indexing primers 
 	- cutadapt with the primers 
+
+Aug 18-21
+patterns of who has 16S double bands
+- [ ] mk dir .conda in work and recreate BEL_immune 
  - [ ] look into flights and hotel for CERF
+ - [ ] **reading DOI: 10.1038/s41467-023-38612-4**
+ - [ ] 16S pcr (mon)- failed
+- [ ] lab tape, check shelf 8
+- [ ] set up meeting space with irma (tues)
+- [ ] meeting with brandon (wed)
+- [ ] set up undergrad meetings 
+	- ~~tristin~~
+
+Aug 11-15
  - [x] ask Teresa about auditing/taking classes 
  - [x] unity set up
 	 - get unity ssh working on my end
