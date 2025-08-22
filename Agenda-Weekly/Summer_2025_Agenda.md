@@ -6,17 +6,23 @@ Summer 2025
 	- how to separate the 16S and ITS2 when I used same indexing primers 
 	- cutadapt with the primers 
 
+Aug
+- [ ] run pcr with products that just came in, see if still good to use
+
 Aug 18-21
 patterns of who has 16S double bands
-- [ ] mk dir .conda in work and recreate BEL_immune 
+- [x] mk dir .conda in work and recreate BEL_immune 
  - [ ] look into flights and hotel for CERF
  - [ ] **reading DOI: 10.1038/s41467-023-38612-4**
- - [ ] 16S pcr (mon)- failed
-- [ ] lab tape, check shelf 8
+ - [x] 16S pcr (mon)- failed
+- [x] lab tape, check shelf 8
 - [ ] set up meeting space with irma (tues)
 - [ ] meeting with brandon (wed)
 - [ ] set up undergrad meetings 
-	- ~~tristin~~
+	- ~~tristin
+- [ ] find double banding patterns with 16S pcr
+	- species?
+
 
 Aug 11-15
  - [x] ask Teresa about auditing/taking classes 
