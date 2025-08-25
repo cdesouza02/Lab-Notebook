@@ -10,7 +10,6 @@ Aug
 - [ ] run pcr with products that just came in, see if still good to use
 
 Aug 18-21
-patterns of who has 16S double bands
 - [x] mk dir .conda in work and recreate BEL_immune 
  - [ ] look into flights and hotel for CERF
  - [ ] **reading DOI: 10.1038/s41467-023-38612-4**
