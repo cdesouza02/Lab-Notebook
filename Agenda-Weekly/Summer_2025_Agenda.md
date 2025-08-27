@@ -6,8 +6,15 @@ Summer 2025
 	- how to separate the 16S and ITS2 when I used same indexing primers 
 	- cutadapt with the primers 
 
-Aug
-- [ ] run pcr with products that just came in, see if still good to use
+Aug 25-29
+- [ ] run pcr with products that just came in, see if still good to use (tues)
+- [ ] last edits on fulbright
+- [ ] email recommenders 
+- [ ] book interview 
+- [ ] unity 
+	- delete split_reads and try again with cutadapt actually trimming 
+- [ ] email cci 
+- [ ] send sarah which flights to book them 
 
 Aug 18-21
 - [x] mk dir .conda in work and recreate BEL_immune 
@@ -15,8 +22,8 @@ Aug 18-21
  - [ ] **reading DOI: 10.1038/s41467-023-38612-4**
  - [x] 16S pcr (mon)- failed
 - [x] lab tape, check shelf 8
-- [ ] set up meeting space with irma (tues)
-- [ ] meeting with brandon (wed)
+- [x] set up meeting space with irma (tues)
+- [x] meeting with brandon (wed)
 - [ ] set up undergrad meetings 
 	- ~~tristin
 - [ ] find double banding patterns with 16S pcr
