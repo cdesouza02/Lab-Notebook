@@ -8,13 +8,13 @@ Summer 2025
 
 Sept 1-5
 - [ ] 15 PCR (tues)
+- [ ] email recommenders 
+- [ ] write letter of affiliation
 - [ ] 15 (fri)
 
 Aug 25-29
 - [x] run pcr with products that just came in, see if still good to use (tues)
 - [x] last edits on fulbright
-- [ ] email recommenders 
-- [ ] write letter of affiliation
 - [x] edit fulbright draft 2
 - [x] 16S double banding patterns
 	- ~~set up (wed)~~
@@ -22,7 +22,7 @@ Aug 25-29
 	- did not find any strong patterns
 - [x] biosafety cert
 - [x] CERF legacy fund?
-- [ ] book fulbright interview 
+- [x] book fulbright interview 
 	- [x] answer gilman interview
 - [x] unity 
 	- ~~delete split_reads and try again with cutadapt actually trimming~~ 
