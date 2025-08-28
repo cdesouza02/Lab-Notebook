@@ -30,7 +30,7 @@ Aug 25-29
 	- why did it fail
 - [x] email cci 
 - [ ] send sarah which flights to book them 
-- [ ] 15 PCR (thurs)
+- [x] 15 PCR (thurs)
 
 Aug 18-21
 - [x] mk dir .conda in work and recreate BEL_immune 
