@@ -26,8 +26,11 @@ Aug 25-29
 	- [x] answer gilman interview
 - [x] unity 
 	- ~~delete split_reads and try again with cutadapt actually trimming~~ 
-- [ ] run dada2 sbatch (wed)
-	- why did it fail
+- [x] run dada2 sbatch (wed)
+	- why did it fail, nbconvert 
+- [ ] run dada2 sbatch using papermill instead
+	- why did it fail: i didn't actually create the /caroline/ASV/ file path in ln 19 in jupyter notebook
+	- also I haven't downloaded silva.fastq.gz yet!
 - [x] email cci 
 - [ ] send sarah which flights to book them 
 - [x] 15 PCR (thurs)
