@@ -6,10 +6,21 @@ Summer 2025
 	- how to separate the 16S and ITS2 when I used same indexing primers 
 	- cutadapt with the primers 
 
+Sept 8-12
+- [ ] col prep
+- 850 rna later tubes ~250 uL rna later each tube
+- rna later tubes for filters, 1ml rna later each tube
+
 Sept 1-5
 - [ ] 15 PCR (tues)
+- [ ] look at number of sequences/reads i get compared to double banding
+- [ ] do the sequences start with 16S primer? where did the barcodes go?
+	- ~~1. run dada2 on untrimmed 16S~~
+	- 2 run dada2 on more agressive trimming same filt
+	- 3. more agressive trimming (same as step 2) less agressive filtering in dada2
 - [ ] email recommenders 
 - [ ] write letter of affiliation
+- [ ] fulbright practice interview?
 - [ ] 15 (fri)
 
 Aug 25-29
@@ -28,11 +39,11 @@ Aug 25-29
 	- ~~delete split_reads and try again with cutadapt actually trimming~~ 
 - [x] run dada2 sbatch (wed)
 	- why did it fail, nbconvert 
-- [ ] run dada2 sbatch using papermill instead
+- [x] run dada2 sbatch using papermill instead
 	- why did it fail: i didn't actually create the /caroline/ASV/ file path in ln 19 in jupyter notebook
 	- also I haven't downloaded silva.fastq.gz yet!
 - [x] email cci 
-- [ ] send sarah which flights to book them 
+- [x] send sarah which flights to book them 
 - [x] 15 PCR (thurs)
 
 Aug 18-21
