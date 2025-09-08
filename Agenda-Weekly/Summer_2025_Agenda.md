@@ -13,7 +13,8 @@ Sept 8-12
 
 Sept 1-5
 - [ ] 15 PCR (tues)
-- [ ] look over tristin IDP
+- [x] look over tristin IDP
+- [x] look over branae idp
 - [ ] look at number of sequences/reads i get compared to double banding
 - [ ] do the sequences start with 16S primer? where did the barcodes go?
 	- ~~1. run dada2 on untrimmed 16S~~
