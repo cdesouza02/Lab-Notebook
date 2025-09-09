@@ -7,23 +7,29 @@ Summer 2025
 	- cutadapt with the primers 
 
 Sept 8-12
-- [ ] col prep
-- 850 rna later tubes ~250 uL rna later each tube
-- rna later tubes for filters, 1ml rna later each tube
-
-Sept 1-5
 - [ ] 15 PCR (tues)
-- [x] look over tristin IDP
-- [x] look over branae idp
+- [ ] 15 (fri)
+- [ ] col prep
+- ~250 uL rna later each tube
+- ~600 rna later tubes for filters, 1ml rna later each tube
+- [x] wdhof follow up report
 - [ ] look at number of sequences/reads i get compared to double banding
 - [ ] do the sequences start with 16S primer? where did the barcodes go?
 	- ~~1. run dada2 on untrimmed 16S~~
 	- 2 run dada2 on more agressive trimming same filt
 	- 3. more agressive trimming (same as step 2) less agressive filtering in dada2
-- [ ] email recommenders 
+FULBRIGHT
+- [ ] fill out teresas letter of rec form (mon night)
+- [ ] write letter of affiliation
+- [ ] check in with Maria Matz for FLE letter
+- [ ] prep for interview (fri 2-3 pm in oleary)
+
+Sept 1-5
+- [x] look over tristin IDP
+- [x] look over branae idp
+- [x] email recommenders 
 - [ ] write letter of affiliation
 - [ ] fulbright practice interview?
-- [ ] 15 (fri)
 
 Aug 25-29
 - [x] run pcr with products that just came in, see if still good to use (tues)
