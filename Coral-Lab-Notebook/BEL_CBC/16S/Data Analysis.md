@@ -52,3 +52,13 @@ silhouette widths
 - silhouette()
 
 https://sites.ualberta.ca/~ahamann/teaching/renr690/labs/Lab5.pdf
+
+- PERMANOVA in vegan
+	- adonis2()
+	- dbrda()
+- a difference bw the functions is how they treat neg eigenvales
+
+
+https://statsandr.com/blog/clustering-analysis-k-means-and-hierarchical-clustering-by-hand-and-in-r/
+
+#### okay at least I know date and double banding don't explain anything
