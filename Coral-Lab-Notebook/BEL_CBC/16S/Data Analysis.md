@@ -51,6 +51,14 @@ silhouette widths
 	- = big silhouette widths
 - silhouette()
 
+##### Ordination Methods
+- Correspondence Analysis (CA) is a unimodal method — most useful for species data, especially where non-linear responses are observed
+- Principal Coordinates Analysis (PCO) and Non-metric Multidimensional Scaling (NMDS) — can be used for any kind of data
+[choosing which method to utilze](https://www.researchgate.net/post/How-to-choose-ordination-method-such-as-PCA-CA-PCoA-and-NMDS)
+- If you have a dataset that include null values (e.g. most dataset from genotyping using fingerprinting methods include null values, when for example a bacterial OTU is present in some samples and not in others), I would advise you to use Bray-Curtis similarity matrix and nMDS ordination. Bray-Curtis distance is chosen because it is not affected by the number of null values between samples like Euclidean distance, and nMDS is chosen because you can choose any similarity matrix, not like PCA.
+[phyloseq github ordination](https://joey711.github.io/phyloseq/plot_ordination-examples.html#four_main_ordination_plots)
+**[our coding club intro to ordination](https://ourcodingclub.github.io/tutorials/ordination/index.html)**
+
 https://sites.ualberta.ca/~ahamann/teaching/renr690/labs/Lab5.pdf
 
 - PERMANOVA in vegan
