@@ -6,3 +6,6 @@ i= ITS2 ii=16S
 CiVi/CiiVii=1/3
 
 Vi=2.060
+
+
+Goal: have the 16S concentration 
