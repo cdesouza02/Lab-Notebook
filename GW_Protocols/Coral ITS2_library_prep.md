@@ -54,7 +54,7 @@ The PCR encompassed an initial denaturation step of 1 min at 98 °C followed b
 	2. **98 for 10 sec**
 	3. **69 for 30 sec**
 	4. **72 for 20 sec** 
-	*repeat 2-4 for 30 cycles (# of cycles varies depending on input)*
+	*repeat 2-4 for 28 cycles (# of cycles varies depending on input)*
 	5. 72 for 2 min
 	6. 8 for Forever
 	
