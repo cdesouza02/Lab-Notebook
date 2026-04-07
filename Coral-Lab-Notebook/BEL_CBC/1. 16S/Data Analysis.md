@@ -1,3 +1,7 @@
+unzip files from filezilla in unity
+```
+unzip *.zip
+```
 ## Jupyter notes
 - do not use cutadapt to trim sequences, that reduces the quality of the og reads
 - cutadapt to split sequences
