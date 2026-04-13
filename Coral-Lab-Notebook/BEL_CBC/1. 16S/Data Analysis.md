@@ -6,6 +6,11 @@ unzip *.zip
 - do not use cutadapt to trim sequences, that reduces the quality of the og reads
 - cutadapt to split sequences
 	- size of files should reflect 3:1 16S:ITS2 molarity
+- must do paired end sequencing so that you can capture the whole 16S region 
+	- 
+- to create silva reference data, they had to culture all of the bacteria
+	- can't just sequence it without anything to compare it to visually
+	- silva pulls references from NCBI to use 
 ### Dada2
 - trims, filters, merges and denoises R1 and R2 from each sample
 - this sets up the sequences in a way that they can be compared to the silva file
