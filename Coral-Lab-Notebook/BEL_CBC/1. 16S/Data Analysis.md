@@ -2,6 +2,15 @@ unzip files from filezilla in unity
 ```
 unzip *.zip
 ```
+
+# Final data analysis troublshooting
+**Apr 21 2026**
+what reads am I working with after chimeral removal from dada2 
+- mean reads = 353342.067653277
+- median reads = 260602
+- seeing very high read lengths (or number of reads not sure which is which) for 2_26_2025 and 2_25_2025 16S PCR, but even when I exclude those dates from the anova, Date_16S is still the. most significant variable
+	- however seq_run and factor(seq_run) are not significant in driving the number of reads 
+
 ## Jupyter notes
 - do not use cutadapt to trim sequences, that reduces the quality of the og reads
 - cutadapt to split sequences
