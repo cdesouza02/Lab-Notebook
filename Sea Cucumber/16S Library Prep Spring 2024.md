@@ -227,8 +227,13 @@ using HotStart reagents for this protocol using the following combination of rea
     1. add 12uL of each i5 and i7 master mix to each reaction tube - following the template to track the combination of barcodes used for each sample
     2. 12uL i5 master mix + 12uL i7 master mix + 1uL template = 25uL total reaction
 3. add DNA to individual reactions
-4. run thermocycler program
-
+4. run thermocycler program:
+	1. *95C for 5 min*
+	2. *98C for 20 sec*
+	3. *60C for 45 sec*
+	4. *72C for 45 Sec*
+	5. *Repeat 2-4 for 8 cycles*
+	6. *72C for 5 min*
 PCR for indexing pooled products
 
   
