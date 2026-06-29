@@ -1,3 +1,13 @@
+**Notes:**
+- protocol was followed on Monday June 22 (amplication failed)
+- same protocol was repeated Wednesday June 24 and PCR was successful
+
+06.24.26 Indexing gel
+![[2026_06_24_Gel_Indexed.png]]
+
+
+06.22.26 Indexing Gel
+![[2026_06_22_Gel_Indexed.png]]
 #### B14 indexing primers
 
 | Group: | 0   | i7 -                        | i7 -                       | i7 -                        | i7 -                       | i7 -                       | i7 -                       | i7 -                     | i7 -                     | i7 -                       | i7 -                       | i7 -                       | i7 -                       |
@@ -75,3 +85,8 @@ perform steps as above with one addition:
 - for each row in the gel, **include both a ladder and a non-indexed control**
 - pre- and post-indexed samples should be different sizes
 - **1uL product used to load gel to check indexing**
+
+## Cleaned June 25 and 26 (split into two rounds for cleaning by BRC)
+- successful indexing was cleaned by BRC
+- 
+![[2026_06_25_Gel.png]]
