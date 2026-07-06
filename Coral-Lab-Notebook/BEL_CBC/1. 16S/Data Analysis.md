@@ -1,7 +1,3 @@
-unzip files from filezilla in unity
-```
-unzip *.zip
-```
 
 # Final data analysis troublshooting
 **Apr 21 2026**
