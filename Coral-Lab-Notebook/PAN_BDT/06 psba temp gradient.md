@@ -1,4 +1,9 @@
-
+# overall notes:
+- CNAT best amplified at 70/68.5C. the band was 1500 bp long
+- 092022_ORBI best amplified at 66C (this was the most clear single band). The band was 700 bp long
+- 072024_ORBI was only run at 54.5, but the band was 1500 bp long.
+	- (didn't want extra mastermix to go to waste )
+- **IDEAL annealing temp= 66?**
 # 6.26.26
 Samples
 1. 102023_T3_310_CNAT
@@ -8,14 +13,14 @@ Samples
 **Sample 3 only ran @ temp C=F**
 
 samples are actually in backwards order 
-A=H 
-B=G
-C=F
-D= E
-E=D
-F=C
-G=B
-H=A
+- A=H 
+- B=G
+-  C=F
+- D= E
+- E=D
+- F=C
+- G=B
+- H=A
 
 ## I. PCR
 ### PCR Preparation
@@ -54,7 +59,16 @@ copy and paste calculation table here:
     5. 68°C for 5 minutes
     6. 8°C for Forever
 
+## 2. Gel Electrophoresis
+
 ![[jun26_psba_tempgrad.pdf]]
+
+
+## Notes:
+### concerned about the same primers amplyfying at different sizes depending on which coral host species 
+- CNAT most successful pcr at 68.5/70C
+- 092022_ORBI most successful at 66C
+- 072024_ORBI looks completely different from 092022_ORBI at 54.5C
 
 # 6.25.26
 Samples
@@ -100,9 +114,10 @@ copy and paste calculation table here:
     5. 68°C for 5 minutes
     6. 8°C for Forever
 
-#### Gel Electrophoresis
-**Notes** 
+## Gel Electrophoresis
+
+![[2026_06_25_Gel_psbA.png]]![[2026_06_25_Gel.png|697]] 
+## Notes:
 - Most successful at 63C, still some streaking in CNAT and a band at 1500 and 700 for ORBI
 - Redoing temp gradient from 70-50 June 26
-
-![[2026_06_25_Gel_psbA.png]]![[2026_06_25_Gel.png]]
+- 
